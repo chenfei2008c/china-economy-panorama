@@ -5,4 +5,5 @@
 @media(prefers-reduced-motion:reduce){.panorama-page *{scroll-behavior:auto}}
 
 .pan-mobile-hint{display:none}
+@media(min-width:741px) and (max-width:1000px){.pan-signals-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.pan-signals-grid>.pan-industrial-block{grid-column:1/-1;padding-left:0;padding-top:22px;border-left:0;border-top:1px solid var(--border)}.pan-signals-grid .pan-industrial{min-height:120px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}.pan-signals-grid .pan-industrial>div{align-content:start}.pan-signals-grid .pan-industrial>div>span{font-size:11px}}
 @media(max-width:740px){.pan-mobile-hint{display:block;font-size:10px;color:var(--secondary);margin:0 0 9px!important}}
