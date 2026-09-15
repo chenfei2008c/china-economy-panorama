@@ -1,0 +1,4556 @@
+{
+  "sources": [
+    {
+      "id": "C_S01",
+      "title": "2024年全国科技经费投入统计公报",
+      "publisher": "国家统计局、科学技术部、财政部",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202509/t20250929_1961429.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202509/t20250929_1961429.html",
+      "publication_date": "2025-09-29",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年；2023年强度修订值",
+      "frequency": "年",
+      "location": "一、研发经费；二、财政科技支出；附表1、2；附注1—3",
+      "definition_evidence": "研发经费为报告期实施研发实际发生支出；基础、应用、试验发展分别定义；工业强度分母营业收入，全社会强度分母GDP。统计范围及全面/抽样/重点/资料推算法明确。",
+      "history_evidence": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "coverage_evidence": "附表2逐行列31省研发经费、强度；附表1列规上工业行业；正文列企业、政府研究机构、高校执行主体。",
+      "limitations": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s01"
+    },
+    {
+      "id": "C_S02",
+      "title": "中华人民共和国2025年国民经济和社会发展统计公报",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "publication_date": "2026-02-28",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "年",
+      "location": "第一、九、十、十二部分及注1、4—6、63—64、70—71、88",
+      "definition_evidence": "全员劳动生产率按2020价GDP/全部就业人员；全国人口含31省和现役军人，不含境内港澳台及外籍人员；五等份按调查户人均收入排序分组；高价值发明专利符合五种条件之一；能耗下降指标扣除原料用能和非化石能源。",
+      "history_evidence": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "coverage_evidence": "本次直接核验全国；人口有城乡/性别/年龄、专利有境内、社保按险种，收入五组。不能因国家样本覆盖各地声称地级指标全覆盖。",
+      "limitations": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s02"
+    },
+    {
+      "id": "C_S03",
+      "title": "2025年全国教育事业发展统计公报",
+      "publisher": "教育部",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "definition_url": "https://hudong.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/202607/t20260706_1442870.html",
+      "publication_date": "2026-07-06",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "年",
+      "location": "综合、义务教育、高等教育；注1—5、25—29",
+      "definition_evidence": "各级学校不含军事院校和人社部门技工学校；毛入学/入园与适龄人口分母不同于净入学率；义务巩固率是同届初中毕业班与入小学一年级学生之比；高校生师比为折合在校生/专任教师。",
+      "history_evidence": "教育部公报目录检索见历年条目；直接核验2025公报，年鉴表21-13已目视高教毛率1995—2024与义务巩固率2010—2024序列。2024教育公报直接web访问超时，未将搜索结果冒充原文核验。",
+      "coverage_evidence": "全国各教育层次、普通本科/职业本科/高职及硕博；无本次已读31省统一表。",
+      "limitations": "教育部中职范围与综合公报含技工学校的中职不同；毛入学率不直接衡量教学质量；公报民办义务学生占比存在待核实分母疑点，该项未纳入。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s03"
+    },
+    {
+      "id": "C_S04",
+      "title": "2025年居民收入和消费支出情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb06.pdf",
+      "publication_date": "2026-01-19",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "季（累计）、年",
+      "location": "第一部分；表1、2；附注调查方法和指标解释",
+      "definition_evidence": "收入中位数按调查户人均收入排序；住户收支为16万户调查加权，分城乡按常住地；季度不含自产自用部分，全年包含。四类收入详细定义参见C_S12。",
+      "history_evidence": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "coverage_evidence": "全国、城镇、农村中位数及四类收入；调查涉及31省不代表公开31省五等份表。",
+      "limitations": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s04"
+    },
+    {
+      "id": "C_S05",
+      "title": "知识产权统计数据公开查询指引（2024版）",
+      "publisher": "国家知识产权局",
+      "url": "https://www.cnipa.gov.cn/art/2024/11/26/art_88_196286.html",
+      "definition_url": "https://www.cnipa.gov.cn/art/2024/11/26/art_88_196286.html",
+      "publication_date": "2024-11-26",
+      "access_date": "2026-09-15",
+      "reporting_period": "截至2023年度的查询体系",
+      "frequency": "月、年",
+      "location": "一至四；表1—4及历史数据链接",
+      "definition_evidence": "月报授权/有效量按国内外、权利人类型；年报另列地区/IPC；有效量历史起于2006，申请授权起于1985。",
+      "history_evidence": "原文给出1985—2023申请授权、2006—2023有效、2011—2023 PCT历史表链接及每月/每年发布机制。",
+      "coverage_evidence": "确认有分省、申请人类型、IPC表目录；本轮未逐表读取，不能宣称当年全部细分值已核验。",
+      "limitations": "指引为发布机制证据，不代替2025原值；IPC分类不能直接当国民经济行业分类。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s05"
+    },
+    {
+      "id": "C_S06",
+      "title": "2025年中国专利调查报告",
+      "publisher": "国家知识产权局",
+      "url": "https://www.cnipa.gov.cn/art/2026/4/1/art_88_205590.html",
+      "definition_url": "https://www.cnipa.gov.cn/module/download/downfile.jsp?classid=0&filename=8e0b75d761dd47fdb55f998802fa4219.pdf",
+      "publication_date": "2026-04-01",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年调查；抽样框截至2024年底；2021—2025比较",
+      "frequency": "年",
+      "location": "PDF印刷页22—29、82—84、91—97、163—164（PDF页+7）",
+      "definition_evidence": "产业化率：生产出产品并投放市场的专利占有效专利；专利收益自转化运用日至调查日累计，不是单年利润。分层加权调查，有效企业样本12439、专利34461；样本涉及27省。",
+      "history_evidence": "报告前言明确年度调查；第三部分直接给2021—2025连续数据；产业化平均收益2021首次测算。",
+      "coverage_evidence": "有效专利企业；大型/中型/小型/微型，部分国民经济行业及东中西东北/重点区域；不覆盖无专利企业，高校科研院所不是本年调查对象。",
+      "limitations": "涉及27省不等于公开27省完整结果；调查选择和专利年龄影响收益；平均收益不能除当年研发得到ROI。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s06"
+    },
+    {
+      "id": "C_S07",
+      "title": "2025年全国医疗保障事业发展统计公报",
+      "publisher": "国家医疗保障局",
+      "url": "https://www.nhsa.gov.cn/art/2026/7/16/art_7_21451.html",
+      "definition_url": "https://www.nhsa.gov.cn/art/2026/7/16/art_7_21451.html",
+      "publication_date": "2026-07-16",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "年",
+      "location": "一基本医保；二生育；三救助；七长期护理；说明",
+      "definition_evidence": "职工和城乡居民分制度；职工基金含生育，统筹/个人账户分开；住院费用目录内支付比例分医院级别；医疗救助资助参保人数不含其他部门资助。",
+      "history_evidence": "图题列2020—2025；已访问2024公报、2025快报和2025正式公报。",
+      "coverage_evidence": "全国、职工/居民、在职/退休、医院等级；企业/机关事业/灵活就业仅参保人数细分。",
+      "limitations": "正式公报医保参保133069.39万人、基金收入35921.32亿元、支出30055.19亿元，与3月快报略异，应保存版本。2025长护险扩大到所有实施地区，2023生育待遇人次加入产检，不拼接为同口径增长。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s07"
+    },
+    {
+      "id": "C_S08",
+      "title": "2025年交通运输行业发展统计公报",
+      "publisher": "交通运输部",
+      "url": "https://xxgk.mot.gov.cn/jigou/zhghs/202606/t20260618_4207752.html",
+      "definition_url": "https://xxgk.mot.gov.cn/jigou/zhghs/202606/t20260618_4207752.html",
+      "publication_date": "2026-06-22",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "年",
+      "location": "一基础设施；注释1—6",
+      "definition_evidence": "铁路营业、公路、内河通航均年末里程；营运货运不含管道，跨区域流动不含城市内客运，城市客运另列。",
+      "history_evidence": "本文图题明确2021—2025铁路/公路等序列；年度行业公报。",
+      "coverage_evidence": "全国按运输方式；公路有技术和行政等级，航道有等级；本轮未核验省或城市里程统一表。",
+      "limitations": "里程是物理供给量，不能证明可达性、利用率或投资收益；路网统计口径可能调整，公路客运增速按可比口径。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s08"
+    },
+    {
+      "id": "C_S09",
+      "title": "国家能源局发布2025年全国电力统计数据",
+      "publisher": "国家能源局",
+      "url": "https://www.nea.gov.cn/20260129/6874f211acd0417eab7ac10c3061a7c2/c.html",
+      "definition_url": "https://www.nea.gov.cn/20260129/6874f211acd0417eab7ac10c3061a7c2/c.html",
+      "publication_date": "2026-01-29",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年末、2025全年",
+      "frequency": "月（累计）、年",
+      "location": "正文及全国电力统计数据一览表",
+      "definition_evidence": "装机为截至统计月累计装机；平均利用小时正文范围全国6000千瓦及以上电厂；表内▲是百分点、*是绝对量。",
+      "history_evidence": "能源局栏目已见2025年1—11月、全年等月度发布；本页给全年及同比。",
+      "coverage_evidence": "全国装机按水电/火电/核电/风电/太阳能；平均利用小时本页只给总值；不推断分能源利用小时完整连续公开。",
+      "limitations": "装机是容量而非供电量；新增低利用小时机组改变总平均，不能把下降全部归因于需求弱。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s09"
+    },
+    {
+      "id": "C_S10",
+      "title": "中国统计年鉴2025：表2-11分地区人口年龄构成和抚养比（2024年）",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C02-11.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb02.pdf",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年",
+      "frequency": "年",
+      "location": "表头说明、全国行及31省；人口指标解释p46",
+      "definition_evidence": "表内人口为2024人口变动抽样调查样本数，抽样比1.028‰；总抚养比=(0—14+65岁以上)/15—64；单位样本人数为人。",
+      "history_evidence": "年鉴为年度序列；本轮只目视2024该表，不声称已核验历年省表。",
+      "coverage_evidence": "全国样本及31省样本、0—14/15—64/65+，列总/少儿/老年抚养比。",
+      "limitations": "绝不能把1447437人全国样本数当全国人口；此处劳动年龄15—64与综合公报16—59不同。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s10"
+    },
+    {
+      "id": "C_S11",
+      "title": "中国统计年鉴2025：科技活动基本情况及科学技术指标解释",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C20-01.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb20.pdf",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2020—2024年",
+      "frequency": "年",
+      "location": "表20-1；科学技术解释p651—652",
+      "definition_evidence": "研发人员全时当量是实际研发时间折合人年；研发人员含直接管理服务而不含间接服务；内部研发支出剔除转拨外单位经费。",
+      "history_evidence": "已目视表20-1的2020—2024数据；专利申请2017起由受理数改为申请数脚注；GDP分母用最新核实数据修订。",
+      "coverage_evidence": "全国、基础/应用/试验发展，R&D资金来源政府/企业；本次没有31省全社会FTE表。",
+      "limitations": "全时当量非人数；研发执行主体企业与资金来源企业不同。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s11"
+    },
+    {
+      "id": "C_S12",
+      "title": "中国统计年鉴2025：人民生活主要统计指标解释",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb06.pdf",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb06.pdf",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "方法定义",
+      "frequency": "随年鉴",
+      "location": "p194",
+      "definition_evidence": "工资覆盖报酬福利；经营净收入扣成本折旧生产税；财产净收入排除转让资产所有权的价差；转移净收入为转入减转出；城乡常住人口调整。",
+      "history_evidence": "原文说明2012Q4改革及历史重估；配合C_S04当年值。",
+      "coverage_evidence": "定义覆盖全国/城乡住户指标。",
+      "limitations": "不能把净财产收入解释为资产市值变化；不能把净转移全当政府现金补贴。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s12"
+    },
+    {
+      "id": "C_S13",
+      "title": "中国统计年鉴2025：表20-4规模以上工业企业科技活动基本情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C20-04.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb20.pdf",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2004、2009、2023、2024年",
+      "frequency": "年",
+      "location": "表20-4新产品销售及企业基本情况；脚注",
+      "definition_evidence": "新产品销售收入依科技指标解释，包含认定有效期新产品及企业自行研发投产两年内新产品；有研发活动企业比重分母为规上工业企业。",
+      "history_evidence": "已目视列2004、2009、2023、2024；2011规上门槛500万元改2000万元脚注。",
+      "coverage_evidence": "全国规上工业；分省R&D相关表20-7已另下载并定位，但本轮未完成新产品分省表核验。",
+      "limitations": "不是全社会；跨期企业样本变动；新产品不必是世界首创，收入不等于增加值或利润。web图片读取超时，官网原图已直接下载并目视核验。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s13"
+    },
+    {
+      "id": "C_S14",
+      "title": "中国统计年鉴2025：义务教育巩固率、高中阶段和高等教育毛入学率",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C21-13.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C21-13.jpg",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "1995—2024年（义务巩固率2010年起）",
+      "frequency": "年",
+      "location": "表21-13及年度列",
+      "definition_evidence": "原表列义务教育巩固率、高中与高等教育毛入学率，单位%；用以校验长期发布和历史值，表内未详列高等教育年龄分母。",
+      "history_evidence": "已目视1995—2024高教毛率序列，2024为60.8%，2020为54.4%；义务巩固率2010起。",
+      "coverage_evidence": "全国；未核验分省。",
+      "limitations": "表内未详述年龄分母；完整定义已另由C_S18教育部原始DOCX核验。不能用此历史表证明省级覆盖。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s14"
+    },
+    {
+      "id": "C_S15",
+      "title": "2025年城镇单位就业人员年平均工资情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260515_1963707.html",
+      "publication_date": "2026-05-15",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024—2025年",
+      "frequency": "年",
+      "location": "正文三部分；表1—8；附注1—6",
+      "definition_evidence": "平均工资=就业人员工资总额/就业人员平均人数；税前含个人税费及社保公积金代扣，含实物；不含单位工会经费支出、入股分红、股权激励兑现及资本性收益。城镇地域5人及以上法人单位，不含个体工商户和自由职业者；2025统计306.2万家。",
+      "history_evidence": "本篇表1—5有2024、2025年度对照；表6—8有2025岗位分组，正文同时给规上2024对比；根据企业一套表与劳动工资年报，以全面调查和抽样调查结合。",
+      "coverage_evidence": "已逐表读取：全国、东中西东北四大区域；非私营19行业、私营18行业、规上16行业×5岗位；非私营与规上均有内资、港澳台、外商登记类别。",
+      "limitations": "四区域汇总不证明31省或地级逐项公开。2023登记类型改用国统字〔2023〕14号；行业GB/T4754-2017，岗位按职业分类大典2022年版。非私营不等于国有。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s15"
+    },
+    {
+      "id": "C_S16",
+      "title": "技术合同认定规则（2001年规则官方转载）",
+      "publisher": "科技部；北京市政府官网转载",
+      "url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202402/t20240207_3559191.html",
+      "definition_url": "https://www.beijing.gov.cn/zhengce/zhengcefagui/qtwj/202402/t20240207_3559191.html",
+      "publication_date": "2024-02-07",
+      "access_date": "2026-09-15",
+      "reporting_period": "2001年7月18日起的历史认定规则",
+      "frequency": "制度文件",
+      "location": "第七章第51—52条；第54条",
+      "definition_evidence": "合同交易总额为技术合同成交项目总金额；技术交易额扣除设备仪器零部件原材料等非技术性费用，合理数量标的物直接成本例外；技术性收入指履约所得价款、使用费和报酬。",
+      "history_evidence": "原文第54条自2001年7月18日起施行；用于解释2025年以前口径，2026新办法另见C_S17。",
+      "coverage_evidence": "全国性技术合同认定规则，转载网页并非北京市单独统计口径。",
+      "limitations": "认定登记交易不是全部市场交易；成交总额、技术交易额和实际技术性收入不同。不可用2026年新规则倒推2025分类。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s16"
+    },
+    {
+      "id": "C_S17",
+      "title": "工业和信息化部关于印发《技术合同认定登记管理办法》的通知（工信部科〔2026〕18号）",
+      "publisher": "工业和信息化部；苏州工业园区官网转载附件全文",
+      "url": "https://www.miit.gov.cn/jgsj/kjs/wjfb/art/2026/art_ccf28613115d4960810b3b68253b0a25.html",
+      "definition_url": "https://www.sipac.gov.cn/kjhxxhj/kjzc/202602/0a0c8ecfbde145b3a2e5aa31b625fa8d.shtml",
+      "publication_date": "2026-02-09",
+      "access_date": "2026-09-15",
+      "reporting_period": "2026年3月1日起",
+      "frequency": "制度文件",
+      "location": "工信部原文通知；官方转载管理办法第4、10、15、31条及附件规则第30—32、37条",
+      "definition_evidence": "技术合同成交额为约定成交总金额，技术交易额为其中技术交易部分；里程碑和提成支付按实现金额登记；自愿登记，原则卖方所在地一次登记，可协商买方登记；合同变更须更正。",
+      "history_evidence": "通知成文2026-01-23、发布2026-02-09；管理办法第31条自2026-03-01施行。",
+      "coverage_evidence": "全国认定登记规则；现行分类增加单列技术许可，与历史分类比较需核查。",
+      "limitations": "仅作为2026起制度变更风险提示，未据其重写2025原值。原部委页面附件未直接解析，完整条文已在政府官网转载逐条读取。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s17"
+    },
+    {
+      "id": "C_S18",
+      "title": "教育部关于印发《中国教育监测与评价统计指标体系（2020年版）》的通知及原始附件",
+      "publisher": "教育部",
+      "url": "https://www.moe.gov.cn/srcsite/A03/s182/202101/t20210113_509619.html",
+      "definition_url": "https://www.moe.gov.cn/srcsite/A03/s182/202101/W020210113546624017867.docx",
+      "publication_date": "2021-01-13",
+      "access_date": "2026-09-15",
+      "reporting_period": "2020年版统计指标体系",
+      "frequency": "制度文件",
+      "location": "原DOCX第13项毛入学率、（4）高等教育；第14项义务教育巩固率；抽取段落349—381",
+      "definition_evidence": "高教毛入学率=高等教育在学总规模/18～22岁年龄组人口×100；在学规模=普通本专科+研究生+军事院校本专科+其他学历教育折合学生，其他含成人、网络、自考；第13项说明高等教育只适用于国家级。",
+      "history_evidence": "教育部2020-12-23成文，2021-01-13发布；修订2015指标体系。",
+      "coverage_evidence": "高等教育毛入学率只适用于国家级；义务教育巩固率建议国家级，省级须进一步处理跨地区流动。",
+      "limitations": "web原页/附件超时或重定向；官网HTML通过HTTP读取附件href，再从同域携User-Agent和Referer下载原DOCX成功（190860字节），解压XML核读；没有使用搜索摘要充当原定义。折合规则未逐项明细公开于该段，不自行用学校人数求和复算。",
+      "evidence_file": "work/evidence/C_evidence_index.md#c_s18"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "C001",
+      "name": "研究与试验发展（R&D）经费支出",
+      "family": "创新投入",
+      "module": "研发规模",
+      "definition": "报告期内各单位内部实际发生的研发支出，含基础、应用、试验发展；资金转拨按执行方统计。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "第一部分：2024年36326.8亿元；C_S02第十部分2025初步39262亿元。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G",
+        "S"
+      ],
+      "interpretation": "观察知识生产资源投入。",
+      "companions": [
+        "实际研发人员全时当量",
+        "研发活动类型",
+        "新产品及产业化证据"
+      ],
+      "pitfalls": "名义经费增长不是知识产出或技术进步增长；不与财政支出机械相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "第一部分：2024年36326.8亿元；C_S02第十部分2025初步39262亿元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "附表2逐行列2024经费、强度及2023修订强度。",
+          "limitation": "仅省级，不扩展为地级。"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "企业",
+            "政府属研究机构",
+            "高等学校",
+            "其他主体"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "正文分研发执行主体公布。",
+          "limitation": "这是研发执行主体，非国民账户机构部门完整对应。"
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电热燃气水生产供应业",
+            "各工业行业大类（附表1）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "附表1列分行业经费和经费/营业收入。",
+          "limitation": "仅规上工业，不能直接用行业比率代GDP强度。"
+        }
+      ]
+    },
+    {
+      "id": "C002",
+      "name": "R&D经费投入强度（GDP口径）",
+      "family": "创新投入",
+      "module": "研发规模",
+      "definition": "全社会R&D经费/GDP×100；地区指标分母为地区GDP。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "2024年2.69%；附表2；注2—4。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G"
+      ],
+      "interpretation": "量化研发相对经济体量。",
+      "companions": [
+        "R&D经费原值",
+        "GDP修订版本"
+      ],
+      "pitfalls": "GDP下调可被动提高强度；不是研发资金效率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "2024年2.69%；附表2；注2—4。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "附表2逐行列2024经费、强度及2023修订强度。",
+          "limitation": "仅省级，不扩展为地级。"
+        }
+      ]
+    },
+    {
+      "id": "C003",
+      "name": "基础研究经费",
+      "family": "创新投入",
+      "module": "研发活动类型",
+      "definition": "不预设特定用途、探索基本原理和新知识的实验理论研究的经费支出。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "第一部分分活动类型：2024年2500.9亿元。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G"
+      ],
+      "interpretation": "观察长期知识储备投入。",
+      "companions": [
+        "其他研发活动经费",
+        "专利产业化",
+        "行业周期"
+      ],
+      "pitfalls": "活动阶段不同、周期不同；不能用当年产出除该项认定因果回报。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "第一部分分活动类型：2024年2500.9亿元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C004",
+      "name": "应用研究经费",
+      "family": "创新投入",
+      "module": "研发活动类型",
+      "definition": "为特定实际目标获取新知识、寻找成果用途与实现方法的经费支出。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "第一部分分活动类型：2024年4305.5亿元。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G"
+      ],
+      "interpretation": "观察面向实际目的的知识开发。",
+      "companions": [
+        "其他研发活动经费",
+        "专利产业化",
+        "行业周期"
+      ],
+      "pitfalls": "活动阶段不同、周期不同；不能用当年产出除该项认定因果回报。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "第一部分分活动类型：2024年4305.5亿元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C005",
+      "name": "试验发展经费",
+      "family": "创新投入",
+      "module": "研发活动类型",
+      "definition": "利用科研与经验知识开发或改进产品、工艺的系统性工作的经费支出。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "第一部分分活动类型：2024年29520.4亿元。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G"
+      ],
+      "interpretation": "观察研发走向产品工艺的资源配置。",
+      "companions": [
+        "其他研发活动经费",
+        "专利产业化",
+        "行业周期"
+      ],
+      "pitfalls": "活动阶段不同、周期不同；不能用当年产出除该项认定因果回报。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "第一部分分活动类型：2024年29520.4亿元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C006",
+      "name": "R&D人员全时当量",
+      "family": "创新投入",
+      "module": "研发人力",
+      "definition": "研发人员按实际从事研发时间折合的全年工作量，包含直接研发管理服务。",
+      "unit": "万人年",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S11",
+      "source_locator": "表20-1：2024年756.9，基础59.7、应用89.2、试验发展607.9。",
+      "history": "已目视表20-1的2020—2024数据；专利申请2017起由受理数改为申请数脚注；GDP分母用最新核实数据修订。",
+      "breaks": "全时当量非人数；研发执行主体企业与资金来源企业不同。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G"
+      ],
+      "interpretation": "观察研发实际劳动投入。",
+      "companions": [
+        "R&D经费",
+        "研发执行主体"
+      ],
+      "pitfalls": "不是研发人员人数，不能解读为新增就业人数。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S11"
+          ],
+          "evidence": "表20-1：2024年756.9，基础59.7、应用89.2、试验发展607.9。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "不适用",
+          "members": [],
+          "source_ids": [
+            "C_S11"
+          ],
+          "evidence": "此表分活动类型，不是行业分类。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "规模以上工业企业"
+          ],
+          "source_ids": [
+            "C_S13"
+          ],
+          "evidence": "表20-4列2024年494.5万人年。",
+          "limitation": "规上企业FTE是子集。"
+        }
+      ]
+    },
+    {
+      "id": "C007",
+      "name": "R&D人员全时当量人均经费",
+      "family": "创新投入",
+      "module": "研发投入组合",
+      "definition": "研发支出除研发人员全时当量的官方人均经费。",
+      "unit": "万元/人年",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "第一部分：2024年48.0万元。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G"
+      ],
+      "interpretation": "辅助观察研发资本与劳动投入组合。",
+      "companions": [
+        "研发人员全时当量",
+        "R&D支出类型"
+      ],
+      "pitfalls": "经费包含资本购置等，不是研究人员平均工资或劳动生产率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "第一部分：2024年48.0万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C008",
+      "name": "企业执行R&D经费占比",
+      "family": "创新投入",
+      "module": "创新主体",
+      "definition": "企业作为执行主体发生的研发经费占全社会研发经费。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "正文：2024年28211.6亿元，占77.7%。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "考察研发执行是否集中于企业。",
+      "companions": [
+        "高校/政府研究机构经费",
+        "研发资金来源"
+      ],
+      "pitfalls": "不得与表20-1的企业来源资金28870.4亿元混用。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "正文：2024年28211.6亿元，占77.7%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "企业",
+            "政府属研究机构",
+            "高等学校",
+            "其他主体"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "正文分研发执行主体公布。",
+          "limitation": "这是研发执行主体，非国民账户机构部门完整对应。"
+        }
+      ]
+    },
+    {
+      "id": "C009",
+      "name": "规模以上高技术制造业R&D经费投入强度",
+      "family": "创新投入",
+      "module": "产业研发密度",
+      "definition": "规模以上高技术制造业R&D经费与营业收入之比。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "分产业部门：2024经费7668.9亿元，强度3.35%。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "比较高技术生产部门研发密度。",
+      "companions": [
+        "高技术行业利润",
+        "营业收入",
+        "研发周期"
+      ],
+      "pitfalls": "分母销售收入不是增加值；与全国GDP强度不可横比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "分产业部门：2024经费7668.9亿元，强度3.35%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "高技术制造业"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "分产业部门正文。",
+          "limitation": "本轮未核验高技术六类分表。"
+        }
+      ]
+    },
+    {
+      "id": "C010",
+      "name": "国家财政科学技术支出",
+      "family": "创新投入",
+      "module": "公共研发条件",
+      "definition": "国家财政科技支出，包括科学技术功能科目及其他功能支出用于科学技术的金额。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S01",
+      "source_locator": "第二部分及表：2024年12629.2，其中科学技术11510.3、其他1118.9。",
+      "history": "已核验2024值、2023修订强度；年鉴2025表20-1有2020—2024原值；统计局科技经费公报栏目存在历年发布。",
+      "breaks": "2024 GDP为初核；2023 GDP五经普后修订影响强度。财政科技支出包含其他功能科目用于科技部分，不能仅用一般公共预算科学技术科目代替。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S",
+        "D"
+      ],
+      "interpretation": "观察公共科技资源支持。",
+      "companions": [
+        "政府来源R&D资金",
+        "基础研究经费"
+      ],
+      "pitfalls": "不是全部投入R&D；不与全社会R&D相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "第二部分及表：2024年12629.2，其中科学技术11510.3、其他1118.9。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "中央财政",
+            "地方财政"
+          ],
+          "source_ids": [
+            "C_S01"
+          ],
+          "evidence": "中央4192.5、地方8436.7亿元。",
+          "limitation": "不是31省分配明细。"
+        }
+      ]
+    },
+    {
+      "id": "C011",
+      "name": "发明专利授权量",
+      "family": "创新产出",
+      "module": "专利权利",
+      "definition": "报告期经国家知识产权局授予的发明专利权数量，包括境内及国外权利人在中国获授权的权利。",
+      "unit": "万件",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "中国授权的发明专利（含境外权利人）",
+      "source_id": "C_S02",
+      "source_locator": "第十部分表17：2025年97.2万件（境内89.7）。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I"
+      ],
+      "interpretation": "观察技术权利产生或累积。",
+      "companions": [
+        "产业化率",
+        "新产品销售",
+        "专利年龄结构"
+      ],
+      "pitfalls": "授权量受审查与申请滞后影响；有效量受失效续费影响；均不能直接代表经济回报。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国授权的发明专利（含境外权利人）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十部分表17：2025年97.2万件（境内89.7）。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国内外",
+            "境内专利权人"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "表17有境内授权/有效量；C_S05列更细目录。",
+          "limitation": "未逐表核验全部申请人类型。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S05"
+          ],
+          "evidence": "指引确认地区表与历史表存在。",
+          "limitation": "只有发布目录证据，非2025逐省值已核验。"
+        }
+      ]
+    },
+    {
+      "id": "C012",
+      "name": "有效发明专利量",
+      "family": "创新产出",
+      "module": "专利权利",
+      "definition": "报告期末仍处于专利权维持状态的发明专利数量，包括境内及国外权利人在中国获授权的权利。",
+      "unit": "万件",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "中国授权的发明专利（含境外权利人）",
+      "source_id": "C_S02",
+      "source_locator": "第十部分表17：2025年631.8万件（境内532.0）。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I"
+      ],
+      "interpretation": "观察技术权利产生或累积。",
+      "companions": [
+        "产业化率",
+        "新产品销售",
+        "专利年龄结构"
+      ],
+      "pitfalls": "授权量受审查与申请滞后影响；有效量受失效续费影响；均不能直接代表经济回报。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国授权的发明专利（含境外权利人）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十部分表17：2025年631.8万件（境内532.0）。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国内外",
+            "境内专利权人"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "表17有境内授权/有效量；C_S05列更细目录。",
+          "limitation": "未逐表核验全部申请人类型。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S05"
+          ],
+          "evidence": "指引确认地区表与历史表存在。",
+          "limitation": "只有发布目录证据，非2025逐省值已核验。"
+        }
+      ]
+    },
+    {
+      "id": "C013",
+      "name": "每万人口高价值发明专利拥有量",
+      "family": "创新产出",
+      "module": "质量代理",
+      "definition": "每万人口本国居民拥有的有效发明专利中，符合战略新兴/海外同族/维持超10年/较高质押融资/国家科技奖或中国专利奖任一条件的数量。",
+      "unit": "件/万人",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第十部分及注71：2025年16件。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "提供比一般件数更有筛选条件的权利存量代理。",
+      "companions": [
+        "高价值分类条件",
+        "产业化收益"
+      ],
+      "pitfalls": "仍非市场价值总量，五条件之间不可重复求和。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十部分及注71：2025年16件。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C014",
+      "name": "PCT国际专利申请受理量",
+      "family": "创新产出",
+      "module": "海外布局",
+      "definition": "国家知识产权局作为PCT受理局所受理国际申请数量。",
+      "unit": "万件",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第十部分及注70：2025年7.8万件。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "观察通过PCT路径寻求多国保护的活动。",
+      "companions": [
+        "海外授权和同族",
+        "国际市场收入"
+      ],
+      "pitfalls": "PCT受理不是海外授权；不能代表全部海外专利布局。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十部分及注70：2025年7.8万件。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S05"
+          ],
+          "evidence": "目录有2011—2023分地区PCT表。",
+          "limitation": "未逐省读取2025数据。"
+        }
+      ]
+    },
+    {
+      "id": "C015",
+      "name": "企业发明专利产业化率",
+      "family": "创新运用",
+      "module": "转化实现",
+      "definition": "有效发明专利中用于生产产品并投放市场的比例；可自行或许可他人实现产业化。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "不适用",
+      "population": "27省抽样框内拥有2024年末有效专利的国内企业及其专利",
+      "source_id": "C_S06",
+      "source_locator": "印刷页22、84、164：2025年54.0%，2024年53.3%。",
+      "history": "报告前言明确年度调查；第三部分直接给2021—2025连续数据；产业化平均收益2021首次测算。",
+      "breaks": "涉及27省不等于公开27省完整结果；调查选择和专利年龄影响收益；平均收益不能除当年研发得到ROI。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "G",
+        "S"
+      ],
+      "interpretation": "检验受保护成果是否进入产品市场。",
+      "companions": [
+        "发明授权/有效量",
+        "专利年龄",
+        "新产品销售"
+      ],
+      "pitfalls": "样本只含既有专利企业；未产业化可能是战略储备；不能把产业化率当盈利率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "27省抽样框内拥有2024年末有效专利的国内企业及其专利"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页22、84、164：2025年54.0%，2024年53.3%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "大型",
+            "中型",
+            "小型",
+            "微型"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页22—23图19—20逐项列值。",
+          "limitation": "仅拥有有效专利企业，非所有企业。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "金属制品",
+            "通用设备",
+            "专用设备",
+            "医药制造",
+            "专业技术服务",
+            "研究和试验发展"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页23图21正文列明确数值。",
+          "limitation": "未宣称所有行业均有可靠估计。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "调查涉及27省；结果本轮只核验东中西东北及重点区域聚合"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页91列27省；75—76列区域结果。",
+          "limitation": "抽样地区覆盖不等于27省结果公开。"
+        }
+      ]
+    },
+    {
+      "id": "C016",
+      "name": "企业发明专利产业化平均收益",
+      "family": "创新运用",
+      "module": "收益验证",
+      "definition": "调查中已产业化发明专利自转化运用日至接受调查日取得的产业化收益金额平均值。",
+      "unit": "万元/件",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "受调查国内企业的已产业化发明专利",
+      "source_id": "C_S06",
+      "source_locator": "印刷页27图27、164定义：2025调查872.0，2024调查869.5。",
+      "history": "报告前言明确年度调查；第三部分直接给2021—2025连续数据；产业化平均收益2021首次测算。",
+      "breaks": "涉及27省不等于公开27省完整结果；调查选择和专利年龄影响收益；平均收益不能除当年研发得到ROI。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I"
+      ],
+      "interpretation": "补充进入市场后的收益信息。",
+      "companions": [
+        "产业化收益区间",
+        "专利年龄和研发成本",
+        "企业财务表现"
+      ],
+      "pitfalls": "累计期限不等长、问卷估计；不是2025全年利润、项目IRR或因果净回报。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "受调查国内企业的已产业化发明专利"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页27图27、164定义：2025调查872.0，2024调查869.5。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "大型",
+            "中型",
+            "小型",
+            "微型"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页22—23图19—20逐项列值。",
+          "limitation": "仅拥有有效专利企业，非所有企业。"
+        }
+      ]
+    },
+    {
+      "id": "C017",
+      "name": "企业发明专利研发获取比例",
+      "family": "创新产出",
+      "module": "研发与购买路径",
+      "definition": "企业发明专利通过研发方式获得而非转让获取的比例。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "不适用",
+      "population": "国内企业拥有的有效发明专利",
+      "source_id": "C_S06",
+      "source_locator": "印刷页1、9、82：2025年87.4%，2024年86.6%。",
+      "history": "报告前言明确年度调查；第三部分直接给2021—2025连续数据；产业化平均收益2021首次测算。",
+      "breaks": "涉及27省不等于公开27省完整结果；调查选择和专利年龄影响收益；平均收益不能除当年研发得到ROI。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "区分内部/合作研发与技术权利购买。",
+      "companions": [
+        "研发合作类型",
+        "技术引进和消化支出"
+      ],
+      "pitfalls": "研发获取包括合作模式，不代表完全自主或无外部技术依赖。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "国内企业拥有的有效发明专利"
+          ],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "印刷页1、9、82：2025年87.4%，2024年86.6%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S06"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C018",
+      "name": "规模以上工业企业新产品销售收入",
+      "family": "创新运用",
+      "module": "新产品市场实现",
+      "definition": "企业销售按统计定义的新产品实现的收入；包括认定新产品及自行研发投产两年内的新产品。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "规模以上工业企业",
+      "source_id": "C_S13",
+      "source_locator": "表20-4：2024年354694.3亿元；定义p651。",
+      "history": "已目视列2004、2009、2023、2024；2011规上门槛500万元改2000万元脚注。",
+      "breaks": "不是全社会；跨期企业样本变动；新产品不必是世界首创，收入不等于增加值或利润。web图片读取超时，官网原图已直接下载并目视核验。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "检验新产品获得销售市场规模。",
+      "companions": [
+        "新产品成本利润",
+        "销售收入总额",
+        "研发活动企业比例"
+      ],
+      "pitfalls": "不必为世界首创；销售收入不是利润或增加值；不能与全社会GDP相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规模以上工业企业"
+          ],
+          "source_ids": [
+            "C_S13"
+          ],
+          "evidence": "表20-4：2024年354694.3亿元；定义p651。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S13"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C019",
+      "name": "有R&D活动的规模以上工业企业比重",
+      "family": "创新投入",
+      "module": "创新扩散",
+      "definition": "有研发活动企业数/规模以上工业企业总数。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "规模以上工业企业",
+      "source_id": "C_S13",
+      "source_locator": "表20-4：2024年161928个、31.3%；2023年30.7%。",
+      "history": "已目视列2004、2009、2023、2024；2011规上门槛500万元改2000万元脚注。",
+      "breaks": "不是全社会；跨期企业样本变动；新产品不必是世界首创，收入不等于增加值或利润。web图片读取超时，官网原图已直接下载并目视核验。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "I",
+        "S"
+      ],
+      "interpretation": "衡量企业开展研发活动的扩散面。",
+      "companions": [
+        "R&D强度",
+        "企业规模和所有制"
+      ],
+      "pitfalls": "企业数比例不按产出权重；样本进退与规上门槛影响比较。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规模以上工业企业"
+          ],
+          "source_ids": [
+            "C_S13"
+          ],
+          "evidence": "表20-4：2024年161928个、31.3%；2023年30.7%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S13"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C020",
+      "name": "全员劳动生产率",
+      "family": "要素效率",
+      "module": "结果验证",
+      "definition": "国内生产总值（2020年价格）与全部就业人员的比率，采用官方发布结果。",
+      "unit": "元/人",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "全年",
+      "population": "全国全部就业人员",
+      "source_id": "C_S02",
+      "source_locator": "第一部分及注4：2025年184413元/人，提高6.1%。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "I"
+      ],
+      "interpretation": "观察单位就业劳动对应的实际产出。",
+      "companions": [
+        "资本深化",
+        "工作时长",
+        "产业就业结构",
+        "研发人力"
+      ],
+      "pitfalls": "不是TFP或每小时产出；不使用名义GDP/年末就业人数重算替代。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国全部就业人员"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第一部分及注4：2025年184413元/人，提高6.1%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C021",
+      "name": "年末人口数",
+      "family": "人口与人力资本",
+      "module": "人口规模",
+      "definition": "12月31日24时大陆31省与现役军人人口；不含境内港澳台居民及外籍人员。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第一部分与注5：2025年140489万人。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "D",
+        "S"
+      ],
+      "interpretation": "提供人均指标与长期劳动供给边界。",
+      "companions": [
+        "年龄结构",
+        "劳动力参与",
+        "净迁移"
+      ],
+      "pitfalls": "不等于劳动力或消费者有效需求；抽样人数表不可代替人口估计。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第一部分与注5：2025年140489万人。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "城镇",
+            "乡村",
+            "男性",
+            "女性"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "表1列城乡、性别。",
+          "limitation": "不能声称市县均有同年全量数据。"
+        }
+      ]
+    },
+    {
+      "id": "C022",
+      "name": "年末分年龄人口",
+      "family": "人口与人力资本",
+      "module": "年龄结构",
+      "definition": "综合公报按0—15、16—59、60及以上及其中65及以上划分，保留互相包含关系。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "表1：2025年23015、85136、32338、22365；注6另列0—14为21276，15—59为86875。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "D",
+        "S"
+      ],
+      "interpretation": "识别劳动力年龄基础和养老/教育需求。",
+      "companions": [
+        "参与率",
+        "就业人数",
+        "抚养比"
+      ],
+      "pitfalls": "60+含65+不可相加；16—59与15—64抚养比分母不一致；法定年龄不等于实际就业。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "表1：2025年23015、85136、32338、22365；注6另列0—14为21276，15—59为86875。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "0—15",
+            "16—59",
+            "60+",
+            "65+（包含于60+）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "表1及注6。",
+          "limitation": "31省年龄样本另见C_S10，不能直接视为此总体估计。"
+        }
+      ]
+    },
+    {
+      "id": "C023",
+      "name": "人口出生率",
+      "family": "人口与人力资本",
+      "module": "人口变动",
+      "definition": "年内活产出生人数/年平均人口×1000。",
+      "unit": "‰",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第一部分：2025年5.63‰；定义C_S10附人口指标解释。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "D"
+      ],
+      "interpretation": "观察人口自然变动与未来年龄队列。",
+      "companions": [
+        "死亡率",
+        "年龄结构",
+        "人口迁移"
+      ],
+      "pitfalls": "出生率不是总和生育率；自然增长不含迁移，不能推出地区总人口变化。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第一部分：2025年5.63‰；定义C_S10附人口指标解释。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C024",
+      "name": "人口自然增长率",
+      "family": "人口与人力资本",
+      "module": "人口变动",
+      "definition": "年内出生减死亡人数/年平均人口×1000。",
+      "unit": "‰",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第一部分：2025年-2.41‰；定义C_S10附人口指标解释。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "D"
+      ],
+      "interpretation": "观察人口自然变动与未来年龄队列。",
+      "companions": [
+        "死亡率",
+        "年龄结构",
+        "人口迁移"
+      ],
+      "pitfalls": "出生率不是总和生育率；自然增长不含迁移，不能推出地区总人口变化。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第一部分：2025年-2.41‰；定义C_S10附人口指标解释。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C025",
+      "name": "人口年龄抽样调查分组样本数",
+      "family": "人口与人力资本",
+      "module": "抚养比核验输入",
+      "definition": "人口变动抽样调查样本中0—14、15—64、65岁及以上人数，原表数为样本人数。",
+      "unit": "人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "2024人口变动抽样调查入样人口",
+      "source_id": "C_S10",
+      "source_locator": "全国行：228905、991861、226671，合计1447437。",
+      "history": "年鉴为年度序列；本轮只目视2024该表，不声称已核验历年省表。",
+      "breaks": "绝不能把1447437人全国样本数当全国人口；此处劳动年龄15—64与综合公报16—59不同。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "D"
+      ],
+      "interpretation": "提供抚养比复算分子分母。",
+      "companions": [
+        "总抚养比",
+        "人口总体估计"
+      ],
+      "pitfalls": "绝不能将样本人数外推为各地实际人口；抽样误差存在。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "2024人口变动抽样调查入样人口"
+          ],
+          "source_ids": [
+            "C_S10"
+          ],
+          "evidence": "全国行：228905、991861、226671，合计1447437。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S10"
+          ],
+          "evidence": "31省逐行样本人数及抚养比。",
+          "limitation": "省级人口数是样本数。"
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "0—14",
+            "15—64",
+            "65+"
+          ],
+          "source_ids": [
+            "C_S10"
+          ],
+          "evidence": "列标题。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "C026",
+      "name": "总抚养比（人口抽样表口径）",
+      "family": "人口与人力资本",
+      "module": "抚养压力",
+      "definition": "非劳动年龄样本人数（0—14与65+）/15—64岁样本人数×100。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "2024人口变动抽样调查口径",
+      "source_id": "C_S10",
+      "source_locator": "全国行2024年45.93%；人口定义p46。",
+      "history": "年鉴为年度序列；本轮只目视2024该表，不声称已核验历年省表。",
+      "breaks": "绝不能把1447437人全国样本数当全国人口；此处劳动年龄15—64与综合公报16—59不同。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "D"
+      ],
+      "interpretation": "观察人口年龄结构潜在支持负担。",
+      "companions": [
+        "就业抚养比",
+        "养老金制度",
+        "劳动参与率"
+      ],
+      "pitfalls": "是人口年龄比，不是实际每名就业者负担；不能以16—59代分母。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "2024人口变动抽样调查口径"
+          ],
+          "source_ids": [
+            "C_S10"
+          ],
+          "evidence": "全国行2024年45.93%；人口定义p46。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "C_S10"
+          ],
+          "evidence": "31省总、少儿、老年抚养比均列。",
+          "limitation": "本轮只验证2024样本表。"
+        }
+      ]
+    },
+    {
+      "id": "C027",
+      "name": "16—59岁人口平均受教育年限",
+      "family": "人口与人力资本",
+      "module": "人力资本",
+      "definition": "16—59岁人口按教育程度折合的平均受教育年限，直接用官方平均数。",
+      "unit": "年",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "不适用",
+      "population": "全国16—59岁人口",
+      "source_id": "C_S02",
+      "source_locator": "第十部分：2025年11.3年，上年提高0.1年。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "公报未详列各教育程度折算权重，本轮仅使用发布值，不自行回推个体教育结构。",
+      "systems": [
+        "G",
+        "I",
+        "S"
+      ],
+      "interpretation": "观察劳动年龄人口教育积累。",
+      "companions": [
+        "教育层次",
+        "技能需求",
+        "劳动生产率"
+      ],
+      "pitfalls": "折合教育年数不是技能质量、教育回报或就业匹配。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国16—59岁人口"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十部分：2025年11.3年，上年提高0.1年。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C028",
+      "name": "高等教育毛入学率",
+      "family": "人口与人力资本",
+      "module": "教育覆盖",
+      "definition": "高等教育在学总规模/18～22岁年龄组人口数×100。在学总规模包括普通本专科、研究生、军事院校本专科及其他学历教育折合学生数；其他学历教育含成人本专科、网络本专科和自学考试等。分子不限制在18～22岁。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国高等教育在学总规模与18～22岁年龄组人口；毛率按教育部国家级口径。",
+      "source_id": "C_S03",
+      "source_locator": "C_S03综合：2025年61.30%；C_S14表21-13验证1995—2024长期公开序列。 完整定义见C_S18第13项（4），原DOCX抽取段落349—368。",
+      "history": "已目视1995—2024高教毛率序列，2024为60.8%，2020为54.4%；义务巩固率2010起。",
+      "breaks": "年龄队列和其他学历折合规则影响比较；完整定义的在学规模含军事院校，与教育公报中不含军事院校的学校、教师具体分项范围不同，不混加分子。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "本轮采用官方毛率原值；分母为18～22岁人口，分子包括其他学历折合学生，不自行把各在校人数简单相加复算。指标体系明确高等教育毛率只适用于国家级。",
+      "systems": [
+        "G",
+        "D",
+        "S"
+      ],
+      "interpretation": "反映高等教育覆盖规模。",
+      "companions": [
+        "受教育年限",
+        "毕业生与就业质量",
+        "C_S14高等教育毛率历史表"
+      ],
+      "pitfalls": "不是适龄人口实际在校比例、个人升学概率或教学质量指标；年龄不受限的分子与18～22岁分母不可误称净入学率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "教育部教育事业统计范围"
+          ],
+          "source_ids": [
+            "C_S03",
+            "C_S18"
+          ],
+          "evidence": "综合：2025年61.30%",
+          "limitation": "完整定义含军事院校本专科及其他学历折合学生。"
+        },
+        {
+          "dimension": "省级",
+          "status": "不适用",
+          "members": [],
+          "source_ids": [
+            "C_S18"
+          ],
+          "evidence": "C_S18第13项明确高等教育毛入学率只适用于国家级。",
+          "limitation": "省级自定义毛率不得直接并入此国家级口径。"
+        }
+      ]
+    },
+    {
+      "id": "C029",
+      "name": "九年义务教育巩固率",
+      "family": "人口与人力资本",
+      "module": "教育覆盖",
+      "definition": "初中毕业班学生数/该届入小学一年级人数×100。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "教育部教育事业统计范围",
+      "source_id": "C_S03",
+      "source_locator": "综合及注4：2025年96.10%；完整定义另见C_S18第14项（初中毕业班/入学一年级，须处理休复学、转学、重读）。",
+      "history": "2025教育公报按年发布；高教毛率与义务巩固历史另由C_S14实表核验；本轮不声称已转录本指标全部历年值。",
+      "breaks": "教育部中职范围与综合公报含技工学校的中职不同；毛入学率不直接衡量教学质量；公报民办义务学生占比存在待核实分母疑点，该项未纳入。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。；队列比须处理休学、复学、转学和重读；省级还受跨地区流动影响，定义建议国家级。",
+      "systems": [
+        "G",
+        "D",
+        "S"
+      ],
+      "interpretation": "观察义务教育队列保留。",
+      "companions": [
+        "受教育年限",
+        "毕业生与就业质量"
+      ],
+      "pitfalls": "毛率/队列率均非教育质量；人口队列变化影响分母。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "教育部教育事业统计范围"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "综合及注4：2025年96.10%",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C030",
+      "name": "普通、职业本专科毕业生数",
+      "family": "人口与人力资本",
+      "module": "技能供给",
+      "definition": "普通本科、职业本科和高职专科完成学业毕业人数。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "教育部教育统计口径",
+      "source_id": "C_S03",
+      "source_locator": "高等教育：2025年1105.10万人",
+      "history": "2025教育公报按年发布；高教毛率与义务巩固历史另由C_S14实表核验；本轮不声称已转录本指标全部历年值。",
+      "breaks": "教育部中职范围与综合公报含技工学校的中职不同；毛入学率不直接衡量教学质量；公报民办义务学生占比存在待核实分母疑点，该项未纳入。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "I",
+        "S"
+      ],
+      "interpretation": "观察高级人才培养与潜在供给。",
+      "companions": [
+        "专业结构",
+        "就业岗位",
+        "研发人员"
+      ],
+      "pitfalls": "毕业不是新增就业；学历不是技能或创新产出。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "教育部教育统计口径"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育：2025年1105.10万人",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "普通本科",
+            "职业本科",
+            "高职专科"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育正文。",
+          "limitation": "无本轮已核验省份或专业完整分表。"
+        }
+      ]
+    },
+    {
+      "id": "C031",
+      "name": "研究生毕业生数",
+      "family": "人口与人力资本",
+      "module": "技能供给",
+      "definition": "研究生培养单位博士与硕士毕业人数。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "教育部教育统计口径",
+      "source_id": "C_S03",
+      "source_locator": "高等教育：2025年116.65万人，博士11.29、硕士105.36",
+      "history": "2025教育公报按年发布；高教毛率与义务巩固历史另由C_S14实表核验；本轮不声称已转录本指标全部历年值。",
+      "breaks": "教育部中职范围与综合公报含技工学校的中职不同；毛入学率不直接衡量教学质量；公报民办义务学生占比存在待核实分母疑点，该项未纳入。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "G",
+        "I",
+        "S"
+      ],
+      "interpretation": "观察高级人才培养与潜在供给。",
+      "companions": [
+        "专业结构",
+        "就业岗位",
+        "研发人员"
+      ],
+      "pitfalls": "毕业不是新增就业；学历不是技能或创新产出。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "教育部教育统计口径"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育：2025年116.65万人，博士11.29、硕士105.36",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "博士",
+            "硕士"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育正文。",
+          "limitation": "无本轮已核验省份或专业完整分表。"
+        }
+      ]
+    },
+    {
+      "id": "C032",
+      "name": "在学研究生数",
+      "family": "人口与人力资本",
+      "module": "技能供给",
+      "definition": "研究生培养单位在学博士与硕士人数。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "教育部教育统计口径",
+      "source_id": "C_S03",
+      "source_locator": "高等教育：2025年429.95万人，博士75.36、硕士354.60",
+      "history": "2025教育公报按年发布；高教毛率与义务巩固历史另由C_S14实表核验；本轮不声称已转录本指标全部历年值。",
+      "breaks": "教育部中职范围与综合公报含技工学校的中职不同；毛入学率不直接衡量教学质量；公报民办义务学生占比存在待核实分母疑点，该项未纳入。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。 教育在校/教师时点按年度教育统计口径；本轮未核验具体基准日，不解释成12月31日人口。",
+      "systems": [
+        "G",
+        "I",
+        "S"
+      ],
+      "interpretation": "观察高级人才培养与潜在供给。",
+      "companions": [
+        "专业结构",
+        "就业岗位",
+        "研发人员"
+      ],
+      "pitfalls": "毕业不是新增就业；学历不是技能或创新产出。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "教育部教育统计口径"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育：2025年429.95万人，博士75.36、硕士354.60",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "博士",
+            "硕士"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育正文。",
+          "limitation": "无本轮已核验省份或专业完整分表。"
+        }
+      ]
+    },
+    {
+      "id": "C033",
+      "name": "高等教育专任教师数",
+      "family": "人口与人力资本",
+      "module": "教育资源",
+      "definition": "普通本科、职业本科、高职专科、成人高校承担高等教育的专任教师，不含附设其他层级教师。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S03",
+      "source_locator": "高等教育及注27：2025年222.36万人。",
+      "history": "2025教育公报按年发布；高教毛率与义务巩固历史另由C_S14实表核验；本轮不声称已转录本指标全部历年值。",
+      "breaks": "教育部中职范围与综合公报含技工学校的中职不同；毛入学率不直接衡量教学质量；公报民办义务学生占比存在待核实分母疑点，该项未纳入。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。 教育在校/教师时点按年度教育统计口径；本轮未核验具体基准日，不解释成12月31日人口。",
+      "systems": [
+        "G",
+        "S"
+      ],
+      "interpretation": "观察教育供给资源。",
+      "companions": [
+        "折合生师比",
+        "生均教学科研设备",
+        "教育质量"
+      ],
+      "pitfalls": "不是全社会研究人员数，不能全部计入研发人员。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育及注27：2025年222.36万人。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "普通本科高校",
+            "职业本科高校",
+            "高职专科高校",
+            "成人高校"
+          ],
+          "source_ids": [
+            "C_S03"
+          ],
+          "evidence": "高等教育正文分项。",
+          "limitation": "学校类别不是国民账户机构部门。"
+        }
+      ]
+    },
+    {
+      "id": "C034",
+      "name": "居民人均可支配收入中位数",
+      "family": "收入分布",
+      "module": "位置差异",
+      "definition": "把调查户按人均收入排序，取中间调查户的人均可支配收入。",
+      "unit": "元/人",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "2025年全国36231，城镇51115，农村20711。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "与平均值对照识别收入分布偏斜。",
+      "companions": [
+        "人均可支配收入平均数",
+        "五等份",
+        "收入构成"
+      ],
+      "pitfalls": "不是个人工资中位数；不反映分布全部形状。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "2025年全国36231，城镇51115，农村20711。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C035",
+      "name": "全国居民五等份组人均可支配收入",
+      "family": "收入分布",
+      "module": "分位组差异",
+      "definition": "按调查户人均收入从低到高将户分五等份，分别报告各组人均可支配收入。",
+      "unit": "元/人",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第九部分与注64：2025低10150、中偏下22702、中35536、中偏上55586、高103778。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "观察不同收入家庭组的收入水平。",
+      "companions": [
+        "组内分布",
+        "家庭人口",
+        "中位数"
+      ],
+      "pitfalls": "五组按户划分，非人口各20%；组均值不是P20/P80分位点，不能据五个均值精确算基尼。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第九部分与注64：2025低10150、中偏下22702、中35536、中偏上55586、高103778。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "低收入",
+            "中间偏下",
+            "中间",
+            "中间偏上",
+            "高收入"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "正文与注64。",
+          "limitation": "只核验全国分组，不外推31省或地级。"
+        },
+        {
+          "dimension": "地级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得稳定同口径地级五等份公开依据。",
+          "limitation": "全国调查县区覆盖不是公开地级分布。"
+        }
+      ]
+    },
+    {
+      "id": "C036",
+      "name": "五等份高低收入组均值比",
+      "family": "收入分布",
+      "module": "组间差距",
+      "definition": "全国五等份高收入组人均可支配收入/低收入组人均可支配收入。",
+      "unit": "倍",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第九部分两组原值：103778/10150=10.2244。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "透明派生",
+      "formula": "C035[高收入组]/C035[低收入组]",
+      "inputs": [
+        "C035"
+      ],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "给出可复算的尾部组均值差距。",
+      "companions": [
+        "五等份原值",
+        "中位数",
+        "组内不平等"
+      ],
+      "pitfalls": "不是P90/P10，不是基尼，也不是高低家庭资产差距。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第九部分两组原值：103778/10150=10.2244。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国五等份高收入组",
+            "全国五等份低收入组"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "同一调查报告期和分组方法。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "C037",
+      "name": "收入中位数与平均数之比",
+      "family": "收入分布",
+      "module": "位置差异",
+      "definition": "同一居民总体的人均可支配收入中位数/平均数；这里使用官方发布比率。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "第一部分：2025全国83.5%、城镇90.5%、农村84.7%。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "辅助观察均值受高收入端影响的程度。",
+      "companions": [
+        "中位数",
+        "均值",
+        "五等份"
+      ],
+      "pitfalls": "比例不是不平等完整统计量，不能单独判断所有居民改善。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "第一部分：2025全国83.5%、城镇90.5%、农村84.7%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C038",
+      "name": "城乡居民人均可支配收入比",
+      "family": "收入分布",
+      "module": "城乡差距",
+      "definition": "城镇常住居民人均可支配收入/农村常住居民人均可支配收入。",
+      "unit": "倍",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "表1：2025年56502/24456=2.31035。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "透明派生",
+      "formula": "A014[城镇]/A014[农村]",
+      "inputs": [
+        "A014"
+      ],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。 A014按城镇/农村选择同年人均可支配收入，2025为56502/24456元。",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "观察常住地收入组间平均差距。",
+      "companions": [
+        "城乡收入实际增长",
+        "人口迁移",
+        "城乡中位数"
+      ],
+      "pitfalls": "城乡分类与人口迁移会改变组均值，不等于同一批居民收入收敛。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1：2025年56502/24456=2.31035。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C039",
+      "name": "居民人均工资性收入",
+      "family": "收入分配",
+      "module": "收入来源",
+      "definition": "就业人员通过受雇、自由职业、兼职及零星劳动获得的劳动报酬福利，按住户常住人口平均。",
+      "unit": "元/人",
+      "frequency": "季（累计）、年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "表1、2及C_S12定义：2025全国24555、城镇34373、农村10402元。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "拆分居民可支配收入来源及城乡差别。",
+      "companions": [
+        "其他三类收入",
+        "总体可支配收入",
+        "社会保障"
+      ],
+      "pitfalls": "不是就业者平均工资，不是国民账户劳动报酬份额。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2及C_S12定义：2025全国24555、城镇34373、农村10402元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C040",
+      "name": "居民人均经营净收入",
+      "family": "收入分配",
+      "module": "收入来源",
+      "definition": "住户经营收入扣除经营费用、生产性固定资产折旧及生产税后，按住户常住人口平均。",
+      "unit": "元/人",
+      "frequency": "季（累计）、年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "表1、2及C_S12定义：2025全国7252、城镇6592、农村8204元。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "拆分居民可支配收入来源及城乡差别。",
+      "companions": [
+        "其他三类收入",
+        "总体可支配收入",
+        "社会保障"
+      ],
+      "pitfalls": "包含自雇经营混合收益，不能全归劳动或资本。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2及C_S12定义：2025全国7252、城镇6592、农村8204元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C041",
+      "name": "居民人均财产净收入",
+      "family": "收入分配",
+      "module": "收入来源",
+      "definition": "住户让渡金融、非金融资产及自然资源使用获得回报扣费用后，按常住人口平均。",
+      "unit": "元/人",
+      "frequency": "季（累计）、年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "表1、2及C_S12定义：2025全国3490、城镇5481、农村618元。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "拆分居民可支配收入来源及城乡差别。",
+      "companions": [
+        "其他三类收入",
+        "总体可支配收入",
+        "社会保障"
+      ],
+      "pitfalls": "不含资产所有权转让溢价，房价股价上涨不直接进入该值。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2及C_S12定义：2025全国3490、城镇5481、农村618元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C042",
+      "name": "居民人均转移净收入",
+      "family": "收入分配",
+      "module": "收入来源",
+      "definition": "经常性转移收入减转移性支出，按常住人口平均。",
+      "unit": "元/人",
+      "frequency": "季（累计）、年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S04",
+      "source_locator": "表1、2及C_S12定义：2025全国8080、城镇10056、农村5232元。",
+      "history": "原文明确按季度发布；年鉴指标解释说明2012年四季度城乡一体化改革及1978—2012可比口径推算。",
+      "breaks": "城乡人口迁移改变构成；中位数按户排序不能当个人工资中位数；四类收入占比不是国民账户要素份额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "拆分居民可支配收入来源及城乡差别。",
+      "companions": [
+        "其他三类收入",
+        "总体可支配收入",
+        "社会保障"
+      ],
+      "pitfalls": "含住户间赡养和非常住成员汇款，不等于政府补助；税与社保转出已参与净额。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2及C_S12定义：2025全国8080、城镇10056、农村5232元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇常住居民",
+            "农村常住居民"
+          ],
+          "source_ids": [
+            "C_S04"
+          ],
+          "evidence": "表1、2逐项发布。",
+          "limitation": "非户籍分组；不能推断省级五等份覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "C043",
+      "name": "基本养老保险参保人数",
+      "family": "社会保障",
+      "module": "保障覆盖",
+      "definition": "年末参加基本养老保险人数，区分城镇职工与城乡居民制度。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第九部分：2025年107599，职工54680、居民52919。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "S"
+      ],
+      "interpretation": "观察养老制度覆盖规模。",
+      "companions": [
+        "参保缴费人数",
+        "领取待遇人数",
+        "待遇金额"
+      ],
+      "pitfalls": "参保不等于领取待遇，不能用总人口直接算适龄参保率；不同制度保障水平不同。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第九部分：2025年107599，职工54680、居民52919。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "城镇职工养老",
+            "城乡居民养老"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第九部分。",
+          "limitation": "人社2025正式公报本轮网页正文无法读取，采用统计局初步口径。"
+        }
+      ]
+    },
+    {
+      "id": "C044",
+      "name": "基本医疗保险参保人数",
+      "family": "社会保障",
+      "module": "保障覆盖",
+      "definition": "年末基本医疗保险登记参保人数，职工与城乡居民分别列示。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S07",
+      "source_locator": "正式公报2025年133069.39，职工38856.12、居民94213.27。",
+      "history": "图题列2020—2025；已访问2024公报、2025快报和2025正式公报。",
+      "breaks": "正式公报医保参保133069.39万人、基金收入35921.32亿元、支出30055.19亿元，与3月快报略异，应保存版本。2025长护险扩大到所有实施地区，2023生育待遇人次加入产检，不拼接为同口径增长。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "S"
+      ],
+      "interpretation": "观察医疗保障制度覆盖。",
+      "companions": [
+        "参保结构",
+        "目录内支付比例",
+        "个人负担"
+      ],
+      "pitfalls": "参保不等于均能得到同等报销；正式公报比快报修订。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "正式公报2025年133069.39，职工38856.12、居民94213.27。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "职工医保",
+            "城乡居民医保",
+            "在职职工",
+            "退休职工"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "第一部分分制度，职工再分在职退休。",
+          "limitation": "目录内支付比例并非每类都分在职退休。"
+        }
+      ]
+    },
+    {
+      "id": "C045",
+      "name": "基本医保住院费用目录内基金支付比例",
+      "family": "社会保障",
+      "module": "保障深度",
+      "definition": "基本医保基金对住院目录内费用的支付比例，职工和居民制度分别公布。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S07",
+      "source_locator": "职工84.1%、居民66.0%；三级/二级/一级及以下分列。",
+      "history": "图题列2020—2025；已访问2024公报、2025快报和2025正式公报。",
+      "breaks": "正式公报医保参保133069.39万人、基金收入35921.32亿元、支出30055.19亿元，与3月快报略异，应保存版本。2025长护险扩大到所有实施地区，2023生育待遇人次加入产检，不拼接为同口径增长。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "衡量制度内住院费用分担。",
+      "companions": [
+        "次均住院费用",
+        "目录外费用",
+        "居民医疗支出"
+      ],
+      "pitfalls": "不包括所有目录外费用，不能解读为全部医疗开销的实际报销率；不是医疗需求可及性。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "职工84.1%、居民66.0%；三级/二级/一级及以下分列。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "职工医保",
+            "城乡居民医保"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "第一部分两制度各待遇享受段。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "三级医疗机构",
+            "二级医疗机构",
+            "一级及以下含未定级医疗机构"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "住院目录内比例按机构等级列值。",
+          "limitation": "机构等级非国民经济行业。"
+        }
+      ]
+    },
+    {
+      "id": "C046",
+      "name": "基本医疗保险基金收入",
+      "family": "社会保障",
+      "module": "再分配资金",
+      "definition": "基本医保基金全年收入；职工基金含生育保险，居民基金另列。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S07",
+      "source_locator": "第一部分：2025年35921.32亿元。",
+      "history": "图题列2020—2025；已访问2024公报、2025快报和2025正式公报。",
+      "breaks": "正式公报医保参保133069.39万人、基金收入35921.32亿元、支出30055.19亿元，与3月快报略异，应保存版本。2025长护险扩大到所有实施地区，2023生育待遇人次加入产检，不拼接为同口径增长。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "F"
+      ],
+      "interpretation": "观察医疗保障资金收支规模。",
+      "companions": [
+        "统筹/个人账户",
+        "参保人数",
+        "基金累计结存"
+      ],
+      "pitfalls": "职工包含个人账户、统筹包含关系须分清；收入减支出不是统筹基金当期结存。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "第一部分：2025年35921.32亿元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "职工医保基金（含生育）",
+            "居民医保基金",
+            "职工统筹基金",
+            "职工个人账户"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "第一部分基金收支段。",
+          "limitation": "基金不是国民账户机构部门，分项含交叉包含关系。"
+        }
+      ]
+    },
+    {
+      "id": "C047",
+      "name": "基本医疗保险基金支出",
+      "family": "社会保障",
+      "module": "再分配资金",
+      "definition": "基本医保基金全年支出；职工基金含生育保险，居民基金另列。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S07",
+      "source_locator": "第一部分：2025年30055.19亿元。",
+      "history": "图题列2020—2025；已访问2024公报、2025快报和2025正式公报。",
+      "breaks": "正式公报医保参保133069.39万人、基金收入35921.32亿元、支出30055.19亿元，与3月快报略异，应保存版本。2025长护险扩大到所有实施地区，2023生育待遇人次加入产检，不拼接为同口径增长。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D",
+        "F"
+      ],
+      "interpretation": "观察医疗保障资金收支规模。",
+      "companions": [
+        "统筹/个人账户",
+        "参保人数",
+        "基金累计结存"
+      ],
+      "pitfalls": "职工包含个人账户、统筹包含关系须分清；收入减支出不是统筹基金当期结存。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "第一部分：2025年30055.19亿元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "职工医保基金（含生育）",
+            "居民医保基金",
+            "职工统筹基金",
+            "职工个人账户"
+          ],
+          "source_ids": [
+            "C_S07"
+          ],
+          "evidence": "第一部分基金收支段。",
+          "limitation": "基金不是国民账户机构部门，分项含交叉包含关系。"
+        }
+      ]
+    },
+    {
+      "id": "C048",
+      "name": "最低生活保障人数",
+      "family": "社会保障",
+      "module": "低收入托底",
+      "definition": "年末获得城市或农村最低生活保障人数，按制度管理口径发布。",
+      "unit": "万人",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第九部分：2025年城市595、农村3340万人。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "识别基本生活救助覆盖规模。",
+      "companions": [
+        "低保标准",
+        "救助支出",
+        "低收入组收入"
+      ],
+      "pitfalls": "是行政认定覆盖，不能当全部低收入或贫困人口；地区认定标准不同。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第九部分：2025年城市595、农村3340万人。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "城市低保",
+            "农村低保"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第九部分。",
+          "limitation": "未核验31省标准或人数统一表。"
+        }
+      ]
+    },
+    {
+      "id": "C049",
+      "name": "全国发电装机容量",
+      "family": "产业发展条件",
+      "module": "能源供给",
+      "definition": "截至年末累计发电设备装机容量，按电源类型列示。",
+      "unit": "万千瓦",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S09",
+      "source_locator": "一览表：2025年389134；水44802、火153904、核6248、风64001、太阳能120173。",
+      "history": "能源局栏目已见2025年1—11月、全年等月度发布；本页给全年及同比。",
+      "breaks": "装机是容量而非供电量；新增低利用小时机组改变总平均，不能把下降全部归因于需求弱。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "S",
+        "I"
+      ],
+      "interpretation": "观察电力供给物理能力及结构。",
+      "companions": [
+        "发电量",
+        "利用小时",
+        "输电及储能条件"
+      ],
+      "pitfalls": "装机不是发电量、有效容量或全天候供电保障；分项不必覆盖全部类型。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S09"
+          ],
+          "evidence": "一览表：2025年389134；水44802、火153904、核6248、风64001、太阳能120173。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "水电",
+            "火电",
+            "核电",
+            "风电",
+            "太阳能"
+          ],
+          "source_ids": [
+            "C_S09"
+          ],
+          "evidence": "表内分项。",
+          "limitation": "本轮未核验省级装机。"
+        }
+      ]
+    },
+    {
+      "id": "C050",
+      "name": "发电设备累计平均利用小时",
+      "family": "产业发展条件",
+      "module": "能源利用",
+      "definition": "全国6000千瓦及以上电厂发电设备全年累计平均利用小时。",
+      "unit": "小时",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国6000千瓦及以上电厂",
+      "source_id": "C_S09",
+      "source_locator": "正文与一览表：2025年3119小时，同比减少312小时（绝对量）。",
+      "history": "能源局栏目已见2025年1—11月、全年等月度发布；本页给全年及同比。",
+      "breaks": "装机是容量而非供电量；新增低利用小时机组改变总平均，不能把下降全部归因于需求弱。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "S",
+        "G",
+        "K"
+      ],
+      "interpretation": "辅助观察发电设备使用程度。",
+      "companions": [
+        "发电量",
+        "装机结构",
+        "水风光资源"
+      ],
+      "pitfalls": "受风光装机结构和天气影响，下降不自动证明需求弱或过剩；本页未发布各能源分项小时。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国6000千瓦及以上电厂"
+          ],
+          "source_ids": [
+            "C_S09"
+          ],
+          "evidence": "正文与一览表：2025年3119小时，同比减少312小时（绝对量）。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "全部电源合计"
+          ],
+          "source_ids": [
+            "C_S09"
+          ],
+          "evidence": "正文范围。",
+          "limitation": "不得声称分火水风光连续利用小时全部公开。"
+        }
+      ]
+    },
+    {
+      "id": "C051",
+      "name": "能源消费总量",
+      "family": "产业发展条件",
+      "module": "能源需求约束",
+      "definition": "报告期国民经济各行业及居民生活消费的各种能源总量，按标准煤折算，采用能源核算值。",
+      "unit": "亿吨标准煤",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第十二部分：2025初步61.7亿吨标准煤，同比增长3.5%。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "只使用官方能源核算总量；本轮能源年鉴定义PDF访问超时，未自行推导折标系数。",
+      "systems": [
+        "S",
+        "G",
+        "K"
+      ],
+      "interpretation": "描述经济能源投入规模。",
+      "companions": [
+        "GDP实际量",
+        "能源构成",
+        "行业能耗"
+      ],
+      "pitfalls": "不可直接与未扣口径的单位GDP能耗降幅混用；标准煤换算、修订影响序列。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十二部分：2025初步61.7亿吨标准煤，同比增长3.5%。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C052",
+      "name": "清洁能源消费占比",
+      "family": "产业发展条件",
+      "module": "能源结构",
+      "definition": "天然气、水电、核电、风电、太阳能等清洁能源消费占能源消费总量。",
+      "unit": "%",
+      "frequency": "年",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S02",
+      "source_locator": "第十二部分：2025年30.4%，上升1.8个百分点。",
+      "history": "全国年度统计公报目录已读，列2011—2025年度；本文多个图列2021—2025但本轮不转录未目视图值。",
+      "breaks": "注1明确初步统计。医保有2026-07正式公报修订；此文医疗参保数只作快报版本记录。GDP与人口修订会改写比率。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "S",
+        "I"
+      ],
+      "interpretation": "跟踪能源投入组合转变。",
+      "companions": [
+        "煤炭占比",
+        "能源总量",
+        "碳排放"
+      ],
+      "pitfalls": "包括天然气，不能称非化石或可再生能源占比；与清洁发电量占比不同。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "第十二部分：2025年30.4%，上升1.8个百分点。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮未取得本指标31省同口径连续公开表。",
+          "limitation": "这是本轮核验盲区，不表示绝对不存在。"
+        }
+      ]
+    },
+    {
+      "id": "C053",
+      "name": "铁路营业里程",
+      "family": "产业发展条件",
+      "module": "交通基础设施",
+      "definition": "年末正式营业铁路线路长度。",
+      "unit": "万公里",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S08",
+      "source_locator": "第一部分：2025年16.5万公里，其中高铁5.0万公里。",
+      "history": "本文图题明确2021—2025铁路/公路等序列；年度行业公报。",
+      "breaks": "里程是物理供给量，不能证明可达性、利用率或投资收益；路网统计口径可能调整，公路客运增速按可比口径。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "S",
+        "G"
+      ],
+      "interpretation": "观察运输基础设施存量及技术等级。",
+      "companions": [
+        "运输周转量",
+        "通达时间",
+        "设施利用",
+        "维护质量"
+      ],
+      "pitfalls": "里程不是可达性、运输能力或财政回报；包含关系及不同分类不能重复求和。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S08"
+          ],
+          "evidence": "第一部分：2025年16.5万公里，其中高铁5.0万公里。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "铁路",
+            "高速铁路（包含于铁路）"
+          ],
+          "source_ids": [
+            "C_S08"
+          ],
+          "evidence": "第一部分对应运输方式。",
+          "limitation": "未核验31省或地级连续表。"
+        }
+      ]
+    },
+    {
+      "id": "C054",
+      "name": "公路里程",
+      "family": "产业发展条件",
+      "module": "交通基础设施",
+      "definition": "年末全国公路线路长度。",
+      "unit": "万公里",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S08",
+      "source_locator": "第一部分：2025年557.89万公里，高速公路19.94万公里。",
+      "history": "本文图题明确2021—2025铁路/公路等序列；年度行业公报。",
+      "breaks": "里程是物理供给量，不能证明可达性、利用率或投资收益；路网统计口径可能调整，公路客运增速按可比口径。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "S",
+        "G"
+      ],
+      "interpretation": "观察运输基础设施存量及技术等级。",
+      "companions": [
+        "运输周转量",
+        "通达时间",
+        "设施利用",
+        "维护质量"
+      ],
+      "pitfalls": "里程不是可达性、运输能力或财政回报；包含关系及不同分类不能重复求和。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S08"
+          ],
+          "evidence": "第一部分：2025年557.89万公里，高速公路19.94万公里。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "高速",
+            "一级",
+            "二级",
+            "三级",
+            "四级",
+            "等外公路；国省县乡村道另为行政分类"
+          ],
+          "source_ids": [
+            "C_S08"
+          ],
+          "evidence": "第一部分对应运输方式。",
+          "limitation": "未核验31省或地级连续表。"
+        }
+      ]
+    },
+    {
+      "id": "C055",
+      "name": "内河航道通航里程",
+      "family": "产业发展条件",
+      "module": "交通基础设施",
+      "definition": "年末内河可通航航道长度。",
+      "unit": "万公里",
+      "frequency": "年",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国（具体统计边界见定义）",
+      "source_id": "C_S08",
+      "source_locator": "第一部分：2025年12.87万公里；七级及以上6.86万公里。",
+      "history": "本文图题明确2021—2025铁路/公路等序列；年度行业公报。",
+      "breaks": "里程是物理供给量，不能证明可达性、利用率或投资收益；路网统计口径可能调整，公路客运增速按可比口径。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按原文统计范围、报告期和版本使用，不以缺失值代零。",
+      "systems": [
+        "S",
+        "G"
+      ],
+      "interpretation": "观察运输基础设施存量及技术等级。",
+      "companions": [
+        "运输周转量",
+        "通达时间",
+        "设施利用",
+        "维护质量"
+      ],
+      "pitfalls": "里程不是可达性、运输能力或财政回报；包含关系及不同分类不能重复求和。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国（具体统计边界见定义）"
+          ],
+          "source_ids": [
+            "C_S08"
+          ],
+          "evidence": "第一部分：2025年12.87万公里；七级及以上6.86万公里。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "一级至七级",
+            "等外航道"
+          ],
+          "source_ids": [
+            "C_S08"
+          ],
+          "evidence": "第一部分对应运输方式。",
+          "limitation": "未核验31省或地级连续表。"
+        }
+      ]
+    },
+    {
+      "id": "C056",
+      "name": "城镇非私营单位就业人员年平均工资",
+      "family": "收入分配与社会保障",
+      "module": "单位劳动收入",
+      "definition": "报告年度单位就业人员工资总额除以就业人员平均人数。为税前工资，含现金、实物及个人税费、社保和公积金代扣；不含工会经费支付、入股分红、股权激励兑现及资本性收益。",
+      "unit": "元/人·年",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "城镇地域内就业人数5人及以上法人单位（含统计认定视同法人产业活动单位）的就业人员；不含个体工商户和自由职业者。其中非私营为除私营以外的内资（含机关事业）、港澳台及外商投资单位。",
+      "source_id": "C_S15",
+      "source_locator": "第一部分；表1—3。2025年129441元，2024年124110元；2025名义4.3%、实际4.2%。",
+      "history": "2025工资年度发布；2024—2025总量及非私营/私营分组对照已读，岗位矩阵本次仅核验2025。",
+      "breaks": "2023起采用新登记注册统计类别；行业按GB/T4754-2017。调查单位及行业人员构成变化会影响平均数，不能把均值增速当作每名在职者加薪幅度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "使用同一统计范围和报告期的单位工资总额/平均人数口径。原值为名义工资，若使用实际增速须引用原文价格调整，不自行混用住户可支配收入。",
+      "systems": [
+        "D",
+        "G",
+        "S"
+      ],
+      "interpretation": "观察单位就业人员劳动收入水平及行业、登记类型或岗位差异。",
+      "companions": [
+        "就业人数与构成",
+        "居民工资性收入",
+        "居民消费价格",
+        "工作时长",
+        "劳动生产率"
+      ],
+      "pitfalls": "不是居民人均工资性收入、税后到手工资、中位数或全体劳动者平均收入；非私营不等于国有。规上范围按各行业门槛，不能视作全部企业。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国",
+            "东部地区",
+            "中部地区",
+            "西部地区",
+            "东北地区"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "第一部分；表1—3。2025年129441元，2024年124110元；2025名义4.3%、实际4.2%。；四区域为官方汇总。",
+          "limitation": "地区分类仅四大区域，不是31省细表。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "本篇仅表列四区域工资和区域内省份构成；没有31省逐省工资表。",
+          "limitation": "本轮未继续逐省查验，不能宣称逐省已覆盖。"
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "农、林、牧、渔业",
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业",
+            "建筑业",
+            "批发和零售业",
+            "交通运输、仓储和邮政业",
+            "住宿和餐饮业",
+            "信息传输、软件和信息技术服务业",
+            "金融业",
+            "房地产业",
+            "租赁和商务服务业",
+            "科学研究和技术服务业",
+            "水利、环境和公共设施管理业",
+            "居民服务、修理和其他服务业",
+            "教育",
+            "卫生和社会工作",
+            "文化、体育和娱乐业",
+            "公共管理、社会保障和社会组织"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "表2逐行19行业门类；表1四区域；表3登记类别。",
+          "limitation": "行业内规模及岗位构成不同；未核验行业小类或地级交叉表。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "非私营内资单位",
+            "港澳台投资单位",
+            "外商投资单位"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "表3逐列内资、港澳台投资、外商投资单位；附注2定义非私营。",
+          "limitation": "登记类型不等于国有/民营控股类型；不得将内资直接称国有。"
+        }
+      ]
+    },
+    {
+      "id": "C057",
+      "name": "城镇私营单位就业人员年平均工资",
+      "family": "收入分配与社会保障",
+      "module": "单位劳动收入",
+      "definition": "报告年度单位就业人员工资总额除以就业人员平均人数。为税前工资，含现金、实物及个人税费、社保和公积金代扣；不含工会经费支付、入股分红、股权激励兑现及资本性收益。",
+      "unit": "元/人·年",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "城镇地域内就业人数5人及以上法人单位（含统计认定视同法人产业活动单位）的就业人员；不含个体工商户和自由职业者。其中私营为私营有限责任公司、私营股份有限公司、个人独资及合伙企业。",
+      "source_id": "C_S15",
+      "source_locator": "第二部分；表4—5。2025年71590元，2024年69476元；2025名义3.0%、实际2.9%。",
+      "history": "2025工资年度发布；2024—2025总量及非私营/私营分组对照已读，岗位矩阵本次仅核验2025。",
+      "breaks": "2023起采用新登记注册统计类别；行业按GB/T4754-2017。调查单位及行业人员构成变化会影响平均数，不能把均值增速当作每名在职者加薪幅度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "使用同一统计范围和报告期的单位工资总额/平均人数口径。原值为名义工资，若使用实际增速须引用原文价格调整，不自行混用住户可支配收入。",
+      "systems": [
+        "D",
+        "G",
+        "S"
+      ],
+      "interpretation": "观察单位就业人员劳动收入水平及行业、登记类型或岗位差异。",
+      "companions": [
+        "就业人数与构成",
+        "居民工资性收入",
+        "居民消费价格",
+        "工作时长",
+        "劳动生产率"
+      ],
+      "pitfalls": "不是居民人均工资性收入、税后到手工资、中位数或全体劳动者平均收入；非私营不等于国有。规上范围按各行业门槛，不能视作全部企业。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国",
+            "东部地区",
+            "中部地区",
+            "西部地区",
+            "东北地区"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "第二部分；表4—5。2025年71590元，2024年69476元；2025名义3.0%、实际2.9%。；四区域为官方汇总。",
+          "limitation": "地区分类仅四大区域，不是31省细表。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "本篇仅表列四区域工资和区域内省份构成；没有31省逐省工资表。",
+          "limitation": "本轮未继续逐省查验，不能宣称逐省已覆盖。"
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "农、林、牧、渔业",
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业",
+            "建筑业",
+            "批发和零售业",
+            "交通运输、仓储和邮政业",
+            "住宿和餐饮业",
+            "信息传输、软件和信息技术服务业",
+            "金融业",
+            "房地产业",
+            "租赁和商务服务业",
+            "科学研究和技术服务业",
+            "水利、环境和公共设施管理业",
+            "居民服务、修理和其他服务业",
+            "教育",
+            "卫生和社会工作",
+            "文化、体育和娱乐业"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "表5逐行18行业门类；表4四区域。",
+          "limitation": "行业内规模及岗位构成不同；未核验行业小类或地级交叉表。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "城镇私营法人单位"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "附注2定义城镇私营法人单位；本篇没有私营内部公司类型工资拆分。",
+          "limitation": "登记类型不等于国有/民营控股类型；不得将内资直接称国有。"
+        }
+      ]
+    },
+    {
+      "id": "C058",
+      "name": "规模以上企业就业人员分岗位年平均工资",
+      "family": "收入分配与社会保障",
+      "module": "单位劳动收入",
+      "definition": "报告年度单位就业人员工资总额除以就业人员平均人数。为税前工资，含现金、实物及个人税费、社保和公积金代扣；不含工会经费支付、入股分红、股权激励兑现及资本性收益。 各岗位用其工资总额/平均就业人数计算；不是固定相同劳动者的追踪工资。",
+      "unit": "元/人·年",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "城镇地域内就业人数5人及以上法人单位（含统计认定视同法人产业活动单位）的就业人员；不含个体工商户和自由职业者。规上含工业、有资质建筑、限额以上批零住餐、全部活动房地产开发及规模以上服务业共16行业。",
+      "source_id": "C_S15",
+      "source_locator": "第三部分；表6—8。2025合计106080元；管理210016、专业技术155491、办事94936、社会生产生活服务79857、生产制造80739元。",
+      "history": "2025工资年度发布；2024—2025总量及非私营/私营分组对照已读，岗位矩阵本次仅核验2025。",
+      "breaks": "2023起采用新登记注册统计类别；行业按GB/T4754-2017。调查单位及行业人员构成变化会影响平均数，不能把均值增速当作每名在职者加薪幅度。 五类岗位按职业分类大典2022年版。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "使用同一统计范围和报告期的单位工资总额/平均人数口径。原值为名义工资，若使用实际增速须引用原文价格调整，不自行混用住户可支配收入。",
+      "systems": [
+        "D",
+        "G",
+        "S"
+      ],
+      "interpretation": "观察单位就业人员劳动收入水平及行业、登记类型或岗位差异。",
+      "companions": [
+        "就业人数与构成",
+        "居民工资性收入",
+        "居民消费价格",
+        "工作时长",
+        "劳动生产率"
+      ],
+      "pitfalls": "不是居民人均工资性收入、税后到手工资、中位数或全体劳动者平均收入；非私营不等于国有。规上范围按各行业门槛，不能视作全部企业。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国",
+            "东部地区",
+            "中部地区",
+            "西部地区",
+            "东北地区",
+            "中层及以上管理人员",
+            "专业技术人员",
+            "办事人员和有关人员",
+            "社会生产服务和生活服务人员",
+            "生产制造及有关人员"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "第三部分；表6—8。2025合计106080元；管理210016、专业技术155491、办事94936、社会生产生活服务79857、生产制造80739元。；四区域为官方汇总。",
+          "limitation": "地区分类仅四大区域，不是31省细表。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "本篇仅表列四区域工资和区域内省份构成；没有31省逐省工资表。",
+          "limitation": "本轮未继续逐省查验，不能宣称逐省已覆盖。"
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业",
+            "建筑业",
+            "批发和零售业",
+            "交通运输、仓储和邮政业",
+            "住宿和餐饮业",
+            "信息传输、软件和信息技术服务业",
+            "房地产业",
+            "租赁和商务服务业",
+            "科学研究和技术服务业",
+            "水利、环境和公共设施管理业",
+            "居民服务、修理和其他服务业",
+            "教育",
+            "卫生和社会工作",
+            "文化、体育和娱乐业"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "表7逐行16行业×5岗位；表6四区域×5岗位；表8登记类别×5岗位。",
+          "limitation": "行业内规模及岗位构成不同；未核验行业小类或地级交叉表。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "内资企业",
+            "港澳台投资企业",
+            "外商投资企业"
+          ],
+          "source_ids": [
+            "C_S15"
+          ],
+          "evidence": "表8三登记类别×五类岗位；附注2界定16行业规上范围。",
+          "limitation": "登记类型不等于国有/民营控股类型；不得将内资直接称国有。"
+        }
+      ]
+    },
+    {
+      "id": "C059",
+      "name": "技术合同成交额",
+      "family": "创新投入与成果转化",
+      "module": "技术市场交易",
+      "definition": "年度登记技术合同的成交项目总金额。与扣除非技术性费用的技术交易额、合同履约后实际技术性收入分别统计；成交额可含非技术性合同部分，不能全部视作技术知识增加值。",
+      "unit": "亿元",
+      "frequency": "年",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国登记的技术合同成交项目",
+      "source_id": "C_S02",
+      "source_locator": "2025国民经济和社会发展统计公报第十部分：全年签订技术合同104万项，成交金额75734亿元，同比增长10.8%；附注数据来源为工业和信息化部。定义C_S16第51—52条；2026制度C_S17。",
+      "history": "国家统计局年度综合公报固定科技章节发布；本轮核验2025总額与同比及历史认定规则，不声称已核转全部年度或省际矩阵。",
+      "breaks": "C_S17管理办法2026-03-01起实施：技术许可单列，里程碑/提成支付按实现金额登记，政府项目不含主体自筹资金；须向后续年度核查可比范围，不把2026条款反推2025。合同变更、登记动机与大额合同会影响序列。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "采用已登记、按年度发布的原始金额；核对成交额而非技术交易额或实际收入。技术合同可能跨年履行，不将登记额直接当本年现金流。",
+      "systems": [
+        "I",
+        "G",
+        "S"
+      ],
+      "interpretation": "观察登记技术市场活动的规模，为成果转化提供交易环节证据。",
+      "companions": [
+        "技术合同项数",
+        "合同类型",
+        "实际技术性收入",
+        "专利产业化率",
+        "新产品销售收入",
+        "研发投入"
+      ],
+      "pitfalls": "不是企业创新净利润、创新ROI、技术增加值或全市场全部交易；与研发经费不可相加，不据增长直接认定技术自主替代。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国登记技术合同"
+          ],
+          "source_ids": [
+            "C_S02",
+            "C_S16",
+            "C_S17"
+          ],
+          "evidence": "C_S02科技章节2025成交金额75734亿元。",
+          "limitation": "仅登记口径，未登记交易不能补估。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S02"
+          ],
+          "evidence": "本轮仅核验全国年报总值，未读31省同口径成交额表。",
+          "limitation": "不得由全国制度推断31省数据已公开。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "C_S16",
+            "C_S17"
+          ],
+          "evidence": "本轮未核验交易卖方类型连续统计表。",
+          "limitation": "合同类型规则是分类定义证据，不是分类数据覆盖。"
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "system": "I",
+      "question": "研发投入结构能否与成果运用的观察相互印证？",
+      "source_ids": [
+        "C_S01",
+        "C_S06"
+      ],
+      "inputs": [
+        {
+          "名称": "2024全社会研发经费",
+          "值": 36326.8,
+          "单位": "亿元",
+          "报告期": "2024",
+          "定位": "C_S01第一部分第一段"
+        },
+        {
+          "名称": "2024基础研究经费",
+          "值": 2500.9,
+          "单位": "亿元",
+          "报告期": "2024",
+          "定位": "C_S01分活动类型段"
+        },
+        {
+          "名称": "企业发明专利产业化率",
+          "值": 53.3,
+          "单位": "%",
+          "报告期": "2024调查",
+          "定位": "C_S06 PDF第29页图19、印刷页22"
+        },
+        {
+          "名称": "企业发明专利产业化率",
+          "值": 54.0,
+          "单位": "%",
+          "报告期": "2025调查",
+          "定位": "C_S06 PDF第29页图19、印刷页22"
+        }
+      ],
+      "calculation": "2500.9/36326.8×100=6.884449%；54.0-53.3=0.7个百分点。",
+      "result": "2024基础研究份额复算约6.88%；2025企业有效发明专利产业化率较2024高0.7个百分点。",
+      "permitted_conclusion": "可分别验证研发活动配置与已有有效专利进入产品市场的变化；两条链使用各自报告期、总体与分母。",
+      "forbidden_conclusion": "不可据此说2024基础研究投入在2025导致0.7个百分点提升；不可计算当年研发ROI、TFP或专利总体盈利率。",
+      "counterevidence_needed": [
+        "专利形成及产业化滞后",
+        "同一企业或同一专利队列",
+        "市场需求与非研发投入",
+        "样本构成及误差",
+        "收益与成本期限匹配"
+      ]
+    },
+    {
+      "system": "G",
+      "question": "人口年龄结构对要素供给与支持负担形成什么约束？",
+      "source_ids": [
+        "C_S10",
+        "C_S02"
+      ],
+      "inputs": [
+        {
+          "名称": "0—14岁样本人口",
+          "值": 228905,
+          "单位": "人",
+          "报告期": "2024",
+          "定位": "C_S10表2-11全国行"
+        },
+        {
+          "名称": "15—64岁样本人口",
+          "值": 991861,
+          "单位": "人",
+          "报告期": "2024",
+          "定位": "C_S10表2-11全国行"
+        },
+        {
+          "名称": "65岁及以上样本人口",
+          "值": 226671,
+          "单位": "人",
+          "报告期": "2024",
+          "定位": "C_S10表2-11全国行"
+        },
+        {
+          "名称": "发布总抚养比",
+          "值": 45.93,
+          "单位": "%",
+          "报告期": "2024",
+          "定位": "C_S10表2-11全国行"
+        }
+      ],
+      "calculation": "(228905+226671)/991861×100=45.931436%；按两位小数为45.93%。",
+      "result": "原表样本人数可复算公布的总抚养比。",
+      "permitted_conclusion": "在该人口抽样口径中，每100名15—64岁人口对应约45.93名年龄两端人口；作为G劳动力年龄结构约束的可核验输入。",
+      "forbidden_conclusion": "不能说每100名实际就业者供养45.93人；不能把1447437样本人口当全国人口；不能以此替代劳动生产率或TFP测算。",
+      "counterevidence_needed": [
+        "劳动参与率和实际就业",
+        "工作时长",
+        "教育与技能",
+        "资本投入",
+        "人口抽样误差与总体人口修订"
+      ]
+    },
+    {
+      "system": "D",
+      "question": "家庭收入分布与来源能否支持分配差距的具体描述？",
+      "source_ids": [
+        "C_S02",
+        "C_S04",
+        "C_S12"
+      ],
+      "inputs": [
+        {
+          "名称": "全国五等份低收入组收入",
+          "值": 10150,
+          "单位": "元/人",
+          "报告期": "2025",
+          "定位": "C_S02第九部分及注64"
+        },
+        {
+          "名称": "全国五等份高收入组收入",
+          "值": 103778,
+          "单位": "元/人",
+          "报告期": "2025",
+          "定位": "C_S02第九部分及注64"
+        },
+        {
+          "名称": "居民工资性收入",
+          "值": 24555,
+          "单位": "元/人",
+          "报告期": "2025",
+          "定位": "C_S04表1"
+        },
+        {
+          "名称": "居民经营净收入",
+          "值": 7252,
+          "单位": "元/人",
+          "报告期": "2025",
+          "定位": "C_S04表1"
+        },
+        {
+          "名称": "居民财产净收入",
+          "值": 3490,
+          "单位": "元/人",
+          "报告期": "2025",
+          "定位": "C_S04表1"
+        },
+        {
+          "名称": "居民转移净收入",
+          "值": 8080,
+          "单位": "元/人",
+          "报告期": "2025",
+          "定位": "C_S04表1"
+        }
+      ],
+      "calculation": "103778/10150=10.224433；24555+7252+3490+8080=43377元/人（与C_S04总体收入相等）。",
+      "result": "两端家庭组人均收入均值相差约10.22倍；四项收入可复算全国可支配收入。",
+      "permitted_conclusion": "描述调查户收入分组的组均值差距和住户调查收入口径内的来源构成。",
+      "forbidden_conclusion": "不能称最富20%人口与最穷20%人口收入比、P90/P10或精确基尼；不能把工资性收入/43377解释成国民账户劳动者报酬份额。",
+      "counterevidence_needed": [
+        "组内分布和户均人口",
+        "税收转移前后同一户数据",
+        "收入漏报与样本权重",
+        "资产分布",
+        "国民账户混合收入处理"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "system": "G",
+      "question": "生产效率来源",
+      "dimension": "全国/行业/企业类型",
+      "missing_item": "可直接公开观测的TFP、资本存量和产出缺口",
+      "reason": "本任务禁用模型自行估计；公开劳动生产率不能分离资本深化、劳动质量与技术效率。",
+      "allowed_alternative": "全员劳动生产率、R&D人员全时当量、教育年限、行业结构配套观察。",
+      "boundary": "不得命名为TFP或用回归残差补缺。"
+    },
+    {
+      "system": "I",
+      "question": "创新回报与技术替代",
+      "dimension": "企业类型/行业",
+      "missing_item": "统一可比的创新净回报、替代率和受限技术自给率",
+      "reason": "专利数量、产业化率、累计收益、企业新产品销售口径和期限不同。",
+      "allowed_alternative": "分别展示投入、专利转化、新产品销售、行业产品贸易/供给；明确非因果。",
+      "boundary": "不能用专利授权占比或国产产量直接认定技术自主率。"
+    },
+    {
+      "system": "D",
+      "question": "分配差距",
+      "dimension": "省级/地级",
+      "missing_item": "全国统一口径的31省、地级五等份/基尼/财富分布连续表",
+      "reason": "本轮仅核验全国五等份和城乡中位数；住户调查样本涉及县区不等于各县区公开完整分布。",
+      "allowed_alternative": "全国五等份、城乡均值中位数；地方官方表逐地增补并标部分覆盖。",
+      "boundary": "不外推未公开地区、不用分组均值精确重建分布。"
+    },
+    {
+      "system": "D",
+      "question": "劳动与资本收入分配",
+      "dimension": "机构部门",
+      "missing_item": "可无歧义拆分混合收入的劳动报酬份额",
+      "reason": "住户经营净收入含混合回报；国民账户劳动报酬处理须按年份方法修订核查。",
+      "allowed_alternative": "资金流量表交root统一核验；本组仅收入来源，明确不等同要素份额。",
+      "boundary": "不得把工资/可支配收入或1-劳动报酬份额直接命名资本所得。"
+    },
+    {
+      "system": "S",
+      "question": "能源供给瓶颈",
+      "dimension": "省级/行业",
+      "missing_item": "持续完整的分电源利用小时与区域可用容量、输电拥塞",
+      "reason": "本轮能源局当前页仅全国平均小时；装机分项不是可用容量。",
+      "allowed_alternative": "全国装机结构、平均利用小时、能源消费与清洁占比，并逐省另核验。",
+      "boundary": "平均小时下降不能单独认定产能过剩或电力短缺消除。"
+    }
+  ],
+  "notes": [
+    "范围：全国主线；细分类别记录于coverage，不机械拆分每一省/年龄/教育类别为独立指标。",
+    "2025科技投入与综合公报为初步值；详细研发主体行业表最新核验2024。登记可持续指标而非声称全部最新数据已形成面板。",
+    "本轮未获得稳定公开依据的细分仅表示未核验，不断言不存在。",
+    "资金流量表由root统一纳入；本组已目视表3-15并保留C前缀原图，未重复生成相关指标。",
+    "专利调查收益是从转化运用日至调查日的累计收益，严禁标为单年利润或研发投资回报率。",
+    "省级人口年龄表是样本数与样本结构；全国综合人口为估计总体，严禁混用。",
+    "源文件证据清单见evidence/C_evidence_index.md；网页原文以定位和核验摘记归档，不宣称所有原文完整保存。",
+    "跨组派生城乡收入比C038的inputs已用A014，formula按A014[城镇]/A014[农村]；由root最终核对A组ID。",
+    "C028完整年龄分母和在学规模定义现已核验教育部原DOCX；只适用于国家级，不能用省级自定义毛率填充。",
+    "新增C056—C058为单位税前年平均工资，覆盖四区域和实际公开行业/岗位表；C059为登记技术合同成交额，不当作现金收入或创新净收益。"
+  ]
+}

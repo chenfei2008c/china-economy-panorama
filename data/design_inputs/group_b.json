@@ -1,0 +1,5099 @@
+{
+  "sources": [
+    {
+      "id": "B_S01",
+      "title": "2025年全国规模以上工业企业利润增长0.6%",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260127_1962382.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260127_1962382.html",
+      "publication_date": "2026-01-27",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年、2025年末",
+      "frequency": "月度（1月免报）",
+      "location": "正文、表1—3、附注一至五",
+      "definition_evidence": "附注明确利润、营业收入、成本、资产负债、应收账款、产成品及财务比率计算；调查对象年主营业务收入2000万元及以上工业法人。",
+      "history_evidence": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "coverage_evidence": "全国；表1及表2有三大门类和经济类型；表3有行业收入、成本、利润。",
+      "limitations": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。"
+    },
+    {
+      "id": "B_S02",
+      "title": "2025年全国固定资产投资基本情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962326.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962326.html",
+      "publication_date": "2026-01-19",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "月度（1月免报）",
+      "location": "主要数据表、附注1—8",
+      "definition_evidence": "统计计划总投资500万元及以上固定资产项目及全部房地产开发项目；金额表达工作量及相关费用；增速未扣除价格。",
+      "history_evidence": "附注给出按月调查及2024年12月以来环比修订表；本次并已访问2025年1—9月发布。",
+      "coverage_evidence": "全国、三次产业、部分行业、登记注册类型和四大区域；未提供31省逐省值。",
+      "limitations": "FAI不是支出法资本形成；可比基数随经济普查、制度方法和执法修订；细类多数只公开增速。"
+    },
+    {
+      "id": "B_S03",
+      "title": "2025年全国房地产市场基本情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202601/t20260119_1962324.html",
+      "definition_url": "https://www.stats.gov.cn/xxgk/sjfb/zxfb2020/202601/t20260119_1962324.html",
+      "publication_date": "2026-01-19",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年、2025年末",
+      "frequency": "月度（1月除外）",
+      "location": "正文一至三、表1—3、附注1—6",
+      "definition_evidence": "新房销售按合同面积和价款；待售仅指竣工可售租房屋；到位资金为实际用于开发的资金；施工是期间曾施工面积。",
+      "history_evidence": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "coverage_evidence": "全国全部有开发经营活动的房地产法人；表1住宅、办公楼、商业营业用房；投资销售有四区域。",
+      "limitations": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。"
+    },
+    {
+      "id": "B_S04",
+      "title": "2025年财政收支情况",
+      "publisher": "财政部国库司",
+      "url": "https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czszsj/202601/t20260130_3982923.htm",
+      "definition_url": "https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czszsj/202601/t20260130_3982923.htm",
+      "publication_date": "2026-01-30",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "月度累计、年度",
+      "location": "一、一般公共预算；二、政府性基金预算",
+      "definition_evidence": "分一般公共预算和政府性基金预算列收支；地方本级收入与中央本级区分；土地收入列在地方基金预算内。",
+      "history_evidence": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "coverage_evidence": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "limitations": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。"
+    },
+    {
+      "id": "B_S05",
+      "title": "2025年12月地方政府债券发行和债务余额情况",
+      "publisher": "财政部政府债务管理司",
+      "url": "https://zwgls.mof.gov.cn/tjsj/202601/t20260130_3983021.htm",
+      "definition_url": "https://zwgls.mof.gov.cn/tjsj/202601/t20260130_3983021.htm",
+      "publication_date": "2026-01-30",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年12月及全年、年末",
+      "frequency": "月度",
+      "location": "一（一）至（三）、二、脚注1—6",
+      "definition_evidence": "区分新增/再融资、一般/专项；发行按成功发行日、付息按起息日统计；余额系地方报送执行数据。",
+      "history_evidence": "核验2025年12月及2026年6月发布搜索结果，原页提供累计与当月；持续月报机制。",
+      "coverage_evidence": "全国及一般/专项；省级细分另见同页附表B_S06。",
+      "limitations": "债券和债务范围有非债券形式差别；再融资不等于新增支出；余额可能受统计更新及置换影响。"
+    },
+    {
+      "id": "B_S06",
+      "title": "附表：2025年12月地方政府债券发行和还本付息情况",
+      "publisher": "财政部政府债务管理司",
+      "url": "https://zwgls.mof.gov.cn/tjsj/202601/P020260130707277077220.pdf",
+      "definition_url": "https://zwgls.mof.gov.cn/tjsj/202601/P020260130707277077220.pdf",
+      "publication_date": "2026-01-30",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年12月及全年",
+      "frequency": "月度附件",
+      "location": "PDF第1页附表1、第2页附表2、第3页附表3",
+      "definition_evidence": "表1当月发行、表2全年发行、表3本金和利息；一般专项、新增再融资分栏，亿元取整。",
+      "history_evidence": "2025年12月月报固定附件结构；不由单份附件推定历史31省各期均齐全。",
+      "coverage_evidence": "31个省级行政区域列示，并列大连、宁波、厦门、青岛、深圳及所在省地区行。",
+      "limitations": "省与计划单列市不可重复相加；空白不能自行填零；未对每期、每行总分项勾稽作连续审计。"
+    },
+    {
+      "id": "B_S07",
+      "title": "关于2025年中央和地方预算执行情况与2026年中央和地方预算草案的报告",
+      "publisher": "财政部",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+      "definition_url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+      "publication_date": "2026-03-16",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年执行、2026年预算",
+      "frequency": "年度",
+      "location": "一（一）一般公共预算、（二）政府性基金、年末债务说明",
+      "definition_evidence": "收支总量另含调入、结余、债务等；国债和地方一般专项债务分别披露；明确地方债含置换存量隐性债务用途。",
+      "history_evidence": "全国两会预算报告年度机制；与1月快报和6月决算公开值交叉核对。",
+      "coverage_evidence": "全国、中央和地方合计；四本预算。",
+      "limitations": "2025执行数与2026预算数需严格分列；地方债余额不能代表全部隐性债务；全国债务风险不能由余额单独决定。"
+    },
+    {
+      "id": "B_S08",
+      "title": "国务院关于2025年中央决算的报告",
+      "publisher": "财政部",
+      "url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202606/t20260629_3992419.htm",
+      "definition_url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202606/t20260629_3992419.htm",
+      "publication_date": "2026-06-29",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年、年末",
+      "frequency": "年度",
+      "location": "一（一）一般公共预算决算与债务段落；一（二）基金预算",
+      "definition_evidence": "中央支出拆本级与对地方转移；公布国债、地方债余额与还本；说明执行转决算的据实结算调整。",
+      "history_evidence": "2025中央决算对比同年执行数，明确6月最终核算阶段；年度人大常委会审查机制。",
+      "coverage_evidence": "中央财政决算、全国地方债汇总；非31省财政决算全表。",
+      "limitations": "中央决算报告不等于全国各预算完整决算库；地方债2025余额548231.96亿元区别3月548230.82亿元。"
+    },
+    {
+      "id": "B_S09",
+      "title": "2025年商业银行主要监管指标情况表",
+      "publisher": "国家金融监督管理总局统计与风险监测司",
+      "url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1208453&itemId=954&generaltype=0",
+      "definition_url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1208453&itemId=954&generaltype=0",
+      "publication_date": "2026-02-12",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年四个季度",
+      "frequency": "季度",
+      "location": "公开附件2025年商业银行主要监管指标情况表.xls，行6—51",
+      "definition_evidence": "附件列五级贷款、贷款准备、利润、资本、风险加权资产和比率；2016存贷比境内化、2019纳入邮储、2024新资本办法、LCR规模门槛均有脚注。",
+      "history_evidence": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "coverage_evidence": "全国商业银行汇总；机构分组见B_S10；LCR/NSFR仅资产规模2000亿元以上。",
+      "limitations": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。"
+    },
+    {
+      "id": "B_S10",
+      "title": "2025年商业银行主要指标分机构类情况表",
+      "publisher": "国家金融监督管理总局",
+      "url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1208455&itemId=954&generaltype=0",
+      "definition_url": "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1208455&itemId=954&generaltype=0",
+      "publication_date": "2026-02-12",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年四个季度",
+      "frequency": "季度",
+      "location": "原始xls表头及四季度行38—51",
+      "definition_evidence": "按大型、股份制、城市、民营、农村商业及外资银行分组；外资银行资本充足率不含外国银行分行。",
+      "history_evidence": "附件实际包含一至四季度；脚注说明2019邮储分类及2024资本断点。",
+      "coverage_evidence": "六类商业银行；仅披露不良、ROA、拨备覆盖、资本充足、流动性、净利润、净息差等列。",
+      "limitations": "总局网页动态加载，以公开API和原始附件读取；不能由机构分类推广为省级覆盖。"
+    },
+    {
+      "id": "B_S11",
+      "title": "2025年四季度银行业保险业主要监管指标数据情况（监管原文转载）",
+      "publisher": "国家金融监督管理总局；中国财务公司协会转载",
+      "url": "https://www.cnafc.org/cnafc/front/detail.action?id=75C66E07C8A740EB8AC3B9580BB8FCE1",
+      "definition_url": "https://www.cnafc.org/cnafc/front/detail.action?id=75C66E07C8A740EB8AC3B9580BB8FCE1",
+      "publication_date": "2026-02-26",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年四季度及全年",
+      "frequency": "季度",
+      "location": "三至五、脚注1—4、附件链接",
+      "definition_evidence": "商业银行法人口径；五级贷款前两类正常、后三类不良；2024资本口径变更；LCR覆盖门槛。",
+      "history_evidence": "正文链接总局2025年度滚动统计表并报告季度比较，非单独依赖新闻摘要。",
+      "coverage_evidence": "全国商业银行，部分大型/股份制和保险机构分类。",
+      "limitations": "转载用于可读正文与脚注复核，正式数依B_S09—10原始附件；本页日为转载日期。"
+    },
+    {
+      "id": "B_S12",
+      "title": "商业银行资本管理办法",
+      "publisher": "国家金融监督管理总局；司法部规章库",
+      "url": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/202409/t20240909_505612.html",
+      "definition_url": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/202409/t20240909_505612.html",
+      "publication_date": "2023-10-26",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年1月1日起施行",
+      "frequency": "制度变更时",
+      "location": "第五条、第七条、第二章",
+      "definition_evidence": "资本充足率按合规资本净额/风险加权资产；核心一级资本同理；监管资本扣除及底线并非会计资产净额。",
+      "history_evidence": "2025监管表脚注直接引用2024生效新办法，证实当期口径。",
+      "coverage_evidence": "境内依法设立商业银行；资本并表与未并表范围另定。",
+      "limitations": "web页面遇重定向；通过HTTP读到官方规章正文。用于指标定义，不把单一监管阈值当系统风险判断。"
+    },
+    {
+      "id": "B_S13",
+      "title": "商业银行流动性风险管理办法",
+      "publisher": "原中国银保监会；商务部法规库",
+      "url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=64650",
+      "definition_url": "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=64650",
+      "publication_date": "2018-05-23",
+      "access_date": "2026-09-15",
+      "reporting_period": "2018年7月1日起施行",
+      "frequency": "制度变更时",
+      "location": "第三十七至四十三条、第四十七条、附件",
+      "definition_evidence": "LCR合格优质流动性资产/未来30日净现金流出；NSFR可用稳定资金/所需稳定资金；流动性比例定义另列。",
+      "history_evidence": "商务部法规页列文号2018年第3号及实施日期；2025监管表门槛与之匹配。",
+      "coverage_evidence": "商业银行；大于等于2000亿元与较小机构适用指标不同。",
+      "limitations": "本条为计量定义；公开汇总表的门槛文字为2000亿元以上，应服从具体统计脚注；不公开全国原始现金流出分母。"
+    },
+    {
+      "id": "B_S14",
+      "title": "关于印发《金融企业准备金计提管理办法》的通知",
+      "publisher": "财政部",
+      "url": "https://jrs.mof.gov.cn/zhengcefabu/cwjx/202006/t20200602_3524593.htm",
+      "definition_url": "https://jrs.mof.gov.cn/zhengcefabu/cwjx/202006/t20200602_3524593.htm",
+      "publication_date": "2012-04-17",
+      "access_date": "2026-09-15",
+      "reporting_period": "制度定义",
+      "frequency": "制度变更时",
+      "location": "第三条",
+      "definition_evidence": "区分资产减值准备与一般准备；不良贷款拨备覆盖率分子为贷款损失准备，分母不良贷款余额。",
+      "history_evidence": "网页署发文日期2012-03-30，发布日2012-04-17，2012-07-01施行；仅作准备和比率概念交叉核验，具体统计用当期监管表。",
+      "coverage_evidence": "适用的金融企业范围大于商业银行统计范围。",
+      "limitations": "不能把一般准备与贷款损失准备加总后套用监管表；本文不用于认定2026单家银行监管要求。"
+    },
+    {
+      "id": "B_S15",
+      "title": "国家外汇管理局公布2025年四季度及全年我国国际收支平衡表",
+      "publisher": "国家外汇管理局",
+      "url": "https://www.safe.gov.cn/safe/2026/0327/27297.html",
+      "definition_url": "https://www.safe.gov.cn/safe/2026/0327/27297.html",
+      "publication_date": "2026-03-27",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年第四季度及全年",
+      "frequency": "季度、年度",
+      "location": "全年概览表行1—40、脚注1—8",
+      "definition_evidence": "BPM6；贷方正借方负，差额为两者之和；金融账户含储备；季度人民币按当季平均汇率折算再累加。",
+      "history_evidence": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "coverage_evidence": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "limitations": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。"
+    },
+    {
+      "id": "B_S16",
+      "title": "国家外汇管理局公布2025年末我国国际投资头寸表",
+      "publisher": "国家外汇管理局",
+      "url": "https://www.safe.gov.cn/safe/2026/0327/27298.html",
+      "definition_url": "https://www.safe.gov.cn/safe/2026/0327/27298.html",
+      "publication_date": "2026-03-27",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年末",
+      "frequency": "季度",
+      "location": "概览表资产、负债、净头寸及说明",
+      "definition_evidence": "净头寸=对外金融资产−对外负债；直接/证券/衍生/其他/储备分列，股权与债务工具分列。",
+      "history_evidence": "本次修订2024年以来各季；2025年末新增部门与期限数据。",
+      "coverage_evidence": "全国；直接投资分金融和非金融部门，其他投资按工具。",
+      "limitations": "包含股权的对外负债不是外债；头寸变动含汇率价格等估值不能当资本流量；净资产不代表所有部门流动性充足。"
+    },
+    {
+      "id": "B_S17",
+      "title": "国家外汇管理局公布2025年末中国全口径外债数据",
+      "publisher": "国家外汇管理局",
+      "url": "https://www.safe.gov.cn/safe/2026/0327/27301.html",
+      "definition_url": "https://www.safe.gov.cn/safe/2026/0327/27301.html",
+      "publication_date": "2026-03-27",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年末",
+      "frequency": "季度",
+      "location": "正文期限/部门/币种段；附表及脚注",
+      "definition_evidence": "含本外币，对非居民偿还义务；不含港澳台自身外债；短长按签约期限；部门工具分列。",
+      "history_evidence": "2025年末起健全修订机制；时间序列入口B_S18明示2014年12月末以来。",
+      "coverage_evidence": "全国；广义政府、央行、其他存款公司、其他部门、直接投资公司间贷款。",
+      "limitations": "签约短期不能替代剩余期限一年到期债务；本币外债仍是外债；债务率国际参考线不足以单独判安全。"
+    },
+    {
+      "id": "B_S18",
+      "title": "中国全口径外债情况表时间序列数据（2014年12月末以来）",
+      "publisher": "国家外汇管理局",
+      "url": "https://www.safe.gov.cn/safe/2018/0329/8810.html",
+      "definition_url": "https://www.safe.gov.cn/safe/2018/0329/8810.html",
+      "publication_date": "2026-06-26",
+      "access_date": "2026-09-15",
+      "reporting_period": "2014年12月末以来（标题口径）",
+      "frequency": "季度滚动更新",
+      "location": "中国外债栏目附件入口",
+      "definition_evidence": "页面列全口径外债时间序列附件；具体部门与期限解释采用B_S17。",
+      "history_evidence": "实际打开页面核实标题、2026-06-26更新日和附件，不声称逐个历史单元格验证。",
+      "coverage_evidence": "全国时间序列入口。",
+      "limitations": "本轮未逐期检查附件完整性；2025原值样例采用3月版本，使用时应检查6月修订。"
+    },
+    {
+      "id": "B_S19",
+      "title": "中华人民共和国2025年国民经济和社会发展统计公报",
+      "publisher": "国家统计局（货物贸易数据来源海关总署）",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "definition_url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=700",
+      "publication_date": "2026-02-28",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年",
+      "frequency": "年度",
+      "location": "七、对外经济，表10—13；注释与资料来源",
+      "definition_evidence": "货物贸易统计与服务贸易分列，表10一般/加工贸易及产品分类；资料来源明确货物贸易来自海关总署。",
+      "history_evidence": "公报图示近年序列；2025月报原值对比公报有小额修订，不混用。",
+      "coverage_evidence": "全国；主要商品和伙伴、部分企业性质/贸易方式。",
+      "limitations": "不将商品分类等同国民经济行业；伙伴不是省份；2025出口1月发布269892亿元、公报269890亿元。"
+    },
+    {
+      "id": "B_S20",
+      "title": "中华人民共和国海关统计条例",
+      "publisher": "国务院；司法部国家行政法规库",
+      "url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=700",
+      "definition_url": "https://xzfg.moj.gov.cn/front/law/detail?LawID=700",
+      "publication_date": "2022-03-29",
+      "access_date": "2026-09-15",
+      "reporting_period": "现行修订文本",
+      "frequency": "制度变更时",
+      "location": "第四至十三条、第十七条",
+      "definition_evidence": "按实际进出境引起境内物质存量变化货物统计；进口到岸、出口离岸；国家、货源地、贸易方式、时间均有定义。",
+      "history_evidence": "第十七条规定定期公开制度；原文提供2005公布、2022修订沿革。",
+      "coverage_evidence": "海关统计地域与货物口径；不是居民所有权转换口径。",
+      "limitations": "不能与BPM6货物、国民核算净出口直接替换；属定义来源，未替代逐省统计表验证。"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "B001",
+      "name": "规上工业营业收入",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "生产经营形成的主营与其他业务收入合计",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "附注一2；表1、表3",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "市场实现收入规模",
+      "companions": "价格、产销量、回款",
+      "pitfalls": "不是增加值或现金流；企业间交易可重复。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业",
+            "汽车制造业",
+            "电气机械和器材制造业",
+            "计算机、通信和其他电子设备制造业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1三大门类、表3行业收入成本利润",
+          "limitation": "财务比率行业细分仅核验三大门类；非所有财务存量按行业发布。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B002",
+      "name": "规上工业营业成本",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "与营业收入相配比的主营和其他业务成本",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "附注一3；表1、表3",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "S",
+        "G",
+        "D"
+      ],
+      "interpretation": "经营成本压力",
+      "companions": "营业收入、原材料价格",
+      "pitfalls": "成本与费用分列；不可当全部社会成本。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业",
+            "汽车制造业",
+            "电气机械和器材制造业",
+            "计算机、通信和其他电子设备制造业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1三大门类、表3行业收入成本利润",
+          "limitation": "财务比率行业细分仅核验三大门类；非所有财务存量按行业发布。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B003",
+      "name": "规上工业利润总额",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "报告期生产经营等各项收入扣除耗费后的税前盈亏",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "附注一1；表1、表3",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "S",
+        "D",
+        "F"
+      ],
+      "interpretation": "盈利及自筹资金能力线索",
+      "companions": "收入、成本、应收、行业结构",
+      "pitfalls": "不是全国企业利润、净利润、留存收益或现金流。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业",
+            "汽车制造业",
+            "电气机械和器材制造业",
+            "计算机、通信和其他电子设备制造业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1三大门类、表3行业收入成本利润",
+          "limitation": "财务比率行业细分仅核验三大门类；非所有财务存量按行业发布。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B004",
+      "name": "规上工业资产总计",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "工业法人控制并预期带来经济利益的资产账面总计",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "正文年末；附注一4",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "G"
+      ],
+      "interpretation": "资产规模分母",
+      "companions": "负债、权益、周转率",
+      "pitfalls": "账面资产不是市场价值或可立即变現资金。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "本轮未核验该存量行业数据。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "未把其他比率分组覆盖推广到财务存量。"
+        }
+      ]
+    },
+    {
+      "id": "B005",
+      "name": "规上工业负债合计",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "工业法人承担的现时义务合计",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "正文年末；附注一5",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "债权性与经营性负债压力起点",
+      "companions": "资产、偿债现金流、期限结构",
+      "pitfalls": "含经营应付；不是全部有息债务，不等于风险。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "本轮未核验该存量行业数据。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "未把其他比率分组覆盖推广到财务存量。"
+        }
+      ]
+    },
+    {
+      "id": "B006",
+      "name": "规上工业所有者权益合计",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "资产扣除负债后的剩余权益",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "正文年末；附注一6",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "账面损失缓冲",
+      "companions": "资产、负债、利润",
+      "pitfalls": "不等于当年留存收益；不能从变动直接读投资资金来源。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "本轮未核验该存量行业数据。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "未把其他比率分组覆盖推广到财务存量。"
+        }
+      ]
+    },
+    {
+      "id": "B007",
+      "name": "规上工业应收账款",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "按摊余成本计量的销售及服务等经营应收款",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "正文年末；附注一7",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "S"
+      ],
+      "interpretation": "收入到回款之间资金占用",
+      "companions": "营业收入、回收期、账龄",
+      "pitfalls": "余额增加不自动代表逾期坏账。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "本轮未核验该存量行业数据。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "未把其他比率分组覆盖推广到财务存量。"
+        }
+      ]
+    },
+    {
+      "id": "B008",
+      "name": "规上工业产成品存货",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "已完成生产验收入库或购入待售产成品商品",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "正文年末；附注一8",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F",
+        "S"
+      ],
+      "interpretation": "已完工库存占款",
+      "companions": "产销率、周转天数、价格",
+      "pitfalls": "不含全部原料/在产品；名义增加不能直接判主动补库。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "本轮未核验该存量行业数据。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "该存量在本文正文有全国值",
+          "limitation": "未把其他比率分组覆盖推广到财务存量。"
+        }
+      ]
+    },
+    {
+      "id": "B009",
+      "name": "规上工业营业收入利润率",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "利润总额与同期营业收入之比",
+      "unit": "%",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "表2；附注一9",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "S",
+        "D",
+        "G"
+      ],
+      "interpretation": "收入转换为税前盈利的比例",
+      "companions": "营业收入、费用、行业结构",
+      "pitfalls": "不是净资产收益率或资本回报率；口径相同才可比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表2三大工业门类的经济效益指标",
+          "limitation": "未在本文取得所有细分行业本指标，不能把表3利润分组套给本指标。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B010",
+      "name": "规上工业资产负债率",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "期末负债合计与期末资产总计之比",
+      "unit": "%",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "表2；附注一14",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "账面杠杆程度",
+      "companions": "盈利、周转、债务期限",
+      "pitfalls": "比例低不能排除流动性风险；变化可能来自资产重估。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表2三大工业门类的经济效益指标",
+          "limitation": "未在本文取得所有细分行业本指标，不能把表3利润分组套给本指标。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B011",
+      "name": "规上工业应收账款平均回收期",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "平均应收账款/营业收入×360×累计月数/12",
+      "unit": "天",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "表2；附注一16",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "S",
+        "G"
+      ],
+      "interpretation": "回款速度",
+      "companions": "应收账款、收入、账龄",
+      "pitfalls": "平均余额不能换成期末余额；不等于平均合同期限。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表2三大工业门类的经济效益指标",
+          "limitation": "未在本文取得所有细分行业本指标，不能把表3利润分组套给本指标。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B012",
+      "name": "规上工业产成品存货周转天数",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "平均产成品存货/营业成本×360×累计月数/12",
+      "unit": "天",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "表2；附注一15",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "G"
+      ],
+      "interpretation": "成品库存资金周转",
+      "companions": "销量、成本、价格",
+      "pitfalls": "分母为营业成本；期末库存替代平均会扭曲。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表2三大工业门类的经济效益指标",
+          "limitation": "未在本文取得所有细分行业本指标，不能把表3利润分组套给本指标。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B013",
+      "name": "规上工业每百元资产实现营业收入",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "营业收入/平均资产/累计月数×12×100",
+      "unit": "元/百元资产",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "表2；附注一12",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "G",
+        "S"
+      ],
+      "interpretation": "名义资产利用效率线索",
+      "companions": "资产结构、价格、利润率",
+      "pitfalls": "不是TFP；分母平均账面资产，不能用期末资本存量替代。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表2三大工业门类的经济效益指标",
+          "limitation": "未在本文取得所有细分行业本指标，不能把表3利润分组套给本指标。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B014",
+      "name": "规上工业人均营业收入",
+      "family": "工业企业财务",
+      "module": "工业经营与效率",
+      "definition": "营业收入/平均用工人数/累计月数×12",
+      "unit": "万元/人",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "年主营业务收入2000万元及以上工业法人单位",
+      "source_id": "B_S01",
+      "source_locator": "表2；附注一13",
+      "history": "原文说明按月全面调查、上年同期可比基数调整；本次核验2025全年及上年增速，不宣称已逐年下载。",
+      "breaks": "财务存量细分未在本页正文取得；年度样本进退、统计执法、去重导致两版原值不可直接算同比；企业类型交叉。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "G",
+        "S",
+        "D"
+      ],
+      "interpretation": "每名用工对应的名义销售收入",
+      "companions": "实际增加值、工时、外包比例",
+      "pitfalls": "不是实际劳动生产率；价格、外包和产业结构均影响。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "规上工业法人合计"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "正文与表1—3；门槛2000万元。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "本页没有31省表",
+          "limitation": "逐省公开连续性未核验。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "采矿业",
+            "制造业",
+            "电力、热力、燃气及水生产和供应业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表2三大工业门类的经济效益指标",
+          "limitation": "未在本文取得所有细分行业本指标，不能把表3利润分组套给本指标。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "国有控股企业",
+            "股份制企业",
+            "外商及港澳台投资企业",
+            "私营企业"
+          ],
+          "source_ids": [
+            "B_S01"
+          ],
+          "evidence": "表1及表2经济类型分组",
+          "limitation": "类型交叉不可加总；不是规模以下或全部私营企业。"
+        }
+      ]
+    },
+    {
+      "id": "B015",
+      "name": "固定资产投资（不含农户）",
+      "family": "投资",
+      "module": "资本投入",
+      "definition": "完成建造和购置固定资产的货币工作量及相关费用",
+      "unit": "亿元",
+      "frequency": "月度（1月免报）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "500万元及以上固定资产项目及全部房地产开发项目",
+      "source_id": "B_S02",
+      "source_locator": "正文首段；附注1、2",
+      "history": "附注给出按月调查及2024年12月以来环比修订表；本次并已访问2025年1—9月发布。",
+      "breaks": "FAI不是支出法资本形成；可比基数随经济普查、制度方法和执法修订；细类多数只公开增速。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "G",
+        "S",
+        "D"
+      ],
+      "interpretation": "观察投资建设投入",
+      "companions": "资本形成总额、设备投资、实物投产",
+      "pitfalls": "不等于资本形成总额；不覆盖农户和全部小额项目。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "不含农户固定资产投资"
+          ],
+          "source_ids": [
+            "B_S02"
+          ],
+          "evidence": "正文与主要数据表",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "东部",
+            "中部",
+            "西部",
+            "东北"
+          ],
+          "source_ids": [
+            "B_S02"
+          ],
+          "evidence": "仅四大区域合计及组成省份说明",
+          "limitation": "并未发布31省逐省数据。"
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业",
+            "采矿业",
+            "电力热力燃气水",
+            "交通运输仓储邮政",
+            "水利环境公共设施"
+          ],
+          "source_ids": [
+            "B_S02"
+          ],
+          "evidence": "主要数据表行业增速",
+          "limitation": "多数仅增速、非绝对投资额。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "内资",
+            "港澳台投资",
+            "外商投资",
+            "国有控股",
+            "民间投资"
+          ],
+          "source_ids": [
+            "B_S02"
+          ],
+          "evidence": "主要数据表",
+          "limitation": "控股与登记类型不应交叉相加。"
+        }
+      ]
+    },
+    {
+      "id": "B016",
+      "name": "设备工器具购置投资增速",
+      "family": "投资",
+      "module": "资本投入",
+      "definition": "固定资产投资构成中设备工器具购置的可比名义同比",
+      "unit": "%",
+      "frequency": "月度（1月免报）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、三次产业、部分行业、登记注册类型和四大区域；未提供31省逐省值。",
+      "source_id": "B_S02",
+      "source_locator": "主要数据表按构成分；附注7",
+      "history": "附注给出按月调查及2024年12月以来环比修订表；本次并已访问2025年1—9月发布。",
+      "breaks": "FAI不是支出法资本形成；可比基数随经济普查、制度方法和执法修订；细类多数只公开增速。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "G",
+        "I",
+        "S"
+      ],
+      "interpretation": "设备更新投入信号",
+      "companions": "技术改造、利用率、生产率",
+      "pitfalls": "购买金额增速不是产能增速或效率提升；本页未给绝对数。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国设备工器具购置投资"
+          ],
+          "source_ids": [
+            "B_S02"
+          ],
+          "evidence": "主要数据表按构成分",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S02"
+          ],
+          "evidence": "本文设备购置只发布全国增速",
+          "limitation": "不能据表中其他行业投资数据推定设备购置行业覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B017",
+      "name": "房地产开发投资",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "含房屋、土地开发、公益建筑及土地购置费的开发投资",
+      "unit": "亿元",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F",
+        "S"
+      ],
+      "interpretation": "开发建设投入",
+      "companions": "土地费用、施工、竣工、到位资金",
+      "pitfalls": "含土地费用，不等于新增加值或住宅资本形成。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "东部",
+            "中部",
+            "西部",
+            "东北"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表2—3仅投资、销售四区域",
+          "limitation": "其余指标的区域覆盖未核验，更非31省逐省。"
+        }
+      ]
+    },
+    {
+      "id": "B018",
+      "name": "房屋新开工面积",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "本期首次正式开工单位工程整栋建筑面积",
+      "unit": "万平方米",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S"
+      ],
+      "interpretation": "新增建设项目量",
+      "companions": "销售、施工进度、资金",
+      "pitfalls": "不含续建复工；开工不等于当期完成工作量。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "本页未提供本项区域分表",
+          "limitation": "全国值不代表31省均覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B019",
+      "name": "房屋竣工面积",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "达到竣工验收和移交使用条件的房屋面积",
+      "unit": "万平方米",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F",
+        "S"
+      ],
+      "interpretation": "建设完工验证",
+      "companions": "新开工、交付、待售",
+      "pitfalls": "竣工不等于售出或现金回收。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "本页未提供本项区域分表",
+          "limitation": "全国值不代表31省均覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B020",
+      "name": "新建商品房销售面积",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "本期签署正式销售合同确认的房屋建筑面积",
+      "unit": "万平方米",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "累计",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1与表3；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F"
+      ],
+      "interpretation": "新房购买需求量",
+      "companions": "销售额、价格指数、二手交易",
+      "pitfalls": "非全部住房交易；合同成交非入住。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "东部",
+            "中部",
+            "西部",
+            "东北"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表2—3仅投资、销售四区域",
+          "limitation": "其余指标的区域覆盖未核验，更非31省逐省。"
+        }
+      ]
+    },
+    {
+      "id": "B021",
+      "name": "新建商品房销售额",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "与销售面积同口径的合同总价款",
+      "unit": "亿元",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1与表3；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F"
+      ],
+      "interpretation": "合同交易规模",
+      "companions": "销售面积、到位资金、收款",
+      "pitfalls": "销售额不是现金到账；单价受结构影响。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "东部",
+            "中部",
+            "西部",
+            "东北"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表2—3仅投资、销售四区域",
+          "limitation": "其余指标的区域覆盖未核验，更非31省逐省。"
+        }
+      ]
+    },
+    {
+      "id": "B022",
+      "name": "商品房待售面积",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "期末已竣工可销售出租但尚未销售出租房屋面积",
+      "unit": "万平方米",
+      "frequency": "月度（1月除外）",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F"
+      ],
+      "interpretation": "已竣工待售库存",
+      "companions": "销售面积、竣工、城市供需",
+      "pitfalls": "不等于全部空置、预售未售或停工库存。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "本页未提供本项区域分表",
+          "limitation": "全国值不代表31省均覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B023",
+      "name": "房地产开发企业本年到位资金",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "本期实际用于房地产开发的各类货币资金",
+      "unit": "亿元",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "有开发经营活动的房地产开发经营法人单位",
+      "source_id": "B_S03",
+      "source_locator": "表1到位资金及五项来源；附注1",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "S"
+      ],
+      "interpretation": "开发资金可得性",
+      "companions": "销售回款、投资、债务到期",
+      "pitfalls": "资金来源不能与收入或新增贷款等同，分类合计还含其他资金。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "国内贷款",
+            "利用外资",
+            "自筹资金",
+            "定金及预收款",
+            "个人按揭贷款"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按资金来源分列",
+          "limitation": "来源类别不是完整机构部门金融账户。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "本页未提供本项区域分表",
+          "limitation": "全国值不代表31省均覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B024",
+      "name": "新建商品房平均合同单价",
+      "family": "房地产",
+      "module": "房地产与土地",
+      "definition": "同报告期销售额除以销售面积，亿元/万平方米乘10000换算元/平方米",
+      "unit": "元/平方米",
+      "frequency": "月度（1月除外）",
+      "time_type": "期间",
+      "stock_flow": "价格",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国全部有开发经营活动的房地产法人；表1住宅、办公楼、商业营业用房；投资销售有四区域。",
+      "source_id": "B_S03",
+      "source_locator": "表1新建商品房销售额、销售面积",
+      "history": "明确按月全面调查；并核验2025年1—10及1—11月发布链接，支持持续机制。",
+      "breaks": "不含二手房成交全貌、全部存量空置、隐性停工；本轮未核验逐省及地级连续全覆盖。",
+      "origin": "透明派生",
+      "formula": "B021 / B020 × 10000",
+      "inputs": [
+        "B021",
+        "B020"
+      ],
+      "conditions": "销售面积大于0；币种、时期、用途、地域相同。",
+      "systems": [
+        "K",
+        "F"
+      ],
+      "interpretation": "解释销售额中量和单位价款变化",
+      "companions": "70城同质价格指数、城市和用途结构",
+      "pitfalls": "此为成交构成均价，不是恒定质量房价指数。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "房地产开发经营法人"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表1与范围附注",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "住宅",
+            "办公楼",
+            "商业营业用房"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "按房屋用途分类",
+          "limitation": "用途不等于国民经济行业。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "东部",
+            "中部",
+            "西部",
+            "东北"
+          ],
+          "source_ids": [
+            "B_S03"
+          ],
+          "evidence": "表2—3仅投资、销售四区域",
+          "limitation": "其余指标的区域覆盖未核验，更非31省逐省。"
+        }
+      ]
+    },
+    {
+      "id": "B025",
+      "name": "一般公共预算收入",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "一般公共预算范围内税收及非税收入",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "source_id": "B_S04",
+      "source_locator": "一（一）",
+      "history": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "breaks": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "D"
+      ],
+      "interpretation": "财政常规收入基础",
+      "companions": "税非税、中央地方、经济税基",
+      "pitfalls": "不是全口径政府收入。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国汇总"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "财政部全年统计",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "中央",
+            "地方合计"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "中央及地方分列",
+          "limitation": "地方本级收入不含中央转移。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "本页无31省分表",
+          "limitation": "不得推广为所有省级连续公开。"
+        }
+      ]
+    },
+    {
+      "id": "B026",
+      "name": "一般公共预算支出",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "一般公共预算实际支出",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "source_id": "B_S04",
+      "source_locator": "一（二）",
+      "history": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "breaks": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "公共支出强度与结构",
+      "companions": "收入、调入资金、功能支出",
+      "pitfalls": "收入减支出不等于法定赤字。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国汇总"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "财政部全年统计",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "中央",
+            "地方合计"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "中央及地方分列",
+          "limitation": "地方本级收入不含中央转移。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "本页无31省分表",
+          "limitation": "不得推广为所有省级连续公开。"
+        }
+      ]
+    },
+    {
+      "id": "B027",
+      "name": "非税收入",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "一般公共预算中非税收收入",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "source_id": "B_S04",
+      "source_locator": "一（一）",
+      "history": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "breaks": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "收入结构与非经常来源线索",
+      "companions": "税收收入、资产处置、上缴收益",
+      "pitfalls": "非税不全是一次性，需拆解来源。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国汇总"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "财政部全年统计",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "中央",
+            "地方合计"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "中央及地方分列",
+          "limitation": "地方本级收入不含中央转移。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "本页无31省分表",
+          "limitation": "不得推广为所有省级连续公开。"
+        }
+      ]
+    },
+    {
+      "id": "B028",
+      "name": "国有土地使用权出让收入",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "地方政府性基金预算记录的土地使用权出让收入",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "source_id": "B_S04",
+      "source_locator": "二（一）其中项",
+      "history": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "breaks": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "K",
+        "S"
+      ],
+      "interpretation": "土地相关财政现金来源",
+      "companions": "土地成本、基金支出、土地成交",
+      "pitfalls": "不是土地净收益或全年签约总额。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国汇总"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "财政部全年统计",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "地方政府合计"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "地方政府性基金收入其中国有土地使用权出让收入",
+          "limitation": "不含中央土地出让的另行假设。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "本页无31省分表",
+          "limitation": "不得推广为所有省级连续公开。"
+        }
+      ]
+    },
+    {
+      "id": "B029",
+      "name": "政府性基金预算收入",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "政府性基金预算常规收入",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "source_id": "B_S04",
+      "source_locator": "二（一）",
+      "history": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "breaks": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "F",
+        "D"
+      ],
+      "interpretation": "专项政府收入基础",
+      "companions": "土地收入、专项债及基金支出",
+      "pitfalls": "基金收入不含收支总量中的债务筹资等。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国汇总"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "财政部全年统计",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "中央",
+            "地方合计"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "中央及地方分列",
+          "limitation": "地方本级收入不含中央转移。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "本页无31省分表",
+          "limitation": "不得推广为所有省级连续公开。"
+        }
+      ]
+    },
+    {
+      "id": "B030",
+      "name": "政府性基金预算支出",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "政府性基金预算按制度安排的实际支出",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国、中央、地方合计；列税收/非税、功能支出和土地收入。",
+      "source_id": "B_S04",
+      "source_locator": "二（二）",
+      "history": "财政收支栏目具有月度发布序列；本页为全年执行快报，后续预算报告与决算会修订。",
+      "breaks": "执行数非决算；全国收支差额不是官方赤字；基金收入不含债务筹資等收入总量项目；未核验31省。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "项目及专项支出力度",
+      "companions": "基金收入、专项债、结余",
+      "pitfalls": "不能与一般预算机械相加后称政府消费。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国汇总"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "财政部全年统计",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "中央",
+            "地方合计"
+          ],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "中央及地方分列",
+          "limitation": "地方本级收入不含中央转移。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S04"
+          ],
+          "evidence": "本页无31省分表",
+          "limitation": "不得推广为所有省级连续公开。"
+        }
+      ]
+    },
+    {
+      "id": "B031",
+      "name": "中央对地方一般公共预算转移支付",
+      "family": "财政",
+      "module": "财政收支",
+      "definition": "中央一般公共预算对地方转移支付决算，含一般性与专项转移支付",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "中央财政决算、全国地方债汇总；非31省财政决算全表。",
+      "source_id": "B_S08",
+      "source_locator": "一（一）支出决算段",
+      "history": "2025中央决算对比同年执行数，明确6月最终核算阶段；年度人大常委会审查机制。",
+      "breaks": "中央决算报告不等于全国各预算完整决算库；地方债2025余额548231.96亿元区别3月548230.82亿元。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "S",
+        "D",
+        "F"
+      ],
+      "interpretation": "区域财政支撑与再分配",
+      "companions": "地方本级收入、转移支出用途",
+      "pitfalls": "非地方新增自有收入；中央与地方支出不能重复加总。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中央对地方合计"
+          ],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "决算明确101823.03亿元",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "此报告未给31省分配表",
+          "limitation": "本轮未核验逐省到款与决算。"
+        }
+      ]
+    },
+    {
+      "id": "B032",
+      "name": "国债余额",
+      "family": "政府债务",
+      "module": "财政资产负债表",
+      "definition": "中央财政国债期末余额，分内债外债",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "年末",
+      "population": "中央财政决算、全国地方债汇总；非31省财政决算全表。",
+      "source_id": "B_S08",
+      "source_locator": "一（一）国债发行还本及余额段",
+      "history": "2025中央决算对比同年执行数，明确6月最终核算阶段；年度人大常委会审查机制。",
+      "breaks": "中央决算报告不等于全国各预算完整决算库；地方债2025余额548231.96亿元区别3月548230.82亿元。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "中央债务规模起点",
+      "companions": "财政收入、付息、到期结构、币种",
+      "pitfalls": "不是总公共债务或风险概率；与地方债范围分开。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中央财政国债"
+          ],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "决算国债余额412317.68亿元",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "中央政府"
+          ],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "仅中央财政债务",
+          "limitation": "不涵盖央行或国企负债。"
+        }
+      ]
+    },
+    {
+      "id": "B033",
+      "name": "地方政府一般债务余额",
+      "family": "政府债务",
+      "module": "财政资产负债表",
+      "definition": "纳入法定管理的地方政府一般债务期末余额",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "年末",
+      "population": "中央财政决算、全国地方债汇总；非31省财政决算全表。",
+      "source_id": "B_S08",
+      "source_locator": "一（一）地方债余额段",
+      "history": "2025中央决算对比同年执行数，明确6月最终核算阶段；年度人大常委会审查机制。",
+      "breaks": "中央决算报告不等于全国各预算完整决算库；地方债2025余额548231.96亿元区别3月548230.82亿元。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "S",
+        "D"
+      ],
+      "interpretation": "地方政府法定债务结构",
+      "companions": "财力、偿债预算、收入资产、期限",
+      "pitfalls": "含已置换隐债；不是所有城投债务，不能直接判风险。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "地方一般债务汇总"
+          ],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "6月决算报告余额",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "本页只有全国汇总；发行省级附表不能替代余额",
+          "limitation": "未核验31省该余额连续表。"
+        }
+      ]
+    },
+    {
+      "id": "B034",
+      "name": "地方政府专项债务余额",
+      "family": "政府债务",
+      "module": "财政资产负债表",
+      "definition": "纳入法定管理的地方政府专项债务期末余额",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "年末",
+      "population": "中央财政决算、全国地方债汇总；非31省财政决算全表。",
+      "source_id": "B_S08",
+      "source_locator": "一（一）地方债余额段",
+      "history": "2025中央决算对比同年执行数，明确6月最终核算阶段；年度人大常委会审查机制。",
+      "breaks": "中央决算报告不等于全国各预算完整决算库；地方债2025余额548231.96亿元区别3月548230.82亿元。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "S",
+        "D"
+      ],
+      "interpretation": "地方政府法定债务结构",
+      "companions": "财力、偿债预算、收入资产、期限",
+      "pitfalls": "含已置换隐债；不是所有城投债务，不能直接判风险。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "地方专项债务汇总"
+          ],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "6月决算报告余额",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S08"
+          ],
+          "evidence": "本页只有全国汇总；发行省级附表不能替代余额",
+          "limitation": "未核验31省该余额连续表。"
+        }
+      ]
+    },
+    {
+      "id": "B035",
+      "name": "新增地方政府债券发行额",
+      "family": "政府债务",
+      "module": "债务发行与偿付",
+      "definition": "按新增债券类型发行的金额，分一般与专项",
+      "unit": "亿元",
+      "frequency": "月度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国及一般/专项；省级细分另见同页附表B_S06。",
+      "source_id": "B_S05",
+      "source_locator": "一（二）及附表2",
+      "history": "核验2025年12月及2026年6月发布搜索结果，原页提供累计与当月；持续月报机制。",
+      "breaks": "债券和债务范围有非债券形式差别；再融资不等于新增支出；余额可能受统计更新及置换影响。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "K",
+        "D"
+      ],
+      "interpretation": "新增预算筹資来源",
+      "companions": "债务余额、期限、财力、资金用途",
+      "pitfalls": "新增债券不等于所有新增投资，不同于债务余额净增。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "地方政府债券全国"
+          ],
+          "source_ids": [
+            "B_S05"
+          ],
+          "evidence": "月报累计及当月",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "附表逐列31省发行及偿还本金、付息",
+          "limitation": "本次已核验2025全年截面，未核验全部历史期。"
+        },
+        {
+          "dimension": "地级",
+          "status": "部分覆盖",
+          "members": [
+            "大连",
+            "宁波",
+            "厦门",
+            "青岛",
+            "深圳"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "计划单列市单列",
+          "limitation": "不代表全国地级市；注意所在省合计口径。"
+        }
+      ]
+    },
+    {
+      "id": "B036",
+      "name": "再融资地方政府债券发行额",
+      "family": "政府债务",
+      "module": "债务发行与偿付",
+      "definition": "按再融资债券类型发行的金额，分一般与专项",
+      "unit": "亿元",
+      "frequency": "月度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国及一般/专项；省级细分另见同页附表B_S06。",
+      "source_id": "B_S05",
+      "source_locator": "一（二）及附表2",
+      "history": "核验2025年12月及2026年6月发布搜索结果，原页提供累计与当月；持续月报机制。",
+      "breaks": "债券和债务范围有非债券形式差别；再融资不等于新增支出；余额可能受统计更新及置换影响。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "K",
+        "D"
+      ],
+      "interpretation": "再融资与期限置换活动",
+      "companions": "债务余额、期限、财力、资金用途",
+      "pitfalls": "不全用于偿还当年到期本金；不能当投资支出。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "地方政府债券全国"
+          ],
+          "source_ids": [
+            "B_S05"
+          ],
+          "evidence": "月报累计及当月",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "附表逐列31省发行及偿还本金、付息",
+          "limitation": "本次已核验2025全年截面，未核验全部历史期。"
+        },
+        {
+          "dimension": "地级",
+          "status": "部分覆盖",
+          "members": [
+            "大连",
+            "宁波",
+            "厦门",
+            "青岛",
+            "深圳"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "计划单列市单列",
+          "limitation": "不代表全国地级市；注意所在省合计口径。"
+        }
+      ]
+    },
+    {
+      "id": "B037",
+      "name": "地方政府债券到期偿还本金",
+      "family": "政府债务",
+      "module": "债务发行与偿付",
+      "definition": "报告期到期地方政府债券偿还本金总额",
+      "unit": "亿元",
+      "frequency": "月度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国及一般/专项；省级细分另见同页附表B_S06。",
+      "source_id": "B_S05",
+      "source_locator": "一（三）及附表3",
+      "history": "核验2025年12月及2026年6月发布搜索结果，原页提供累计与当月；持续月报机制。",
+      "breaks": "债券和债务范围有非债券形式差别；再融资不等于新增支出；余额可能受统计更新及置换影响。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "K",
+        "D"
+      ],
+      "interpretation": "到期周转需求",
+      "companions": "债务余额、期限、财力、资金用途",
+      "pitfalls": "含再融资偿还，不等于财政资金净负担。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "地方政府债券全国"
+          ],
+          "source_ids": [
+            "B_S05"
+          ],
+          "evidence": "月报累计及当月",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "附表逐列31省发行及偿还本金、付息",
+          "limitation": "本次已核验2025全年截面，未核验全部历史期。"
+        },
+        {
+          "dimension": "地级",
+          "status": "部分覆盖",
+          "members": [
+            "大连",
+            "宁波",
+            "厦门",
+            "青岛",
+            "深圳"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "计划单列市单列",
+          "limitation": "不代表全国地级市；注意所在省合计口径。"
+        }
+      ]
+    },
+    {
+      "id": "B038",
+      "name": "地方政府债券支付利息",
+      "family": "政府债务",
+      "module": "债务发行与偿付",
+      "definition": "按债券起息日口径统计的地方债券利息支付",
+      "unit": "亿元",
+      "frequency": "月度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国及一般/专项；省级细分另见同页附表B_S06。",
+      "source_id": "B_S05",
+      "source_locator": "一（三）及附表3",
+      "history": "核验2025年12月及2026年6月发布搜索结果，原页提供累计与当月；持续月报机制。",
+      "breaks": "债券和债务范围有非债券形式差别；再融资不等于新增支出；余额可能受统计更新及置换影响。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "K",
+        "D"
+      ],
+      "interpretation": "债券利息支出流量",
+      "companions": "债务余额、期限、财力、资金用途",
+      "pitfalls": "不同于全部地方政府利息及一般预算债务付息功能科目。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "地方政府债券全国"
+          ],
+          "source_ids": [
+            "B_S05"
+          ],
+          "evidence": "月报累计及当月",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "已覆盖",
+          "members": [
+            "北京",
+            "天津",
+            "河北",
+            "山西",
+            "内蒙古",
+            "辽宁",
+            "吉林",
+            "黑龙江",
+            "上海",
+            "江苏",
+            "浙江",
+            "安徽",
+            "福建",
+            "江西",
+            "山东",
+            "河南",
+            "湖北",
+            "湖南",
+            "广东",
+            "广西",
+            "海南",
+            "重庆",
+            "四川",
+            "贵州",
+            "云南",
+            "西藏",
+            "陕西",
+            "甘肃",
+            "青海",
+            "宁夏",
+            "新疆"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "附表逐列31省发行及偿还本金、付息",
+          "limitation": "本次已核验2025全年截面，未核验全部历史期。"
+        },
+        {
+          "dimension": "地级",
+          "status": "部分覆盖",
+          "members": [
+            "大连",
+            "宁波",
+            "厦门",
+            "青岛",
+            "深圳"
+          ],
+          "source_ids": [
+            "B_S06"
+          ],
+          "evidence": "计划单列市单列",
+          "limitation": "不代表全国地级市；注意所在省合计口径。"
+        }
+      ]
+    },
+    {
+      "id": "B039",
+      "name": "商业银行不良贷款余额",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "五级分类中次级、可疑及损失贷款余额合计",
+      "unit": "亿元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第8行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "识别已确认信用风险规模",
+      "companions": "处置核销、不良生成、贷款分母",
+      "pitfalls": "存量下降可因核销和转让，不证明新风险下降。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "大型商业银行",
+            "股份制商业银行",
+            "城市商业银行",
+            "民营银行",
+            "农村商业银行",
+            "外资银行"
+          ],
+          "source_ids": [
+            "B_S10"
+          ],
+          "evidence": "分机构类情况表",
+          "limitation": "仅相应已列示指标；不能推广至所有机构或省级。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B040",
+      "name": "商业银行不良贷款率",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "不良贷款余额/各项贷款余额",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第14行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "确认不良占贷款比重",
+      "companions": "不良余额、贷款增长、逾期",
+      "pitfalls": "快速扩贷可稀释比率；不涵盖未确认损失。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "大型商业银行",
+            "股份制商业银行",
+            "城市商业银行",
+            "民营银行",
+            "农村商业银行",
+            "外资银行"
+          ],
+          "source_ids": [
+            "B_S10"
+          ],
+          "evidence": "分机构类情况表",
+          "limitation": "仅相应已列示指标；不能推广至所有机构或省级。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B041",
+      "name": "商业银行关注类贷款余额",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "目前能偿还但存在不利因素的关注类贷款余额",
+      "unit": "亿元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第7行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "信用风险前端信号",
+      "companions": "不良迁徙、逾期、展期",
+      "pitfalls": "关注不等于不良，不能重复计入不良。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B042",
+      "name": "商业银行贷款损失准备",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "为贷款信用损失计提的准备余额",
+      "unit": "亿元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第18行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "贷款损失吸收储备",
+      "companions": "不良余额、计提、核销",
+      "pitfalls": "不是现金储备；与一般准备区分。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B043",
+      "name": "商业银行拨备覆盖率",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "贷款损失准备/不良贷款余额",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第19行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "确认不良对应拨备比率",
+      "companions": "不良认定、拨备计提、资本",
+      "pitfalls": "高比例也可能由低估不良分母造成。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "大型商业银行",
+            "股份制商业银行",
+            "城市商业银行",
+            "民营银行",
+            "农村商业银行",
+            "外资银行"
+          ],
+          "source_ids": [
+            "B_S10"
+          ],
+          "evidence": "分机构类情况表",
+          "limitation": "仅相应已列示指标；不能推广至所有机构或省级。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B044",
+      "name": "商业银行资本净额",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "资本监管规定认可并扣除相关项目后的合规资本",
+      "unit": "亿元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第37行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "合规资本缓冲规模",
+      "companions": "风险加权资产、损失、补充资本",
+      "pitfalls": "非会计所有者权益；监管扣除和构成重要。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B045",
+      "name": "商业银行风险加权资产合计",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "应用资本底线后的风险加权资产",
+      "unit": "亿元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第41行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "资本充足率的风险暴露分母",
+      "companions": "总资产、资产结构、风险权重",
+      "pitfalls": "不是总资产；权重变化可影响资本率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B046",
+      "name": "商业银行资本充足率",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "合规资本净额/风险加权资产",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第44行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "风险暴露对应资本厚度",
+      "companions": "资本净额、风险加权资产、资产质量",
+      "pitfalls": "2024新资本办法前后不直接可比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "大型商业银行",
+            "股份制商业银行",
+            "城市商业银行",
+            "民营银行",
+            "农村商业银行",
+            "外资银行"
+          ],
+          "source_ids": [
+            "B_S10"
+          ],
+          "evidence": "分机构类情况表",
+          "limitation": "仅相应已列示指标；不能推广至所有机构或省级。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B047",
+      "name": "商业银行核心一级资本充足率",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "核心一级资本净额/风险加权资产",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第42行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "高质量资本缓冲",
+      "companions": "资本净额、损失、盈利留存",
+      "pitfalls": "不能仅据总量认定全部银行充足。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B048",
+      "name": "商业银行流动性覆盖率",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "合格优质流动性资产/未来30天压力情景净现金流出",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第25行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "短期压力流动性缓冲",
+      "companions": "稳定资金、存款集中度、期限缺口",
+      "pitfalls": "仅2000亿元以上银行汇总；分子分母原值未公开于该表。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "部分覆盖",
+          "members": [
+            "资产规模2000亿元以上商业银行"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "表尾脚注2",
+          "limitation": "不代表所有银行。"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B049",
+      "name": "商业银行净稳定资金比例",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "可用稳定资金/所需稳定资金",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第26行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "较长期稳定融资覆盖",
+      "companions": "LCR、长期资产、负债期限",
+      "pitfalls": "不是存贷比；仅规模门槛内银行。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "部分覆盖",
+          "members": [
+            "资产规模2000亿元以上商业银行"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "表尾脚注2",
+          "limitation": "不代表所有银行。"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "商业银行合计"
+          ],
+          "source_ids": [
+            "B_S09"
+          ],
+          "evidence": "该指标未在已读分机构表全部列示",
+          "limitation": "不能把同表其他指标的分组覆盖套给本项。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B050",
+      "name": "商业银行净利润",
+      "family": "银行监管",
+      "module": "银行稳健性",
+      "definition": "商业银行报告期累计税后利润",
+      "unit": "亿元",
+      "frequency": "季度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "商业银行法人口径；资本指标不含外国银行分行，LCR/NSFR受规模门槛限制",
+      "source_id": "B_S09",
+      "source_locator": "原始xls第28行，B—E列季度；定义另参B_S11—14",
+      "history": "本附件实际含2025四季数据；年度页面滚动更新，必须保存抓取日和文件指纹。",
+      "breaks": "web访问正文/附件未成功解析；已用官方公开API定位并以HTTP读取原始xls，xlrd核验单元格。证据为选行提取非完整原件归档。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同季度、同机构边界；百分数单元格为比例值需乘100；展示依官方格式舍入。",
+      "systems": [
+        "F",
+        "S"
+      ],
+      "interpretation": "内生资本补充能力线索",
+      "companions": "分红、拨备、资本、收入结构",
+      "pitfalls": "净利润不全留存；不能等同全国金融部门增加值。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商业银行法人口径合计"
+          ],
+          "source_ids": [
+            "B_S09",
+            "B_S11"
+          ],
+          "evidence": "季度监管表与正文脚注",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "大型商业银行",
+            "股份制商业银行",
+            "城市商业银行",
+            "民营银行",
+            "农村商业银行",
+            "外资银行"
+          ],
+          "source_ids": [
+            "B_S10"
+          ],
+          "evidence": "分机构类情况表",
+          "limitation": "仅相应已列示指标；不能推广至所有机构或省级。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S09",
+            "B_S10"
+          ],
+          "evidence": "全国表无省级分列",
+          "limitation": "地方监管局样本不等于31省可比覆盖。"
+        }
+      ]
+    },
+    {
+      "id": "B051",
+      "name": "海关口径货物出口额",
+      "family": "对外贸易",
+      "module": "货物贸易",
+      "definition": "实际出境并减少境内物质存量的货物出口金额，原则为离岸价",
+      "unit": "亿元",
+      "frequency": "月度（海关）；年度公报已核验",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国；主要商品和伙伴、部分企业性质/贸易方式。",
+      "source_id": "B_S19",
+      "source_locator": "七、对外经济；表10—13；海关统计条例4—13条",
+      "history": "公报图示近年序列；2025月报原值对比公报有小额修订，不混用。",
+      "breaks": "不将商品分类等同国民经济行业；伙伴不是省份；2025出口1月发布269892亿元、公报269890亿元。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "境外市场销售需求",
+      "companions": "贸易数量价格、伙伴结构、国际收支",
+      "pitfalls": "不等同国际收支货物交易；名义金额含价格汇率；不能代替净出口GDP贡献。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "货物贸易全国"
+          ],
+          "source_ids": [
+            "B_S19",
+            "B_S20"
+          ],
+          "evidence": "公报表10",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "机电产品",
+            "高新技术产品",
+            "钢材",
+            "集成电路",
+            "手机"
+          ],
+          "source_ids": [
+            "B_S19"
+          ],
+          "evidence": "表10—12商品分类",
+          "limitation": "商品类别不是国民经济行业。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "民营企业"
+          ],
+          "source_ids": [
+            "B_S19"
+          ],
+          "evidence": "正文给进出口和出口金额",
+          "limitation": "本次不推广为全部所有制×贸易方式交叉覆盖。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S19"
+          ],
+          "evidence": "本公报无31省货物贸易表",
+          "limitation": "伙伴国表不是地区表。"
+        }
+      ]
+    },
+    {
+      "id": "B052",
+      "name": "海关口径货物进口额",
+      "family": "对外贸易",
+      "module": "货物贸易",
+      "definition": "实际入境并增加境内物质存量的货物进口金额，原则为到岸价",
+      "unit": "亿元",
+      "frequency": "月度（海关）；年度公报已核验",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国；主要商品和伙伴、部分企业性质/贸易方式。",
+      "source_id": "B_S19",
+      "source_locator": "七、对外经济；表10—13；海关统计条例4—13条",
+      "history": "公报图示近年序列；2025月报原值对比公报有小额修订，不混用。",
+      "breaks": "不将商品分类等同国民经济行业；伙伴不是省份；2025出口1月发布269892亿元、公报269890亿元。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "国内进口需求和投入供给",
+      "companions": "贸易数量价格、伙伴结构、国际收支",
+      "pitfalls": "不等同国际收支货物交易；名义金额含价格汇率；不能代替净出口GDP贡献。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "货物贸易全国"
+          ],
+          "source_ids": [
+            "B_S19",
+            "B_S20"
+          ],
+          "evidence": "公报表10",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "机电产品",
+            "高新技术产品",
+            "钢材",
+            "集成电路",
+            "手机"
+          ],
+          "source_ids": [
+            "B_S19"
+          ],
+          "evidence": "表10—12商品分类",
+          "limitation": "商品类别不是国民经济行业。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "部分覆盖",
+          "members": [
+            "民营企业"
+          ],
+          "source_ids": [
+            "B_S19"
+          ],
+          "evidence": "正文给进出口和出口金额",
+          "limitation": "本次不推广为全部所有制×贸易方式交叉覆盖。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S19"
+          ],
+          "evidence": "本公报无31省货物贸易表",
+          "limitation": "伙伴国表不是地区表。"
+        }
+      ]
+    },
+    {
+      "id": "B053",
+      "name": "经常账户差额",
+      "family": "国际收支",
+      "module": "对外交易",
+      "definition": "货物、服务、初次收入、二次收入差额之和",
+      "unit": "亿美元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "source_id": "B_S15",
+      "source_locator": "2025全年概览表第1行；脚注1—8",
+      "history": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "breaks": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "D",
+        "F"
+      ],
+      "interpretation": "居民与非居民经常交易净额",
+      "companions": "储蓄投资、分项、金融账户",
+      "pitfalls": "顺差不等于汇率必然升值或全部出口收益留在国内。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国居民与非居民交易"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "BPM6全年表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "居民合计"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "本页概览；另述新增部门期限数据",
+          "limitation": "未读取新增明细表，故不声称部门分值已验证。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "该全国表无省际分列",
+          "limitation": "本轮未取得可持续省级同口径公开平衡表。"
+        }
+      ]
+    },
+    {
+      "id": "B054",
+      "name": "国际收支货物差额",
+      "family": "国际收支",
+      "module": "对外交易",
+      "definition": "BPM6货物贷方与借方净额，按经济所有权等口径调整",
+      "unit": "亿美元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "source_id": "B_S15",
+      "source_locator": "2025全年概览表第7行；脚注1—8",
+      "history": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "breaks": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "货物交易净流入",
+      "companions": "海关口径、转口与加工、服务",
+      "pitfalls": "不直接用海关顺差替代；居民和所有权边界不同。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国居民与非居民交易"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "BPM6全年表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "居民合计"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "本页概览；另述新增部门期限数据",
+          "limitation": "未读取新增明细表，故不声称部门分值已验证。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "该全国表无省际分列",
+          "limitation": "本轮未取得可持续省级同口径公开平衡表。"
+        }
+      ]
+    },
+    {
+      "id": "B055",
+      "name": "国际收支服务差额",
+      "family": "国际收支",
+      "module": "对外交易",
+      "definition": "BPM6服务交易贷借方净额",
+      "unit": "亿美元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "source_id": "B_S15",
+      "source_locator": "2025全年概览表第10行；脚注1—8",
+      "history": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "breaks": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "K",
+        "S",
+        "D"
+      ],
+      "interpretation": "服务贸易净需求",
+      "companions": "运输、旅行、知识产权服务",
+      "pitfalls": "与商务部服务贸易披露口径不同；不能混合拼表。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国居民与非居民交易"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "BPM6全年表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "居民合计"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "本页概览；另述新增部门期限数据",
+          "limitation": "未读取新增明细表，故不声称部门分值已验证。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "该全国表无省际分列",
+          "limitation": "本轮未取得可持续省级同口径公开平衡表。"
+        }
+      ]
+    },
+    {
+      "id": "B056",
+      "name": "初次收入差额",
+      "family": "国际收支",
+      "module": "对外交易",
+      "definition": "雇员报酬、投资收益等初次收入贷借净额",
+      "unit": "亿美元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "source_id": "B_S15",
+      "source_locator": "2025全年概览表第13行；脚注1—8",
+      "history": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "breaks": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "D",
+        "F"
+      ],
+      "interpretation": "对外收入分配净额",
+      "companions": "外部资产负债、投资收益",
+      "pitfalls": "资产多不必收益多；不能把全部差额解释为利润外流。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国居民与非居民交易"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "BPM6全年表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "居民合计"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "本页概览；另述新增部门期限数据",
+          "limitation": "未读取新增明细表，故不声称部门分值已验证。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "该全国表无省际分列",
+          "limitation": "本轮未取得可持续省级同口径公开平衡表。"
+        }
+      ]
+    },
+    {
+      "id": "B057",
+      "name": "直接投资负债交易净额",
+      "family": "国际收支",
+      "module": "对外交易",
+      "definition": "直接投资负债本期净增加，含股权、收益再投资和债务工具等",
+      "unit": "亿美元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "source_id": "B_S15",
+      "source_locator": "2025全年概览表第29行；脚注1—8",
+      "history": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "breaks": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "S",
+        "D"
+      ],
+      "interpretation": "对内直接投资的跨境交易流量",
+      "companions": "资本金新增、商务部FDI、IIP",
+      "pitfalls": "不是新设项目毛流入；负值也不等于所有外资撤离。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国居民与非居民交易"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "BPM6全年表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "居民合计"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "本页概览；另述新增部门期限数据",
+          "limitation": "未读取新增明细表，故不声称部门分值已验证。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "该全国表无省际分列",
+          "limitation": "本轮未取得可持续省级同口径公开平衡表。"
+        }
+      ]
+    },
+    {
+      "id": "B058",
+      "name": "证券投资负债交易净额",
+      "family": "国际收支",
+      "module": "对外交易",
+      "definition": "居民对非居民证券投资负债本期净增加",
+      "unit": "亿美元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国居民与非居民交易；概览功能账户，本页不提供31省及行业。",
+      "source_id": "B_S15",
+      "source_locator": "2025全年概览表第32行；脚注1—8",
+      "history": "本次修订2019年以来各季，声明最新以统计数据栏目为准；2025年新增收益、部门和期限细项。",
+      "breaks": "金融账户符号不能按旧版反转；直接投资负债净流量与商务部实际使用外资不同；不由差额推断资本外逃。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "跨境证券融资流量",
+      "companions": "股票债券细项、估值、汇率",
+      "pitfalls": "不包括持仓价格变动；差额不能定位所有投资者行为。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国居民与非居民交易"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "BPM6全年表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "居民合计"
+          ],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "本页概览；另述新增部门期限数据",
+          "limitation": "未读取新增明细表，故不声称部门分值已验证。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S15"
+          ],
+          "evidence": "该全国表无省际分列",
+          "limitation": "本轮未取得可持续省级同口径公开平衡表。"
+        }
+      ]
+    },
+    {
+      "id": "B059",
+      "name": "对外金融资产",
+      "family": "国际投资头寸",
+      "module": "对外资产负债表",
+      "definition": "居民持有非居民金融资产及储备资产的期末头寸",
+      "unit": "亿美元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国；直接投资分金融和非金融部门，其他投资按工具。",
+      "source_id": "B_S16",
+      "source_locator": "行2资产",
+      "history": "本次修订2024年以来各季；2025年末新增部门与期限数据。",
+      "breaks": "包含股权的对外负债不是外债；头寸变动含汇率价格等估值不能当资本流量；净资产不代表所有部门流动性充足。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "外部资产负债规模结构",
+      "companions": "交易流量、价格汇率估值、收益、期限",
+      "pitfalls": "对外负债含股权不是外债；头寸差额不能等同当期资金流动。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国对外金融头寸"
+          ],
+          "source_ids": [
+            "B_S16"
+          ],
+          "evidence": "期末概览表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "直接投资：金融部门",
+            "直接投资：非金融部门"
+          ],
+          "source_ids": [
+            "B_S16"
+          ],
+          "evidence": "直接投资项下明确列示",
+          "limitation": "其余项目不能推广为同一部门分类。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S16"
+          ],
+          "evidence": "未列省级",
+          "limitation": "本轮未取得省级同口径连续头寸表。"
+        }
+      ]
+    },
+    {
+      "id": "B060",
+      "name": "对外负债",
+      "family": "国际投资头寸",
+      "module": "对外资产负债表",
+      "definition": "非居民持有居民股权、债务等金融负债的期末头寸",
+      "unit": "亿美元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国；直接投资分金融和非金融部门，其他投资按工具。",
+      "source_id": "B_S16",
+      "source_locator": "行29负债",
+      "history": "本次修订2024年以来各季；2025年末新增部门与期限数据。",
+      "breaks": "包含股权的对外负债不是外债；头寸变动含汇率价格等估值不能当资本流量；净资产不代表所有部门流动性充足。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "外部资产负债规模结构",
+      "companions": "交易流量、价格汇率估值、收益、期限",
+      "pitfalls": "对外负债含股权不是外债；头寸差额不能等同当期资金流动。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "中国对外金融头寸"
+          ],
+          "source_ids": [
+            "B_S16"
+          ],
+          "evidence": "期末概览表",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "直接投资：金融部门",
+            "直接投资：非金融部门"
+          ],
+          "source_ids": [
+            "B_S16"
+          ],
+          "evidence": "直接投资项下明确列示",
+          "limitation": "其余项目不能推广为同一部门分类。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S16"
+          ],
+          "evidence": "未列省级",
+          "limitation": "本轮未取得省级同口径连续头寸表。"
+        }
+      ]
+    },
+    {
+      "id": "B061",
+      "name": "全口径外债余额",
+      "family": "外债",
+      "module": "对外资产负债表",
+      "definition": "居民对非居民承担还本或付息义务的债务余额，含人民币及外币",
+      "unit": "亿美元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国；广义政府、央行、其他存款公司、其他部门、直接投资公司间贷款。",
+      "source_id": "B_S17",
+      "source_locator": "正文首段及附表外债总额头寸",
+      "history": "2025年末起健全修订机制；时间序列入口B_S18明示2014年12月末以来。",
+      "breaks": "签约短期不能替代剩余期限一年到期债务；本币外债仍是外债；债务率国际参考线不足以单独判安全。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F",
+        "D"
+      ],
+      "interpretation": "外部债务规模与部门分布",
+      "companions": "币种、期限、出口收入、外汇资产",
+      "pitfalls": "不等于IIP全部负债；总量不是违约风险指标。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "内地全口径外债"
+          ],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "含本外币、不含港澳台自身外债",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "广义政府",
+            "中央银行",
+            "其他接受存款公司",
+            "其他部门",
+            "直接投资公司间贷款"
+          ],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "附表按部门及债务工具分列",
+          "limitation": "正文其他部门含公司间贷款，附表另列；不可重复加总。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "本页无省级",
+          "limitation": "本轮未取得31省连续同口径明细。"
+        }
+      ]
+    },
+    {
+      "id": "B062",
+      "name": "签约短期外债余额",
+      "family": "外债",
+      "module": "对外资产负债表",
+      "definition": "按签约期限划定的短期外债余额",
+      "unit": "亿美元",
+      "frequency": "季度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国；广义政府、央行、其他存款公司、其他部门、直接投资公司间贷款。",
+      "source_id": "B_S17",
+      "source_locator": "正文期限段及附表注1",
+      "history": "2025年末起健全修订机制；时间序列入口B_S18明示2014年12月末以来。",
+      "breaks": "签约短期不能替代剩余期限一年到期债务；本币外债仍是外债；债务率国际参考线不足以单独判安全。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同口径、同报告期；缺失不填零。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "原始短期限外债结构",
+      "companions": "剩余期限到期额、储备、币种、贸易信贷",
+      "pitfalls": "不是未来一年全部到期外债；不能直接宣称剩余期限流动性缺口。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "内地全口径外债"
+          ],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "含本外币、不含港澳台自身外债",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "广义政府",
+            "中央银行",
+            "其他接受存款公司",
+            "其他部门"
+          ],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "附表按部门及债务工具分列",
+          "limitation": "直接投资公司间贷款附表未按期限分拆，不能据此声称其短债部门值覆盖。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "本页无省级",
+          "limitation": "本轮未取得31省连续同口径明细。"
+        }
+      ]
+    },
+    {
+      "id": "B063",
+      "name": "签约短期外债占比",
+      "family": "外债",
+      "module": "对外资产负债表",
+      "definition": "签约短期外债余额占全口径外债余额比例",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "期末",
+      "population": "全国；广义政府、央行、其他存款公司、其他部门、直接投资公司间贷款。",
+      "source_id": "B_S17",
+      "source_locator": "正文期限结构及附表",
+      "history": "2025年末起健全修订机制；时间序列入口B_S18明示2014年12月末以来。",
+      "breaks": "签约短期不能替代剩余期限一年到期债务；本币外债仍是外债；债务率国际参考线不足以单独判安全。",
+      "origin": "透明派生",
+      "formula": "B062 / B061 × 100",
+      "inputs": [
+        "B062",
+        "B061"
+      ],
+      "conditions": "同一时点、同一货币单位、同一修订版本；分母>0。",
+      "systems": [
+        "F"
+      ],
+      "interpretation": "外债签约期限结构",
+      "companions": "本币比例、贸易相关信贷、剩余期限",
+      "pitfalls": "分母含本币外债；不是外币短债或全部一年内到期债务比例。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "内地全口径外债"
+          ],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "含本外币、不含港澳台自身外债",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "广义政府",
+            "中央银行",
+            "其他接受存款公司",
+            "其他部门",
+            "直接投资公司间贷款"
+          ],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "附表按部门及债务工具分列",
+          "limitation": "正文其他部门含公司间贷款，附表另列；不可重复加总。"
+        },
+        {
+          "dimension": "省级",
+          "status": "无稳定公开数据",
+          "members": [],
+          "source_ids": [
+            "B_S17"
+          ],
+          "evidence": "本页无省级",
+          "limitation": "本轮未取得31省连续同口径明细。"
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "system": "F",
+      "question": "确认信用风险—损失准备—资本缓冲—机构差异的可复算路径",
+      "source_ids": [
+        "B_S09",
+        "B_S10",
+        "B_S11",
+        "B_S12",
+        "B_S14"
+      ],
+      "inputs": [
+        {
+          "名称": "不良贷款余额",
+          "值": 34984.19,
+          "单位": "亿元",
+          "报告期": "2025年四季度末",
+          "定位": "B_S09原始附件E8"
+        },
+        {
+          "名称": "贷款损失准备",
+          "值": 71791.64,
+          "单位": "亿元",
+          "报告期": "2025年四季度末",
+          "定位": "B_S09原始附件E18"
+        },
+        {
+          "名称": "资本净额",
+          "值": 372708.9,
+          "单位": "亿元",
+          "报告期": "2025年四季度末",
+          "定位": "B_S09原始附件E37"
+        },
+        {
+          "名称": "应用资本底线后的风险加权资产合计",
+          "值": 2410795.21,
+          "单位": "亿元",
+          "报告期": "2025年四季度末",
+          "定位": "B_S09原始附件E41"
+        },
+        {
+          "名称": "农村商业银行不良贷款率",
+          "值": 2.72,
+          "单位": "%",
+          "报告期": "2025年四季度末",
+          "定位": "B_S10原始附件G42"
+        }
+      ],
+      "calculation": "拨备覆盖率=71791.64/34984.19×100≈205.21%；资本充足率=372708.90/2410795.21×100≈15.46%。样例计算采用表格展示精度；原始小数见证据选行。",
+      "result": {
+        "拨备覆盖率": 205.21,
+        "资本充足率": 15.46,
+        "单位": "%"
+      },
+      "permitted_conclusion": "可用同一季度原始分子分母复算拨备、资本两类缓冲，并分机构检查风险分布；这是核验方法，不是2026总体稳定性判断。",
+      "forbidden_conclusion": "不能因总量拨备覆盖高就断言每家银行无风险，不能把资本率与会计杠杆率混同，也不能从不良余额变动直接推断新增不良。",
+      "counterevidence_needed": [
+        "不良生成和核销处置流量",
+        "逾期/展期及分类偏离",
+        "机构分布和局部流动性",
+        "资本补充与风险权重调整"
+      ]
+    },
+    {
+      "system": "S",
+      "question": "行业经营实现与投入条件—同年利润率—结构差异验证",
+      "source_ids": [
+        "B_S01",
+        "B_S02"
+      ],
+      "inputs": [
+        {
+          "名称": "电子设备制造业营业收入",
+          "值": 174051.6,
+          "单位": "亿元",
+          "报告期": "2025年",
+          "定位": "B_S01表3计算机、通信和其他电子设备制造业行"
+        },
+        {
+          "名称": "电子设备制造业利润总额",
+          "值": 7508.5,
+          "单位": "亿元",
+          "报告期": "2025年",
+          "定位": "同一行业同一行利润列"
+        },
+        {
+          "名称": "汽车制造业营业收入",
+          "值": 111795.6,
+          "单位": "亿元",
+          "报告期": "2025年",
+          "定位": "B_S01表3汽车制造业行"
+        },
+        {
+          "名称": "汽车制造业利润总额",
+          "值": 4610.2,
+          "单位": "亿元",
+          "报告期": "2025年",
+          "定位": "同一行业同一行利润列"
+        },
+        {
+          "名称": "电子设备制造业投资增速",
+          "值": -3.2,
+          "单位": "%",
+          "报告期": "2025年",
+          "定位": "B_S02分行业投资增速表"
+        },
+        {
+          "名称": "汽车制造业投资增速",
+          "值": 11.7,
+          "单位": "%",
+          "报告期": "2025年",
+          "定位": "B_S02分行业投资增速表"
+        }
+      ],
+      "calculation": "电子营业收入利润率=7508.5/174051.6×100=4.31395%；汽车=4610.2/111795.6×100=4.12378%；差0.19017个百分点。",
+      "result": {
+        "电子利润率": 4.314,
+        "汽车利润率": 4.1238,
+        "单位": "%"
+      },
+      "permitted_conclusion": "可以复算同年同口径规上工业行业税前利润实现程度，并把行业投资动态作为配套条件核查。投资项目总体与工业法人总体并非逐户匹配，不能据此建立因果。",
+      "forbidden_conclusion": "不能据较高销售利润率断言该行业更具比较优势、投资回报率更高或应倾斜信贷；不能以规上工业利润代表全国利润。",
+      "counterevidence_needed": [
+        "平均资本和资本成本",
+        "技术能力与进口依赖",
+        "竞争和价格结构",
+        "现金流与回款",
+        "企业规模所有制与进入退出"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "system": "F",
+      "question": "偿债能力与资产质量",
+      "dimension": "省级",
+      "missing_item": "31省与地级可比银行资产质量及期限缺口",
+      "reason": "本轮全国监管表仅机构分类，地方局口径不一未形成全覆盖",
+      "allowed_alternative": "用六类银行分组与逐地官方样本，并逐项标口径",
+      "boundary": "不得用一个地方报告证明31省覆盖"
+    },
+    {
+      "system": "F",
+      "question": "政府债务与金融传导",
+      "dimension": "机构部门",
+      "missing_item": "统一、连续、免费可核验的全国隐性债务与完整地方政府资产负债表",
+      "reason": "法定债务余额不是隐债总体；公开估算口径不符合本任务规则",
+      "allowed_alternative": "法定一般/专项债、还本付息、预算财力和公开置换用途并列",
+      "boundary": "不得构造城投隐债模型估算或把显性总债务当风险"
+    },
+    {
+      "system": "G",
+      "question": "资本投入到效率",
+      "dimension": "行业",
+      "missing_item": "可比实际资本存量和行业TFP",
+      "reason": "FAI为投资工作量、平均账面资产也不是实际资本存量",
+      "allowed_alternative": "设备投资、资产周转、收入利润率、实际增加值和工时配套",
+      "boundary": "不以FAI替代资本形成或自行估算资本存量TFP"
+    },
+    {
+      "system": "S",
+      "question": "经营可持续性",
+      "dimension": "企业类型",
+      "missing_item": "规下企业和全体服务业的同口径月度盈利现金流",
+      "reason": "规上工业样本限定且月报无现金流表",
+      "allowed_alternative": "独立标注工业范围，用年度经济普查/公开财报补充样本",
+      "boundary": "不得将规上工业利润外推全国企业利润"
+    },
+    {
+      "system": "F",
+      "question": "房地产库存与资金链",
+      "dimension": "地级",
+      "missing_item": "全国地级可比未售未竣工、空置、停工及开发现金流",
+      "reason": "待售仅竣工可售租；本轮缺少稳定全口径市级清单",
+      "allowed_alternative": "销售/到位资金/新开工/竣工/待售组成有限证据组",
+      "boundary": "不得把待售当全部库存或销售额当现金收款"
+    },
+    {
+      "system": "F",
+      "question": "对外流动性",
+      "dimension": "机构部门",
+      "missing_item": "剩余期限一年内全部到期外债、分币种可用资产匹配",
+      "reason": "已读外债按签约期限，储备不可简单归属私人部门",
+      "allowed_alternative": "使用全口径外债及其币种、部门结构，另查剩余期限公开表",
+      "boundary": "不得用签约短债比直接声称未来一年偿付缺口"
+    },
+    {
+      "system": "D",
+      "question": "政府收支分配与再分配",
+      "dimension": "省级",
+      "missing_item": "31省及地级四本预算完整可比决算及转移收支合并",
+      "reason": "本轮仅全国/中央报告，尚无全省逐表核验",
+      "allowed_alternative": "逐省预算决算公开目录进一步登记，先用中央地方合计",
+      "boundary": "全国合计和个别省样本不是31省覆盖证明"
+    }
+  ],
+  "notes": [
+    "本组含63项实质指标；行业、用途、所有制及机构分类作为coverage记录，未机械拆指标。",
+    "数据值用于计算路径演示，样例报告期统一2025；不是当前经济形势报告，访问日不等于数据报告期。",
+    "公开比率沿用公开发布属性，定义字段说明公式；仅B024和B063为本组透明派生。原值公式写原文发布。",
+    "银行官方网页经web尝试未能解析，使用官方公开API定位文件并读取原始XLS；保留URL、SHA256和选行数据，未声称完整原文已归档。",
+    "B_S01—03范围、定义、表名由web原文核验；B_S09—10 XLS统计原值通过HTTP下载在内存读取，未生成Excel交付件。",
+    "财政统计需要版本：2025年地方债余额1月月报548231亿元、3月执行548230.82亿元、6月决算548231.96亿元。指标年度余额优先6月决算；发行还本付息采用月报，二者债券/债务范围区别保留。",
+    "SAFE3月样例为已核验固定版本；6月统计数据栏目可能修订，使用时须重新冻结版本。本轮不把旧稿称为最新数。",
+    "省级无稳定公开数据表示本轮未取得稳定依据，绝非绝对不存在；四大区域仅记部分覆盖。"
+  ]
+}

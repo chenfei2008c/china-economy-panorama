@@ -1,0 +1,273 @@
+{
+  "provinces": [
+    {
+      "code": "11",
+      "name": "北京",
+      "prefecture_count_2024": 0,
+      "municipality": true
+    },
+    {
+      "code": "12",
+      "name": "天津",
+      "prefecture_count_2024": 0,
+      "municipality": true
+    },
+    {
+      "code": "13",
+      "name": "河北",
+      "prefecture_count_2024": 11,
+      "municipality": false
+    },
+    {
+      "code": "14",
+      "name": "山西",
+      "prefecture_count_2024": 11,
+      "municipality": false
+    },
+    {
+      "code": "15",
+      "name": "内蒙古",
+      "prefecture_count_2024": 12,
+      "municipality": false
+    },
+    {
+      "code": "21",
+      "name": "辽宁",
+      "prefecture_count_2024": 14,
+      "municipality": false
+    },
+    {
+      "code": "22",
+      "name": "吉林",
+      "prefecture_count_2024": 9,
+      "municipality": false
+    },
+    {
+      "code": "23",
+      "name": "黑龙江",
+      "prefecture_count_2024": 13,
+      "municipality": false
+    },
+    {
+      "code": "31",
+      "name": "上海",
+      "prefecture_count_2024": 0,
+      "municipality": true
+    },
+    {
+      "code": "32",
+      "name": "江苏",
+      "prefecture_count_2024": 13,
+      "municipality": false
+    },
+    {
+      "code": "33",
+      "name": "浙江",
+      "prefecture_count_2024": 11,
+      "municipality": false
+    },
+    {
+      "code": "34",
+      "name": "安徽",
+      "prefecture_count_2024": 16,
+      "municipality": false
+    },
+    {
+      "code": "35",
+      "name": "福建",
+      "prefecture_count_2024": 9,
+      "municipality": false
+    },
+    {
+      "code": "36",
+      "name": "江西",
+      "prefecture_count_2024": 11,
+      "municipality": false
+    },
+    {
+      "code": "37",
+      "name": "山东",
+      "prefecture_count_2024": 16,
+      "municipality": false
+    },
+    {
+      "code": "41",
+      "name": "河南",
+      "prefecture_count_2024": 17,
+      "municipality": false
+    },
+    {
+      "code": "42",
+      "name": "湖北",
+      "prefecture_count_2024": 13,
+      "municipality": false
+    },
+    {
+      "code": "43",
+      "name": "湖南",
+      "prefecture_count_2024": 14,
+      "municipality": false
+    },
+    {
+      "code": "44",
+      "name": "广东",
+      "prefecture_count_2024": 21,
+      "municipality": false
+    },
+    {
+      "code": "45",
+      "name": "广西",
+      "prefecture_count_2024": 14,
+      "municipality": false
+    },
+    {
+      "code": "46",
+      "name": "海南",
+      "prefecture_count_2024": 4,
+      "municipality": false
+    },
+    {
+      "code": "50",
+      "name": "重庆",
+      "prefecture_count_2024": 0,
+      "municipality": true
+    },
+    {
+      "code": "51",
+      "name": "四川",
+      "prefecture_count_2024": 21,
+      "municipality": false
+    },
+    {
+      "code": "52",
+      "name": "贵州",
+      "prefecture_count_2024": 9,
+      "municipality": false
+    },
+    {
+      "code": "53",
+      "name": "云南",
+      "prefecture_count_2024": 16,
+      "municipality": false
+    },
+    {
+      "code": "54",
+      "name": "西藏",
+      "prefecture_count_2024": 7,
+      "municipality": false
+    },
+    {
+      "code": "61",
+      "name": "陕西",
+      "prefecture_count_2024": 10,
+      "municipality": false
+    },
+    {
+      "code": "62",
+      "name": "甘肃",
+      "prefecture_count_2024": 14,
+      "municipality": false
+    },
+    {
+      "code": "63",
+      "name": "青海",
+      "prefecture_count_2024": 8,
+      "municipality": false
+    },
+    {
+      "code": "64",
+      "name": "宁夏",
+      "prefecture_count_2024": 5,
+      "municipality": false
+    },
+    {
+      "code": "65",
+      "name": "新疆",
+      "prefecture_count_2024": 14,
+      "municipality": false
+    }
+  ],
+  "industries": [
+    {
+      "code": "A",
+      "name": "农、林、牧、渔业"
+    },
+    {
+      "code": "B",
+      "name": "采矿业"
+    },
+    {
+      "code": "C",
+      "name": "制造业"
+    },
+    {
+      "code": "D",
+      "name": "电力、热力、燃气及水生产和供应业"
+    },
+    {
+      "code": "E",
+      "name": "建筑业"
+    },
+    {
+      "code": "F",
+      "name": "批发和零售业"
+    },
+    {
+      "code": "G",
+      "name": "交通运输、仓储和邮政业"
+    },
+    {
+      "code": "H",
+      "name": "住宿和餐饮业"
+    },
+    {
+      "code": "I",
+      "name": "信息传输、软件和信息技术服务业"
+    },
+    {
+      "code": "J",
+      "name": "金融业"
+    },
+    {
+      "code": "K",
+      "name": "房地产业"
+    },
+    {
+      "code": "L",
+      "name": "租赁和商务服务业"
+    },
+    {
+      "code": "M",
+      "name": "科学研究和技术服务业"
+    },
+    {
+      "code": "N",
+      "name": "水利、环境和公共设施管理业"
+    },
+    {
+      "code": "O",
+      "name": "居民服务、修理和其他服务业"
+    },
+    {
+      "code": "P",
+      "name": "教育"
+    },
+    {
+      "code": "Q",
+      "name": "卫生和社会工作"
+    },
+    {
+      "code": "R",
+      "name": "文化、体育和娱乐业"
+    },
+    {
+      "code": "S",
+      "name": "公共管理、社会保障和社会组织"
+    },
+    {
+      "code": "T",
+      "name": "国际组织"
+    }
+  ],
+  "source_note": "地级数量来自2024年末表1-1，仅作研究边界与数量核对，不是2026实体名单，也不是逐指标覆盖数。"
+}

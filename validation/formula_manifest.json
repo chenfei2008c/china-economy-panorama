@@ -1,0 +1,162 @@
+[
+  {
+    "case": "CAL01",
+    "metric_id": "A012",
+    "cell": "判断规则!G57",
+    "formula": "=(B53/B54-1)*100",
+    "expected": 3.991863,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL01",
+    "metric_id": "A013",
+    "cell": "判断规则!G58",
+    "formula": "=((B53/B54)/(1+B55/100)-1)*100",
+    "expected": -0.96013,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL01",
+    "metric_id": "A055",
+    "cell": "判断规则!G59",
+    "formula": "=B56-(B53/B54-1)*100",
+    "expected": 4.508137,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL02",
+    "metric_id": "A056",
+    "cell": "判断规则!G68",
+    "formula": "=B64/B65*100",
+    "expected": 67.953062,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL02",
+    "metric_id": "C038",
+    "cell": "判断规则!G69",
+    "formula": "=B66/B67",
+    "expected": 2.310353,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL03",
+    "metric_id": "B024",
+    "cell": "判断规则!G76",
+    "formula": "=B74/B75*10000",
+    "expected": 9527.360643,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL04",
+    "metric_id": "B063",
+    "cell": "判断规则!G83",
+    "formula": "=B81/B82*100",
+    "expected": 56.546866,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL05",
+    "metric_id": "C036",
+    "cell": "判断规则!G90",
+    "formula": "=B88/B89",
+    "expected": 10.224433,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL06",
+    "metric_id": "R013",
+    "cell": "判断规则!G100",
+    "formula": "=B95/B96*100",
+    "expected": 61.208628,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL06",
+    "metric_id": "R014",
+    "cell": "判断规则!G101",
+    "formula": "=B97/B95*100",
+    "expected": 34.918463,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL06",
+    "metric_id": "R016",
+    "cell": "判断规则!G102",
+    "formula": "=B98/B95*100",
+    "expected": 11.512095,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL06",
+    "metric_id": "账户核对",
+    "cell": "判断规则!G103",
+    "formula": "=B95-(B99-B98)-B97",
+    "expected": -0.1,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL07",
+    "metric_id": "R015",
+    "cell": "判断规则!G110",
+    "formula": "=B108/B109*100",
+    "expected": 53.097827,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL08",
+    "metric_id": "B043复核",
+    "cell": "判断规则!G119",
+    "formula": "=B116/B115*100",
+    "expected": 205.211668,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL08",
+    "metric_id": "B046复核",
+    "cell": "判断规则!G120",
+    "formula": "=B117/B118*100",
+    "expected": 15.459998,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL09",
+    "metric_id": "研发结构复核",
+    "cell": "判断规则!G132",
+    "formula": "=B125/B126*100",
+    "expected": 6.884449,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL09",
+    "metric_id": "C026复核",
+    "cell": "判断规则!G133",
+    "formula": "=(B127+B129)/B128*100",
+    "expected": 45.931436,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL09",
+    "metric_id": "B009复核",
+    "cell": "判断规则!G134",
+    "formula": "=B130/B131*100",
+    "expected": 4.123776,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL10",
+    "metric_id": "专利收益差额",
+    "cell": "判断规则!G141",
+    "formula": "=B139-B140",
+    "expected": 2.5,
+    "tolerance": 0.00001
+  },
+  {
+    "case": "CAL10",
+    "metric_id": "专利收益比率",
+    "cell": "判断规则!G142",
+    "formula": "=(B139/B140-1)*100",
+    "expected": 0.287522,
+    "tolerance": 0.00001
+  }
+]

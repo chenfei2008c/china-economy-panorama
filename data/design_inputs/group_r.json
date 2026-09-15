@@ -1,0 +1,1086 @@
+{
+  "sources": [
+    {
+      "id": "R_FOF",
+      "title": "中国统计年鉴2025 表3-15资金流量表（非金融交易，2023）",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-15.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/zb03.pdf",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2023年",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "表3-15；指标解释印刷页98—100；国民核算简要说明",
+      "definition_evidence": "记录部门收入、使用与资金余缺。实际最终消费按最终受益者归属，仍为当年价格；不是不变价消费。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "非金融企业、金融机构、广义政府、住户、国外和国内合计；运用与来源分别列示。",
+      "limitations": "2023普查后修订1992年以来非金融交易历史数据；金额亿元；存在统计差额。"
+    },
+    {
+      "id": "R_NA_NOTE",
+      "title": "中国统计年鉴2025 国民经济核算简要说明",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/sm03.htm",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/sm03.htm",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年；依表标注",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "国内生产总值、资金流量表两节",
+      "definition_evidence": "GDP历史和资金流量历史已作普查修订；部分活动仅计入全国，地区GDP加总不必等于全国。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "全国、31省统一核算；机构部门核算",
+      "limitations": "表中最新年并非最终数。"
+    },
+    {
+      "id": "R_REGION_GDP",
+      "title": "中国统计年鉴2025 表3-9地区生产总值",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C03-09.jpg",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年；依表标注",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "表3-9全部地区行和列头",
+      "definition_evidence": "金额为当年价格，增速指数按可比价格；分列三次产业、主要行业、人均GDP。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "31个省级地区的2024年GDP及主要行业列",
+      "limitations": "主要行业不是全部97大类；表内空白不填零。"
+    },
+    {
+      "id": "R_REGION_INCOME",
+      "title": "中国统计年鉴2025 表6-18分地区居民人均可支配收入",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C06-18.jpg",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年；依表标注",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "表6-18，2018—2024年列",
+      "definition_evidence": "住户调查人均可支配收入；单位元。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "全国和31省年度总居民人均收入",
+      "limitations": "本表不含城市×收入五等份；分省总量不代表居民分布。"
+    },
+    {
+      "id": "R_REGION_INVESTMENT",
+      "title": "中国统计年鉴2025 表10-18分地区各行业固定资产投资比上年增长情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C10-18.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C10-18.jpg",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年；依表标注",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "表10-18，2024年",
+      "definition_evidence": "各地区按所列行业给出同比增长百分比。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "31省目录及表列行业交叉，部分单元空缺",
+      "limitations": "不能由增长率逆推出未公布的投资金额，不对空白补零。"
+    },
+    {
+      "id": "R_REGION_UNITS",
+      "title": "中国统计年鉴2025 表1-5分地区按主要行业分法人单位数",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C01-05.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C01-05.jpg",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年；依表标注",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "表1-5",
+      "definition_evidence": "法人单位计数，按地区及主要行业列示。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "31省×表列主要行业",
+      "limitations": "法人单位数不等于实际活跃企业数，不能由此推算企业进入退出率。"
+    },
+    {
+      "id": "R_REGION_ADMIN",
+      "title": "中国统计年鉴2025 表1-1全国行政区划",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C01-01.jpg",
+      "definition_url": "https://www.stats.gov.cn/sj/ndsj/2025/html/C01-01.jpg",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024-12-31",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "2024年底，各省地级/县级分类数量",
+      "definition_evidence": "地级行政区划数含地级市、地区、自治州、盟，直辖市不计入地级行政区划数。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "31省及下辖地级数量；全国地级333个，地级市293个",
+      "limitations": "只验证2024年底分类数量；不提供2026年全部地级名称及逐指标覆盖。"
+    },
+    {
+      "id": "R_CLASS_NOTE",
+      "title": "国民经济行业分类包括哪些类别",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903769.html",
+      "definition_url": "https://www.stats.gov.cn/zs/tjws/tjbz/202301/t20230101_1903769.html",
+      "publication_date": "2025-03-21",
+      "access_date": "2026-09-15",
+      "reporting_period": "现行标准说明",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "正文现行分类和编码层次",
+      "definition_evidence": "GB/T4754—2017并按第1号修改单修订，20门类、97大类、473中类、1382小类。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "全行业分类层次",
+      "limitations": "分类存在不代表所有分类单元有公开统计指标。"
+    },
+    {
+      "id": "R_INDUSTRY",
+      "title": "国民经济行业分类（按第1号修改单修订）",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/tjbz/gmjjhyfl/202501/P020250116506795831658.pdf",
+      "definition_url": "https://www.stats.gov.cn/sj/tjbz/gmjjhyfl/202501/P020250116506795831658.pdf",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "GB/T4754—2017及第1号修改单",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "分类代码表与说明",
+      "definition_evidence": "行业按照经济活动性质分类；专题产业需另行映射。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "A—T门类及细分行业代码",
+      "limitations": "跨版本需映射，不机械拼接。"
+    },
+    {
+      "id": "R_CITY_NOTE",
+      "title": "什么是城市高质量发展统计监测",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zs/tjws/tjdc/202301/t20230101_1903449.html",
+      "definition_url": "https://www.stats.gov.cn/zs/tjws/tjdc/202301/t20230101_1903449.html",
+      "publication_date": "2025-04-27",
+      "access_date": "2026-09-15",
+      "reporting_period": "现行统计制度说明",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "调查范围、来源与发布方式",
+      "definition_evidence": "地级以上城市年度统计，区分全市与市辖区；资料来自已有统计和行政记录。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "全国地级以上城市的统计制度范围；公开指标还需逐表核验",
+      "limitations": "制度覆盖不等于本项目取得每个城市全部免费数据；自治州等地级单位不能凭该文自动视为城市调查样本。"
+    },
+    {
+      "id": "R_GEO_RULE",
+      "title": "统计用区划代码和城乡划分代码编制规则",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/tjbz/gjtjbz/202302/t20230213_1902741.html",
+      "definition_url": "https://www.stats.gov.cn/sj/tjbz/gjtjbz/202302/t20230213_1902741.html",
+      "publication_date": "2009-11-25",
+      "access_date": "2026-09-15",
+      "reporting_period": "代码规则",
+      "frequency": "年度；分类标准随版本修订",
+      "location": "代码结构与县以上编码方法",
+      "definition_evidence": "县以上代码使用行政区划代码标准；统计用代码还包含乡村层级。",
+      "history_evidence": "已核验2025年鉴目录、表图与适用说明；不声称逐年连续序列全部已复核。",
+      "coverage_evidence": "省、地、县层级编码含义",
+      "limitations": "不作为2026年实体名单；区划与研究年度绑定。"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "R001",
+      "name": "机构部门增加值",
+      "family": "资金流量-机构部门增加值",
+      "module": "国民核算与部门分配",
+      "definition": "部门生产活动创造的增加值；使用国内合计作全国生产口径分母。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；二、增加值",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "G",
+        "S",
+        "D"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R002",
+      "name": "机构部门劳动者报酬",
+      "family": "资金流量-机构部门劳动者报酬",
+      "module": "国民核算与部门分配",
+      "definition": "从事生产活动取得的货币及实物劳动报酬，含按官方定义计入的社保等项目；运用与来源不同。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；三、劳动者报酬",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "G",
+        "K"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R003",
+      "name": "机构部门初次分配总收入",
+      "family": "资金流量-机构部门初次分配总收入",
+      "module": "国民核算与部门分配",
+      "definition": "生产形成的收入经劳动报酬、生产税净额和财产收入分配后的部门总收入。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；六、初次分配总收入",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R004",
+      "name": "机构部门可支配总收入",
+      "family": "资金流量-机构部门可支配总收入",
+      "module": "国民核算与部门分配",
+      "definition": "初次分配总收入经经常转移收支调整后的部门可支配总收入。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；八、可支配总收入",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R005",
+      "name": "机构部门实物社会转移",
+      "family": "资金流量-机构部门实物社会转移",
+      "module": "国民核算与部门分配",
+      "definition": "政府免费或以非显著经济价格向住户提供消费性货物服务的价值。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；九、实物社会转移",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "K",
+        "S"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R006",
+      "name": "机构部门调整后可支配总收入",
+      "family": "资金流量-机构部门调整后可支配总收入",
+      "module": "国民核算与部门分配",
+      "definition": "部门可支配总收入再按实物社会转移调整，匹配实际最终消费归属。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；十、调整后可支配总收入",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R007",
+      "name": "机构部门实际最终消费",
+      "family": "资金流量-机构部门实际最终消费",
+      "module": "国民核算与部门分配",
+      "definition": "按实际享有货物服务的部门归属计量的最终消费，包括住户接受的实物社会转移；不是不变价消费。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；十一、实际最终消费",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R008",
+      "name": "机构部门总储蓄",
+      "family": "资金流量-机构部门总储蓄",
+      "module": "国民核算与部门分配",
+      "definition": "可支配总收入减最终消费支出的余额；与银行存款增加不同。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；十二、总储蓄",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "M",
+        "F"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R009",
+      "name": "机构部门资本形成总额",
+      "family": "资金流量-机构部门资本形成总额",
+      "module": "国民核算与部门分配",
+      "definition": "获得减处置的生产性固定资产和存货形成；不是固定资产投资统计额。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；十四、资本形成总额",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "G",
+        "S",
+        "K"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R010",
+      "name": "机构部门净金融投资",
+      "family": "资金流量-机构部门净金融投资",
+      "module": "国民核算与部门分配",
+      "definition": "部门非金融投资后的资金余缺；来源与运用、统计差额均依原表保留。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；十六、净金融投资",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "F",
+        "M"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R011",
+      "name": "机构部门财产收入",
+      "family": "资金流量-机构部门财产收入",
+      "module": "国民核算与部门分配",
+      "definition": "利息、红利、地租及其他财产收入和支出；分别读取来源和运用。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；五、财产收入",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "F"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R012",
+      "name": "机构部门经常转移",
+      "family": "资金流量-机构部门经常转移",
+      "module": "国民核算与部门分配",
+      "definition": "经常税、社会保险缴款、福利、补助等转移收支，按来源和运用记录。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "国民经济核算常住机构单位；国外按非常住单位交易记录",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15；七、经常转移",
+      "history": "已核验2023表；简要说明确认1992年以来历史修订，完整逐年覆盖未展开采集",
+      "breaks": "第五次经济普查后历史修订；沿用同一版本，不拼接旧表",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "同年份同版本；来源和运用分别选取；空白不按零值推断",
+      "systems": [
+        "D",
+        "K"
+      ],
+      "interpretation": "连接部门收入、支出与资金余缺；需结合相邻账户解释变化。",
+      "companions": "部门可支配收入、消费、储蓄、资本形成及净金融投资",
+      "pitfalls": "统计部门不是所有制分类；实际最终消费中的实际不表示不变价。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R013",
+      "name": "住户部门可支配总收入占比",
+      "family": "住户部门可支配总收入占比",
+      "module": "国民核算与部门分配",
+      "definition": "住户部门在国内可支配总收入中的份额。",
+      "unit": "%",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "资金流量表同版机构部门",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15，按公式括号定位",
+      "history": "由可比原值决定；当前已核验2023样本",
+      "breaks": "与输入序列同版修订",
+      "origin": "透明派生",
+      "formula": "R004[住户,来源] / R004[国内合计,来源] × 100",
+      "inputs": [
+        "R004"
+      ],
+      "conditions": "同年份同版本；分母>0；缺输入不计算。分母为同表国内合计，不用住户调查人均收入乘人口替代。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "住户部门在国内可支配总收入中的份额。比较变化需同时看分子与分母。",
+      "companions": "居民分组收入、消费和部门核算",
+      "pitfalls": "分母为同表国内合计，不用住户调查人均收入乘人口替代。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R014",
+      "name": "住户部门总储蓄率",
+      "family": "住户部门总储蓄率",
+      "module": "国民核算与部门分配",
+      "definition": "住户部门总储蓄占可支配总收入的比例。",
+      "unit": "%",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "资金流量表同版机构部门",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15，按公式括号定位",
+      "history": "由可比原值决定；当前已核验2023样本",
+      "breaks": "与输入序列同版修订",
+      "origin": "透明派生",
+      "formula": "R008[住户] / R004[住户,来源] × 100",
+      "inputs": [
+        "R008",
+        "R004"
+      ],
+      "conditions": "同年份同版本；分母>0；缺输入不计算。国民核算部门储蓄率；不是存款增量/收入，也不同于住户调查消费收入比。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "住户部门总储蓄占可支配总收入的比例。比较变化需同时看分子与分母。",
+      "companions": "居民分组收入、消费和部门核算",
+      "pitfalls": "国民核算部门储蓄率；不是存款增量/收入，也不同于住户调查消费收入比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R015",
+      "name": "国内劳动者报酬占增加值比重",
+      "family": "国内劳动者报酬占增加值比重",
+      "module": "国民核算与部门分配",
+      "definition": "国内生产过程中支付的劳动者报酬占增加值比例，保留统计劳动报酬定义。",
+      "unit": "%",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "资金流量表同版机构部门",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15，按公式括号定位",
+      "history": "由可比原值决定；当前已核验2023样本",
+      "breaks": "与输入序列同版修订",
+      "origin": "透明派生",
+      "formula": "R002[国内合计,运用] / R001[国内合计,来源] × 100",
+      "inputs": [
+        "R002",
+        "R001"
+      ],
+      "conditions": "同年份同版本；分母>0；缺输入不计算。不用住户来源列取代国内运用列；混合收入等按官方分类，不自定分拆。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "国内生产过程中支付的劳动者报酬占增加值比例，保留统计劳动报酬定义。比较变化需同时看分子与分母。",
+      "companions": "居民分组收入、消费和部门核算",
+      "pitfalls": "不用住户来源列取代国内运用列；混合收入等按官方分类，不自定分拆。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    },
+    {
+      "id": "R016",
+      "name": "住户实物社会转移增益比",
+      "family": "住户实物社会转移增益比",
+      "module": "国民核算与部门分配",
+      "definition": "住户获得的实物社会转移相对其可支配总收入的比例。",
+      "unit": "%",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "资金流量表同版机构部门",
+      "source_id": "R_FOF",
+      "source_locator": "表3-15，按公式括号定位",
+      "history": "由可比原值决定；当前已核验2023样本",
+      "breaks": "与输入序列同版修订",
+      "origin": "透明派生",
+      "formula": "R005[住户,来源] / R004[住户,来源] × 100",
+      "inputs": [
+        "R005",
+        "R004"
+      ],
+      "conditions": "同年份同版本；分母>0；缺输入不计算。反映非现金公共服务的归属，不等于现金补贴或居民可自由支配现金。",
+      "systems": [
+        "D"
+      ],
+      "interpretation": "住户获得的实物社会转移相对其可支配总收入的比例。比较变化需同时看分子与分母。",
+      "companions": "居民分组收入、消费和部门核算",
+      "pitfalls": "反映非现金公共服务的归属，不等于现金补贴或居民可自由支配现金。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": "中国内地国民核算口径",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15国内合计",
+          "limitation": "2023年，发布有时滞"
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": "非金融企业、金融机构、广义政府、住户、国外；按每行实际发布项目取值",
+          "source_ids": [
+            "R_FOF"
+          ],
+          "evidence": "表3-15部门列；运用、来源双列",
+          "limitation": "空白保留；并非每一交易行在每个部门都有值"
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "system": "D",
+      "question": "D4 生产、消费和再投资有哪些张力？",
+      "source_ids": [
+        "R_FOF",
+        "R_NA_NOTE"
+      ],
+      "inputs": [
+        {
+          "name": "住户可支配总收入",
+          "value": 786890.6,
+          "unit": "亿元",
+          "period": "2023",
+          "location": "表3-15八、住户来源"
+        },
+        {
+          "name": "国内可支配总收入",
+          "value": 1285587.7,
+          "unit": "亿元",
+          "period": "2023",
+          "location": "表3-15八、国内合计来源"
+        },
+        {
+          "name": "住户总储蓄",
+          "value": 274770.1,
+          "unit": "亿元",
+          "period": "2023",
+          "location": "表3-15十二、住户"
+        },
+        {
+          "name": "住户实际最终消费",
+          "value": 602708.2,
+          "unit": "亿元",
+          "period": "2023",
+          "location": "表3-15十一、住户"
+        },
+        {
+          "name": "住户实物社会转移",
+          "value": 90587.6,
+          "unit": "亿元",
+          "period": "2023",
+          "location": "表3-15九、住户来源"
+        }
+      ],
+      "calculation": "住户收入份额=786890.6/1285587.7×100；储蓄率=274770.1/786890.6×100；最终消费支出=602708.2−90587.6；收入−最终消费支出=274770.0，与发布总储蓄相差0.1亿元（四舍五入）。",
+      "result": "收入份额约61.21%，部门总储蓄率约34.92%；账户关系在0.1亿元舍入差异内吻合。",
+      "permitted_conclusion": "证明部门收入—最终消费支出—储蓄链可执行；实际最终消费需要扣除实物社会转移后再与可支配收入相减。",
+      "forbidden_conclusion": "不能将年度部门储蓄率归因于全部居民主动少消费，也不能由单年水平证明分配恶化。",
+      "counterevidence_needed": "同版本历史序列、住户分组消费资料、对外收支和资本转移；不能把2023结果当作2026当期状态。"
+    }
+  ],
+  "gaps": [
+    {
+      "system": "全部",
+      "question": "地级与居民/行业交叉",
+      "dimension": "地级",
+      "missing_item": "全国全部地级单位×全部指标×居民/行业的免费连续交叉表",
+      "reason": "官方城市统计制度说明不提供完整免费矩阵；本次仅确认实际公开样本和上级表覆盖",
+      "allowed_alternative": "全国/分省公开统计作相应层级判断，已核验城市另列",
+      "boundary": "不把制度范围或城市目录数量当作逐单元数据覆盖"
+    },
+    {
+      "system": "G",
+      "question": "G3",
+      "dimension": "全国/行业/地级",
+      "missing_item": "全要素生产率与潜在增速",
+      "reason": "需要资本存量、折旧、产出弹性等模型假设，超出本版透明计算边界",
+      "allowed_alternative": "官方全员劳动生产率、实际产出和就业等观察证据",
+      "boundary": "不能将替代证据命名为TFP或潜在增速"
+    }
+  ],
+  "notes": [
+    "根组补充资金流量核算及地域行业标准；所有表图均已目视核验。"
+  ]
+}

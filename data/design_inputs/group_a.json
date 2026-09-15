@@ -1,0 +1,4526 @@
+{
+  "sources": [
+    {
+      "id": "A_S01",
+      "title": "2025年四季度和全年国内生产总值初步核算结果",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260120_1962349.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260120_1962349.html",
+      "publication_date": "2026-01-20",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年四季度及全年",
+      "frequency": "季度、年度",
+      "location": "表1—3；附件中国GDP季度核算说明1.1、1.2、1.4、5",
+      "definition_evidence": "绝对额为现价，增速为不变价；生产法增加值扣除中间投入；全国不含港澳台；季度表不是月度数据。",
+      "history_evidence": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "coverage_evidence": "全国；三次产业；11个行业及制造业子项。",
+      "limitations": "初步数可修订；季调序列随新信息更新；未证明31省或地级所有细分可得。"
+    },
+    {
+      "id": "A_S02",
+      "title": "国家统计局关于2024年国内生产总值最终核实的公告",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202512/t20251226_1962144.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202512/t20251226_1962144.html",
+      "publication_date": "2025-12-26",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年最终核实",
+      "frequency": "年度",
+      "location": "正文、附件1、附件2年度GDP核算说明",
+      "definition_evidence": "2024年现价GDP最终数1348066亿元；初步数下修1018亿元；不变价增速5.0%。",
+      "history_evidence": "核算说明确认1952年以来年度GDP序列及普查后追溯修订；数据库同步更新最终核实结果。",
+      "coverage_evidence": "全国、三次产业和11个行业、制造业。",
+      "limitations": "历史原发公报与修订库不能混用；本次只提取2024最终数作2025名义同比基期。"
+    },
+    {
+      "id": "A_S03",
+      "title": "中华人民共和国2025年国民经济和社会发展统计公报",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202602/t20260228_1962662.html",
+      "publication_date": "2026-02-28",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年全年及年末",
+      "frequency": "年度",
+      "location": "一综合、五国内贸易、九居民收入消费；注释1—8、41",
+      "definition_evidence": "公报列三大需求拉动百分点；全员劳动生产率按2020年价GDP/就业人数；GNI包含国外初次收入净额；城镇新增就业扣自然减员。",
+      "history_evidence": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "coverage_evidence": "全国；三次产业；城乡就业；本地/外出农民工；东中西东北区域。",
+      "limitations": "公报为初步统计；部分数值舍入；区域合计不证明逐省数据齐全。"
+    },
+    {
+      "id": "A_S04",
+      "title": "2025年居民收入和消费支出情况",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962321.html",
+      "publication_date": "2026-01-19",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年全年",
+      "frequency": "季度累计、年度",
+      "location": "正文一二、表1、附注1—2",
+      "definition_evidence": "住户收入与消费均含现金和实物；季度不含自产自用，年度包含；常住地分城乡。",
+      "history_evidence": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "coverage_evidence": "全国、城镇/农村；八大消费类别；调查覆盖31省不等于本页公开31省结果。",
+      "limitations": "收入分布、中位数、四类来源由C组处理；人均指标不能直接代替机构部门账户；年度减前三季度含口径差。"
+    },
+    {
+      "id": "A_S05",
+      "title": "2025年12月份社会消费品零售总额增长0.9%",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260119_1962323.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260119_1962323.html",
+      "publication_date": "2026-01-19",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年12月、1—12月",
+      "frequency": "月度当期和累计",
+      "location": "主要数据表、附注1—6",
+      "definition_evidence": "社零为实物商品销售及餐饮，含社会集团非生产经营用途；不是全体居民全部消费；增速名义。",
+      "history_evidence": "表含当月和累计；附注5给13个月季调环比并说明修订；附注6标记五经普后可比增速。",
+      "coverage_evidence": "全国；经营地城镇/乡村；商品/餐饮；限额以上和以下；限上16商品类。",
+      "limitations": "限额及平台样本逐年变；原发绝对额相除未必复现官方可比增速；网上非实物不进社零。"
+    },
+    {
+      "id": "A_S06",
+      "title": "2025年12月中国采购经理指数运行情况",
+      "publisher": "国家统计局服务业调查中心、中国物流与采购联合会",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202512/t20251231_1962218.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202512/t20251231_1962218.html",
+      "publication_date": "2025-12-31",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年12月",
+      "frequency": "月度",
+      "location": "表1—4、附注1—5",
+      "definition_evidence": "分类指数为扩散指数；制造业PMI加权5项，配送时间逆向；综合产出用制造业生产及非制造业活动加权；均季调。",
+      "history_evidence": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "coverage_evidence": "制造业31大类3200家、非制造业43大类4300家；大中小企业制造业PMI；建筑/服务活动。",
+      "limitations": "调查覆盖行业不等于逐行业指数全部公开；50是环比扩张/收缩分界，非产值增速。"
+    },
+    {
+      "id": "A_S07",
+      "title": "2025年经济发展向新向优 预期目标圆满实现",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962330.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962330.html",
+      "publication_date": "2026-01-19",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年12月及全年",
+      "frequency": "月度、季度、年度混合",
+      "location": "八就业、九收入、四消费、附注及附表",
+      "definition_evidence": "2025年12月城镇调查失业率5.1%、企业周工时48.6小时；服务性消费占住户支出46.1%；须逐项辨认报告期。",
+      "history_evidence": "正文及附表为月度国民经济发布；可与A_S08的2023年12月同名项目定位对照。",
+      "coverage_evidence": "全国；本地/外来/外来农业户籍；31大城市合计；城乡收支。",
+      "limitations": "31大城市指标是汇总率，不是31个城市各自失业率；企业就业工时不覆盖所有劳动者。"
+    },
+    {
+      "id": "A_S08",
+      "title": "2023年国民经济回升向好 高质量发展扎实推进",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202401/t20240117_1946624.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202401/t20240117_1946624.html",
+      "publication_date": "2024-01-17",
+      "access_date": "2026-09-15",
+      "reporting_period": "2023年12月及全年",
+      "frequency": "月度发布",
+      "location": "八就业；附注9—11",
+      "definition_evidence": "原文给2023年12月不含在校生16—24、25—29、30—59岁失业率14.9%、6.1%、3.9%。",
+      "history_evidence": "为新年龄口径的起始公开月份提供原值证据；发布日与报告月相区分。",
+      "coverage_evidence": "全国城镇、不含在校生的三年龄组。",
+      "limitations": "2023年GDP等旧值已可能修订，本源仅用于失业率口径起点；不用于当前GDP基期。"
+    },
+    {
+      "id": "A_S09",
+      "title": "关于完善分年龄组调查失业率有关情况的说明",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202401/t20240117_1946641.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202401/t20240117_1946641.html",
+      "publication_date": "2024-01-17",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年发布制度说明",
+      "frequency": "制度说明",
+      "location": "两项调整及末段发布方式",
+      "definition_evidence": "分年龄失业率剔除在校生，增加25—29岁；列16—24、25—29、30—59三个口径。",
+      "history_evidence": "明确今后在国家统计局数据发布库按月发布。",
+      "coverage_evidence": "全国城镇三年龄组；不能把组间简单平均当总体。",
+      "limitations": "新旧年龄口径不可无标识拼接；总体城镇率是否含学生参A_S11。"
+    },
+    {
+      "id": "A_S10",
+      "title": "调查失业率的计算方法",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zs/tjws/zytjzbqs/tcsyl/202411/t20241115_1957491.html",
+      "definition_url": "https://www.stats.gov.cn/zs/tjws/zytjzbqs/tcsyl/202411/t20241115_1957491.html",
+      "publication_date": "2024-11-29",
+      "access_date": "2026-09-15",
+      "reporting_period": "方法解释",
+      "frequency": "制度说明",
+      "location": "一就业/失业/非劳动力、二定义原则",
+      "definition_evidence": "就业以参考周有报酬工作至少1小时等为准；失业同时满足无工作、近3个月找工作、2周内可上岗；分母为劳动力。",
+      "history_evidence": "固定方法说明可重复定位，不是独立数据序列。",
+      "coverage_evidence": "16岁及以上劳动力；不含退出求职的非劳动力。",
+      "limitations": "失业率不足以表示工资、工时充分性或就业质量。"
+    },
+    {
+      "id": "A_S11",
+      "title": "在校学生是否纳入调查失业率：咨询公开",
+      "publisher": "国家统计局人口和就业统计司",
+      "url": "https://www.stats.gov.cn/hd/lyzx/zxgk/202406/t20240619_1955075.html",
+      "definition_url": "https://www.stats.gov.cn/hd/lyzx/zxgk/202406/t20240619_1955075.html",
+      "publication_date": "2024-05-08",
+      "access_date": "2026-09-15",
+      "reporting_period": "口径答复",
+      "frequency": "制度说明",
+      "location": "答复内容、答复日期",
+      "definition_evidence": "总体城镇失业率仍含符合就业或失业定义的在校生；新分年龄组率不含。",
+      "history_evidence": "为2024调整后总体和分组口径差异提供官方明确答复。",
+      "coverage_evidence": "总体城镇劳动力、在校/非在校。",
+      "limitations": "网页路径为6月，答复日期为5月8日；不可把分组调整外推为总体排除全部学生。"
+    },
+    {
+      "id": "A_S12",
+      "title": "中国人民银行公告〔2024〕第17号（文告）",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/chubanwu/fileDir/resource/cms/2025/06/2025062416082199683.pdf",
+      "definition_url": "https://www.pbc.gov.cn/chubanwu/fileDir/resource/cms/2025/06/2025062416082199683.pdf",
+      "publication_date": "2024-12-01",
+      "access_date": "2026-09-15",
+      "reporting_period": "M1自2025年1月起",
+      "frequency": "口径公告",
+      "location": "PDF第9页/印刷页7",
+      "definition_evidence": "新M1含M0、单位活期、个人活期及非银行支付机构客户备付金。",
+      "history_evidence": "明确生效统计月份为2025年1月；月报A_S14说明2024逐月可比回溯。",
+      "coverage_evidence": "全国货币统计。",
+      "limitations": "发布公告时间、文件上传时间与生效报告月不同；不可比较旧M1余额和新M1余额。"
+    },
+    {
+      "id": "A_S13",
+      "title": "狭义货币和广义货币",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/rmyh/109339/2025080818580470423/index.html",
+      "definition_url": "https://www.pbc.gov.cn/rmyh/109339/2025080818580470423/index.html",
+      "publication_date": "2025-03-10",
+      "access_date": "2026-09-15",
+      "reporting_period": "修订后定义",
+      "frequency": "术语说明",
+      "location": "术语表正文",
+      "definition_evidence": "当前M1含单位及个人活期与客户备付金；M2在M1外还含定期等存款。",
+      "history_evidence": "术语页与公告A_S12、月报A_S14相互核对。",
+      "coverage_evidence": "全国货币持有部门。",
+      "limitations": "M1/M2是金融资产存量，不能直接读作当期支出。"
+    },
+    {
+      "id": "A_S14",
+      "title": "2025年8月金融统计数据报告（国务院客户端转载央行原文）",
+      "publisher": "中国人民银行；中国政府网托管",
+      "url": "https://app.www.gov.cn/govdata/gov/202509/12/536583/article.html",
+      "definition_url": "https://app.www.gov.cn/govdata/gov/202509/12/536583/article.html",
+      "publication_date": "2025-09-12",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年8月末、1—8月",
+      "frequency": "月度",
+      "location": "一货币、二贷款、三存款、四利率；注1—4",
+      "definition_evidence": "明确余额与累计新增；企事业贷款包含非金融企业和机关团体；2023年金融统计增纳三类非存款机构；M1新口径含2024回溯说明。",
+      "history_evidence": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "coverage_evidence": "全国；住户短/中长期，企事业短/中长期和票据，非银；存款部门。",
+      "limitations": "官方转载原文而非央行原站地址；数据初步；不得把存量差无条件等同累计新增。"
+    },
+    {
+      "id": "A_S15",
+      "title": "2025年8月社会融资规模增量统计数据报告",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/diaochatongjisi/116219/116225/523c260b344c4f1390664430295064a9/index.html",
+      "definition_url": "https://www.pbc.gov.cn/diaochatongjisi/116219/116225/523c260b344c4f1390664430295064a9/index.html",
+      "publication_date": "2025-09-12",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年1—8月",
+      "frequency": "月度累计",
+      "location": "正文、注1—2",
+      "definition_evidence": "增量衡量期间实体经济从金融体系获得资金；不同分项含贷款新增、债券净融资等。",
+      "history_evidence": "月度栏目已访问；报告有同比同期间对照；A_S17另核验全年表。",
+      "coverage_evidence": "全国；人民币/外币贷款、委托信托、未贴现票据、企业债政府债、境内股票。",
+      "limitations": "2023年统计扩围；政府债已在社融，不得另加；社融含非债务及核销，非债务余额概念。"
+    },
+    {
+      "id": "A_S16",
+      "title": "2025年8月社会融资规模存量统计数据报告（国务院客户端转载）",
+      "publisher": "中国人民银行；中国政府网托管",
+      "url": "https://app.www.gov.cn/govdata/gov/202509/12/536584/article.html",
+      "definition_url": "https://app.www.gov.cn/govdata/gov/202509/12/536584/article.html",
+      "publication_date": "2025-09-12",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年8月末",
+      "frequency": "月度",
+      "location": "正文两段、注1—2",
+      "definition_evidence": "期末实体经济从金融体系获得资金余额；公开各分项及结构占比。",
+      "history_evidence": "与A_S15同时发布的独立存量报告；A_S17含年末存量表。",
+      "coverage_evidence": "全国；各融资工具、政府与非金融企业境内股票。",
+      "limitations": "不等于全社会债务；核销和口径变动使增量与存量差不必相等。"
+    },
+    {
+      "id": "A_S17",
+      "title": "2025年第四季度中国货币政策执行报告（商务部托管央行原文PDF）",
+      "publisher": "中国人民银行货币政策分析小组；商务部托管",
+      "url": "https://cif.mofcom.gov.cn/cif/html/upload/20260211143114167_2025%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A.pdf",
+      "definition_url": "https://cif.mofcom.gov.cn/cif/html/upload/20260211143114167_2025%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A.pdf",
+      "publication_date": "2026-02-10",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年全年、12月或年末依表",
+      "frequency": "季度报告，部分月度观测",
+      "location": "印刷页3—7表1—7；页9公开市场；页25货币市场",
+      "definition_evidence": "表3为12月新发放贷款加权利率；表6为年末贷款及全年新增；表7分别列社融存量和增量，含核销；公开市场7天逆回购为政策利率。",
+      "history_evidence": "表4—5列2025年逐月数据，表3有上季末/上年末比较；执行报告定期发布。",
+      "coverage_evidence": "全国；贷款/存款部门、机构类型；贷款产品、融资工具。",
+      "limitations": "托管副本为原文PDF；正文四舍五入数与表格精度不同；季度报告中的12月利率不是全年平均。"
+    },
+    {
+      "id": "A_S18",
+      "title": "北京市2023年国民经济和社会发展统计公报",
+      "publisher": "北京市统计局、国家统计局北京调查总队",
+      "url": "https://tjj.beijing.gov.cn/zxfbu/202403/t20240319_3594001.html",
+      "definition_url": "https://tjj.beijing.gov.cn/zxfbu/202403/t20240319_3594001.html",
+      "publication_date": "2024-03-21",
+      "access_date": "2026-09-15",
+      "reporting_period": "2023年全年及年末",
+      "frequency": "年度",
+      "location": "一综合、五金融、七消费、十人民生活",
+      "definition_evidence": "北京原文公开GDP、平均失业率、社零、人民币存贷款及城乡居民收支；按对应段落实体范围解读。",
+      "history_evidence": "图题显示2019—2023年GDP/社零/收入；本轮未抄图片序列。",
+      "coverage_evidence": "北京一个省级样本；GDP43760.7亿元、社零14462.7亿元、人民币贷款10.9万亿元等。",
+      "limitations": "单省样本不能证明31省可得；北京直辖市不能冒充地级覆盖；2023经济数据后续可能修订。"
+    },
+    {
+      "id": "A_S19",
+      "title": "国家统计局新闻发言人就2023年7月份国民经济运行情况答记者问",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/sjjd/202308/t20230815_1942020.html",
+      "definition_url": "https://www.stats.gov.cn/sj/sjjd/202308/t20230815_1942020.html",
+      "publication_date": "2023-08-15",
+      "access_date": "2026-09-15",
+      "reporting_period": "2023年7月发布、8月宣布停发",
+      "frequency": "发布制度说明",
+      "location": "开场通报、彭博社提问及答复",
+      "definition_evidence": "8月发布会宣布暂停青年等分年龄城镇调查失业率，整体率统计不受此暂停影响。",
+      "history_evidence": "与2024年1月恢复发布说明A_S09及2023年12月首值A_S08构成断点证据。",
+      "coverage_evidence": "全国城镇分年龄失业率。",
+      "limitations": "停发发生于发布日2023年8月，不能误写为2023年8月报告值仍连续存在；缺失不可填零。"
+    },
+    {
+      "id": "A_S20",
+      "title": "2026年1—2月份社会消费品零售总额增长2.8%",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962786.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfb/202603/t20260316_1962786.html",
+      "publication_date": "2026-03-16",
+      "access_date": "2026-09-15",
+      "reporting_period": "2026年1—2月",
+      "frequency": "月度（1—2月合并）、累计",
+      "location": "正文及附注6指标调整说明",
+      "definition_evidence": "网上总额扩大服务平台范围，新旧总额不可比；网上商品由原实物商品网上零售额改名，内涵及范围不变；新增网上服务。",
+      "history_evidence": "2026年1—2月新表及修订说明已读，延续月度发布；总额新口径不反推旧值。",
+      "coverage_evidence": "全国网上商品、网上服务及合计；吃穿用商品类。",
+      "limitations": "改名与扩围两种情况必须区别；同比采用发布者可比口径；2025季调历史又修订。"
+    },
+    {
+      "id": "A_S21",
+      "title": "公开市场业务交易公告〔2025〕第154号",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/5806970/index.html",
+      "definition_url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/5806970/index.html",
+      "publication_date": "2025-08-12",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年8月12日",
+      "frequency": "操作日",
+      "location": "公告正文及操作结果表",
+      "definition_evidence": "7天逆回购利率1.40%，当日投标量和中标量均1146亿元；固定利率、数量招标。",
+      "history_evidence": "操作公告按实际操作日发布；A_S17提供2025年5月利率变动的政策记录。",
+      "coverage_evidence": "全国央行公开市场操作。",
+      "limitations": "当日操作量不是净投放；未核验完整每日历史档案。"
+    },
+    {
+      "id": "A_S22",
+      "title": "中国人民银行有关负责人就完善贷款市场报价利率形成机制答记者问",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2025092212550010243/index.html",
+      "definition_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2025092212550010243/index.html",
+      "publication_date": "2019-08-17",
+      "access_date": "2026-09-15",
+      "reporting_period": "2019年LPR形成机制改革",
+      "frequency": "制度说明",
+      "location": "问答关于报价方式、期限品种和首次发布时间",
+      "definition_evidence": "改革由每日报价改每月20日、节假日顺延；增加5年期以上期限；2019年8月20日首次按新机制发布。",
+      "history_evidence": "明确LPR月度发布及2019年8月断点；可在央行或中国货币网查询。",
+      "coverage_evidence": "1年期和5年期以上LPR。",
+      "limitations": "页面URL为迁移路径，不是发布日期；文中报价行数量、发布时间和定价锚为2019规则，不断言其后全部未变。"
+    },
+    {
+      "id": "A_S23",
+      "title": "货币供应量：2024年1—10月表及数字人民币统计附注",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/eportal/fileDir/diaochatongjisi/resource/cms/2024/11/2024111416041159339.htm",
+      "definition_url": "https://www.pbc.gov.cn/eportal/fileDir/diaochatongjisi/resource/cms/2024/11/2024111416041159339.htm",
+      "publication_date": "",
+      "access_date": "2026-09-15",
+      "reporting_period": "2024年1—10月及2022年修订说明",
+      "frequency": "月度",
+      "location": "货币供应量表及注1",
+      "definition_evidence": "自2022年12月M0纳入流通中数字人民币；2022年末数字人民币136.1亿元；表中M0、M1、M2单位为亿元。",
+      "history_evidence": "实际列2024年1—10月数值，11—12月空白；附注列2022年M0修订后月度增速。",
+      "coverage_evidence": "全国货币供应量。",
+      "limitations": "2024年M1表为旧定义，不能作2025新口径回溯；空白不等于零；页面未显示独立发布日期。"
+    },
+    {
+      "id": "A_S24",
+      "title": "2018年金融统计数据报告",
+      "publisher": "中国人民银行",
+      "url": "https://www.pbc.gov.cn/diaochatongjisi/116219/116225/370befa3ce2042dfbc414b74f3b397b7/index.html",
+      "definition_url": "https://www.pbc.gov.cn/diaochatongjisi/116219/116225/370befa3ce2042dfbc414b74f3b397b7/index.html",
+      "publication_date": "2019-01-15",
+      "access_date": "2026-09-15",
+      "reporting_period": "2018年12月末及全年",
+      "frequency": "月度、年度",
+      "location": "正文一至四；注2、注4",
+      "definition_evidence": "2018年M2中货币市场基金银行存款及存单，改由非存款机构部门持有的货币市场基金替代；2015年起存贷款纳入非银金融机构相关资金。",
+      "history_evidence": "2018年末及全年数值原文；说明2017年M2可比增速另有修订表。",
+      "coverage_evidence": "全国金融机构存贷款与货币统计。",
+      "limitations": "历史M2调整不能省略；2017修订表图片本轮未抄数；2015金融统计扩围不同于社融边界。"
+    },
+    {
+      "id": "A_S25",
+      "title": "2026年1月份居民消费价格同比上涨0.2%",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202602/t20260211_1962588.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202602/t20260211_1962588.html",
+      "publication_date": "2026-02-11",
+      "access_date": "2026-09-15",
+      "reporting_period": "2026年1月",
+      "frequency": "月度",
+      "location": "主要数据表、附注1—5",
+      "definition_evidence": "CPI为居民消费品和服务价格变化；表列总CPI、服务及扣食品能源的同比/环比；抽样调查31省约500市县近12万网点，8大类268基本类。",
+      "history_evidence": "从2026年1月使用2025基期，每五年轮换；方法、样本、分类和权数均有更新。",
+      "coverage_evidence": "全国；城市/农村；消费品/服务；食品/非食品；核心；8大类及部分细项。",
+      "limitations": "同比/环比是不同对比期；未证明全部省市分项公开；价格网点原始微观价格未公开归档；不是居民购买数量。"
+    },
+    {
+      "id": "A_S26",
+      "title": "2026年1月份工业生产者出厂价格同比降幅收窄 环比涨幅扩大",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202602/t20260211_1962587.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202602/t20260211_1962587.html",
+      "publication_date": "2026-02-11",
+      "access_date": "2026-09-15",
+      "reporting_period": "2026年1月",
+      "frequency": "月度",
+      "location": "主要数据表一二三；附注1—6",
+      "definition_evidence": "PPI衡量工业产品第一次出售价格，购进指数衡量中间投入购入价格；重点与典型调查结合，涉及4万多工业企业；出厂41行业1300多基本类，购进9类800多基本类。",
+      "history_evidence": "每月原值表及同比环比；2026年1月PPI开始2025基期，分类、企业、规格品、权数更新。",
+      "coverage_evidence": "全国；生产/生活资料；表列主要工业行业；购进9大类。",
+      "limitations": "调查覆盖41行业不等于本表给出全部41行；同比−1.4%不代表价格绝对值；基期轮换影响不能机械逐月扣0.08个百分点。"
+    },
+    {
+      "id": "A_S27",
+      "title": "2025年12月份居民消费价格同比上涨0.8%",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260109_1962273.html",
+      "definition_url": "https://www.stats.gov.cn/zwfwck/sjfb/202601/t20260109_1962273.html",
+      "publication_date": "2026-01-09",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025年12月及全年",
+      "frequency": "月度、年度平均",
+      "location": "主要数据表；附注1—4",
+      "definition_evidence": "表同时列当月环比、同比及2025全年涨跌幅；总体分别0.2%、0.8%、0.0%；核心0.2%、1.2%、0.7%；服务0.0%、0.6%、0.5%。",
+      "history_evidence": "与2026年1月新基期月报形成已核验相邻发布版本。",
+      "coverage_evidence": "全国、城市/农村、服务/商品、核心、消费分类。",
+      "limitations": "全年涨幅不是12月同比；旧基期分类名称与2026部分名称不同，不能忽略版本。"
+    },
+    {
+      "id": "A_S28",
+      "title": "国家统计局城市司负责人就CPI等价格指数基期轮换有关情况接受中国信息报专访",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/sj/zxfbhjd/202602/t20260211_1962589.html",
+      "definition_url": "https://www.stats.gov.cn/sj/zxfbhjd/202602/t20260211_1962589.html",
+      "publication_date": "2026-02-11",
+      "access_date": "2026-09-15",
+      "reporting_period": "2025基期轮换及2026年实施",
+      "frequency": "方法说明",
+      "location": "问1—5、CPI权数表",
+      "definition_evidence": "定基权数不同于随比较期价格变化的同比/环比权数；2025全年按新规格品采价并重算比较基准；新一轮约12万网点62万规格品。",
+      "history_evidence": "明确由2020基期转2025基期，五年轮换；总体同比平均影响CPI约0.06、PPI约0.08个百分点。",
+      "coverage_evidence": "CPI八大类及部分食品基期权重，新增出行服务衍生分类。",
+      "limitations": "轮换平均影响不是每个月固定调整项；公布的基期权重不能直接代替月度同比权重重算贡献；新基期回溯不能自行臆造。"
+    },
+    {
+      "id": "A_S29",
+      "title": "十四、价格统计（13）：价格数据查询及指数解释",
+      "publisher": "国家统计局",
+      "url": "https://www.stats.gov.cn/hd/cjwtjd/202302/t20230207_1902269.html",
+      "definition_url": "https://www.stats.gov.cn/hd/cjwtjd/202302/t20230207_1902269.html",
+      "publication_date": "2023-10-09",
+      "access_date": "2026-09-15",
+      "reporting_period": "价格统计方法说明",
+      "frequency": "月度发布制度",
+      "location": "问1、3、4、5",
+      "definition_evidence": "同比指数以上年同月为100；环比以上月为100；累计平均以上年同期均价为100；链式环比可连续相乘而非涨幅相加。",
+      "history_evidence": "明确CPI/PPI月度新闻稿和国家数据查询途径；当时2020基期表述由A_S28更新。",
+      "coverage_evidence": "全国价格指数；其他地区或小类须按实际数据库逐项验证。",
+      "limitations": "不能把该旧问答的当前基期当2026口径；同比指数100.2不表示固定2025基期指数或价格绝对金额。"
+    }
+  ],
+  "metrics": [
+    {
+      "id": "A001",
+      "name": "国内生产总值现价总量",
+      "family": "国民核算",
+      "module": "产出总量",
+      "definition": "国内常住单位报告期创造的最终生产成果。",
+      "unit": "亿元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "全国经济领土常住单位，不含港澳台",
+      "source_id": "A_S01",
+      "source_locator": "表1 GDP行及附件1.1",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "G"
+      ],
+      "interpretation": "名义产出及收入流量的总尺度。",
+      "companions": [
+        "实际GDP增速",
+        "三大需求",
+        "最新基期修订"
+      ],
+      "pitfalls": "不是财富存量；非全部交易总额。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国经济领土常住单位，不含港澳台"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合GDP",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A002",
+      "name": "国内生产总值不变价同比增速",
+      "family": "国民核算",
+      "module": "产出增长",
+      "definition": "剔除价格后的GDP相对上年同期变化。",
+      "unit": "%",
+      "frequency": "季度、年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "当期",
+      "population": "全国经济领土常住单位，不含港澳台",
+      "source_id": "A_S01",
+      "source_locator": "表1增长列、表2",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "G"
+      ],
+      "interpretation": "观察实际产出变化。",
+      "companions": [
+        "GDP现价",
+        "季调环比"
+      ],
+      "pitfalls": "不得用两年现价GDP比值代替。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国经济领土常住单位，不含港澳台"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合GDP实际增长",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A003",
+      "name": "国内生产总值季调环比增速",
+      "family": "国民核算",
+      "module": "周期动量",
+      "definition": "季调后的当季实际GDP相对上季变化。",
+      "unit": "%",
+      "frequency": "季度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "当期",
+      "population": "全国经济领土常住单位，不含港澳台",
+      "source_id": "A_S01",
+      "source_locator": "表3及注",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "观察季度短期变化。",
+      "companions": [
+        "同比",
+        "修订历史"
+      ],
+      "pitfalls": "不是同比、未年化；不可直接乘4当精确年化。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国经济领土常住单位，不含港澳台"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A004",
+      "name": "分产业及行业增加值现价额",
+      "family": "国民核算",
+      "module": "产出结构",
+      "definition": "按三次产业与行业核算的增加值；分类保存在维度中。",
+      "unit": "亿元",
+      "frequency": "季度、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "全国各常住生产单位",
+      "source_id": "A_S01",
+      "source_locator": "表1分行业绝对额",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "G",
+        "S",
+        "K",
+        "M"
+      ],
+      "interpretation": "识别名义结构权重。",
+      "companions": [
+        "同业实际增长",
+        "行业分类标准"
+      ],
+      "pitfalls": "制造业是工业子项，三次产业与行业表不能叠加求和。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国各常住生产单位"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "第一产业",
+            "第二产业",
+            "第三产业",
+            "农林牧渔业",
+            "工业",
+            "制造业",
+            "建筑业",
+            "批发和零售业",
+            "交通运输仓储和邮政业",
+            "住宿和餐饮业",
+            "金融业",
+            "房地产业",
+            "信息传输软件和信息技术服务业",
+            "租赁和商务服务业",
+            "其他行业"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "表1",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合三次产业",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A005",
+      "name": "分产业及行业增加值实际增速",
+      "family": "国民核算",
+      "module": "产出结构",
+      "definition": "分行业扣除价格后的同比增长。",
+      "unit": "%",
+      "frequency": "季度、年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "当期",
+      "population": "全国各常住生产单位",
+      "source_id": "A_S01",
+      "source_locator": "表1分行业增长列",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "G",
+        "S",
+        "K"
+      ],
+      "interpretation": "检查增长是否具有行业广度。",
+      "companions": [
+        "现价增加值",
+        "就业"
+      ],
+      "pitfalls": "增加值增速不能和营业收入增速混用。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国各常住生产单位"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "第一产业",
+            "第二产业",
+            "第三产业",
+            "农林牧渔业",
+            "工业",
+            "制造业",
+            "建筑业",
+            "批发和零售业",
+            "交通运输仓储和邮政业",
+            "住宿和餐饮业",
+            "金融业",
+            "房地产业",
+            "信息传输软件和信息技术服务业",
+            "租赁和商务服务业",
+            "其他行业"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "表1",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合三次产业增速",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A006",
+      "name": "最终消费支出对GDP增长的拉动",
+      "family": "国民核算",
+      "module": "支出分解",
+      "definition": "居民与政府最终消费的实际增长贡献，以百分点表达。",
+      "unit": "百分点",
+      "frequency": "年度（季度须另核当期发布）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "全年",
+      "population": "全国支出法核算范围",
+      "source_id": "A_S03",
+      "source_locator": "一综合首段三大需求拉动",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "拆解实际GDP增长的需求来源。",
+      "companions": [
+        "GDP实际增速",
+        "居民收支",
+        "财政支出",
+        "投资",
+        "国际收支"
+      ],
+      "pitfalls": "贡献是会计分解而非因果；消费非社零、投资非固定资产投资、净出口非海关顺差。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国支出法核算范围"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A007",
+      "name": "资本形成总额对GDP增长的拉动",
+      "family": "国民核算",
+      "module": "支出分解",
+      "definition": "固定资本形成与存货变化的实际增长贡献，以百分点表达。",
+      "unit": "百分点",
+      "frequency": "年度（季度须另核当期发布）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "全年",
+      "population": "全国支出法核算范围",
+      "source_id": "A_S03",
+      "source_locator": "一综合首段三大需求拉动",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "拆解实际GDP增长的需求来源。",
+      "companions": [
+        "GDP实际增速",
+        "居民收支",
+        "财政支出",
+        "投资",
+        "国际收支"
+      ],
+      "pitfalls": "贡献是会计分解而非因果；消费非社零、投资非固定资产投资、净出口非海关顺差。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国支出法核算范围"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A008",
+      "name": "货物和服务净出口对GDP增长的拉动",
+      "family": "国民核算",
+      "module": "支出分解",
+      "definition": "货物和服务出口减进口的实际增长贡献，以百分点表达。",
+      "unit": "百分点",
+      "frequency": "年度（季度须另核当期发布）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "全年",
+      "population": "全国支出法核算范围",
+      "source_id": "A_S03",
+      "source_locator": "一综合首段三大需求拉动",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "拆解实际GDP增长的需求来源。",
+      "companions": [
+        "GDP实际增速",
+        "居民收支",
+        "财政支出",
+        "投资",
+        "国际收支"
+      ],
+      "pitfalls": "贡献是会计分解而非因果；消费非社零、投资非固定资产投资、净出口非海关顺差。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国支出法核算范围"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A009",
+      "name": "国民总收入现价额",
+      "family": "国民核算",
+      "module": "初次收入",
+      "definition": "GDP加来自国外的初次分配收入净额。",
+      "unit": "亿元",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国常住机构单位",
+      "source_id": "A_S03",
+      "source_locator": "一综合、注3",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "G",
+        "D"
+      ],
+      "interpretation": "核对生产所在地与居民收入归属。",
+      "companions": [
+        "GDP",
+        "国际收支初次收入"
+      ],
+      "pitfalls": "不等于居民可支配收入；不能用贸易顺差替代国外初次收入。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国常住机构单位"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A010",
+      "name": "人均国内生产总值现价额",
+      "family": "国民核算",
+      "module": "人均产出",
+      "definition": "按人口口径折算的人均GDP公开值。",
+      "unit": "元/人",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国常住人口",
+      "source_id": "A_S03",
+      "source_locator": "一综合、注2",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "G",
+        "S"
+      ],
+      "interpretation": "衡量人均生产规模。",
+      "companions": [
+        "居民收入",
+        "就业率"
+      ],
+      "pitfalls": "不是个人实际收入、分布或劳动生产率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国常住人口"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合人均GDP",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A011",
+      "name": "全员劳动生产率",
+      "family": "国民核算",
+      "module": "劳动效率",
+      "definition": "2020年价格GDP除以全部就业人员。",
+      "unit": "元/人",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "全年",
+      "population": "全国全部就业人员",
+      "source_id": "A_S03",
+      "source_locator": "一综合、注4",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "G"
+      ],
+      "interpretation": "观察每位就业者的平均实际产出。",
+      "companions": [
+        "就业人数",
+        "工时",
+        "行业结构"
+      ],
+      "pitfalls": "不是小时生产率、TFP或技术进步单独贡献。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国全部就业人员"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A012",
+      "name": "GDP名义同比增速",
+      "family": "国民核算",
+      "module": "名义支出",
+      "definition": "同一修订版本现价GDP相对上期变化。",
+      "unit": "%",
+      "frequency": "年度（季度须核验同口径基期）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国经济领土常住单位，不含港澳台",
+      "source_id": "A_S01",
+      "source_locator": "表1现价GDP；2024基期A_S02附件1",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "透明派生",
+      "formula": "100×(A001_t/A001_t-1−1)",
+      "inputs": [
+        "A001"
+      ],
+      "conditions": "t与t-1须同覆盖、同币种、同累计长度；本例2025初步数配2024最终核实基期。",
+      "systems": [
+        "M",
+        "K"
+      ],
+      "interpretation": "把名义规模变化与实际增长分开。",
+      "companions": [
+        "不变价同比",
+        "GDP平减指数"
+      ],
+      "pitfalls": "旧公报初步基期不可混用；跨期同口径检查不可省略。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国经济领土常住单位，不含港澳台"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A013",
+      "name": "GDP隐含平减指数同比变化",
+      "family": "国民核算",
+      "module": "总产出价格",
+      "definition": "用名义与实际GDP增长恒等关系计算总体价格变化。",
+      "unit": "%",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "价格",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "全国GDP核算范围",
+      "source_id": "A_S01",
+      "source_locator": "A_S01表1实际增长、A_S02最终基期",
+      "history": "表2—3实际展示2020—2025年各季同比、季调环比；附件记载1992年起季度核算、2015年三季度改分季核算、2011年起公布环比。",
+      "breaks": "采用最新修订历史基期；2015年三季度季度核算改分季；经济普查、分类和基期更换后会追溯修订。",
+      "origin": "透明派生",
+      "formula": "100×((1+A012/100)/(1+A002/100)−1)",
+      "inputs": [
+        "A012",
+        "A002"
+      ],
+      "conditions": "同期间名义与实际GDP增长，采用可比修订基期；标记为派生近似数。",
+      "systems": [
+        "M"
+      ],
+      "interpretation": "透明拆分名义和实际增长差异。",
+      "companions": [
+        "CPI",
+        "PPI",
+        "行业增加值"
+      ],
+      "pitfalls": "不是CPI；不是自行估算产出缺口；舍入增速使结果仅近似。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国GDP核算范围"
+          ],
+          "source_ids": [
+            "A_S01"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A014",
+      "name": "居民人均可支配收入",
+      "family": "住户收支",
+      "module": "收入",
+      "definition": "居民可用于消费和储蓄的现金及实物收入人均值。",
+      "unit": "元/人",
+      "frequency": "季度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国住户调查居民",
+      "source_id": "A_S04",
+      "source_locator": "一居民收入、表1",
+      "history": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "D"
+      ],
+      "interpretation": "观察家庭消费预算基础。",
+      "companions": [
+        "实际收入增速",
+        "消费支出",
+        "分布"
+      ],
+      "pitfalls": "不是工资，不能代表中位数或任一分位。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国住户调查居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇居民",
+            "农村居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "表1按常住地分城乡。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "十人民生活：城乡居民收入及支出",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A015",
+      "name": "居民人均可支配收入实际增速",
+      "family": "住户收支",
+      "module": "收入购买力",
+      "definition": "住户可支配收入扣除价格因素的同比变化。",
+      "unit": "%",
+      "frequency": "季度累计、年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "累计",
+      "population": "全国住户调查居民",
+      "source_id": "A_S04",
+      "source_locator": "一居民收入、表1括号中实际增速",
+      "history": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "D"
+      ],
+      "interpretation": "检验购买力变化。",
+      "companions": [
+        "名义收入",
+        "CPI"
+      ],
+      "pitfalls": "原始收入现价比值不是实际增速。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国住户调查居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇居民",
+            "农村居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "表1按常住地分城乡。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A016",
+      "name": "居民人均消费支出",
+      "family": "住户收支",
+      "module": "消费",
+      "definition": "用于日常家庭消费的现金及实物支出人均值。",
+      "unit": "元/人",
+      "frequency": "季度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国住户调查居民",
+      "source_id": "A_S04",
+      "source_locator": "二消费、表1",
+      "history": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "D"
+      ],
+      "interpretation": "需求端住户消费水平。",
+      "companions": [
+        "收入",
+        "实际消费增长",
+        "服务消费占比"
+      ],
+      "pitfalls": "不是社零或全部国民核算居民消费。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国住户调查居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇居民",
+            "农村居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "表1按常住地分城乡。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "十人民生活：城乡居民收入及支出",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A017",
+      "name": "居民人均消费支出实际增速",
+      "family": "住户收支",
+      "module": "消费量",
+      "definition": "住户消费扣除价格因素的同比变化。",
+      "unit": "%",
+      "frequency": "季度累计、年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "实际",
+      "period_basis": "累计",
+      "population": "全国住户调查居民",
+      "source_id": "A_S04",
+      "source_locator": "二消费、表1括号实际增速",
+      "history": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K"
+      ],
+      "interpretation": "核对名义增长是否对应实际消费扩张。",
+      "companions": [
+        "名义支出",
+        "居民收入"
+      ],
+      "pitfalls": "不可用全国CPI粗略处理城乡分组后冒充官方值。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国住户调查居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇居民",
+            "农村居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "表1按常住地分城乡。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A018",
+      "name": "居民人均分消费类别支出",
+      "family": "住户收支",
+      "module": "消费结构",
+      "definition": "按八大用途分类的住户人均消费支出。",
+      "unit": "元/人",
+      "frequency": "季度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "全国住户调查居民",
+      "source_id": "A_S04",
+      "source_locator": "二消费、表1消费类别",
+      "history": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "D"
+      ],
+      "interpretation": "检查家庭开支的结构变化。",
+      "companions": [
+        "各类别价格",
+        "居民收入"
+      ],
+      "pitfalls": "类别增长可能含价格效应；类别不能当收入阶层。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国住户调查居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "部分覆盖",
+          "members": [
+            "全国",
+            "城镇",
+            "农村"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "全国分项已读；城乡总额已读",
+          "limitation": "本页未验证全部城乡×八类交叉结果"
+        }
+      ]
+    },
+    {
+      "id": "A019",
+      "name": "居民服务性消费支出占人均消费支出比重",
+      "family": "住户收支",
+      "module": "消费结构",
+      "definition": "居民服务性消费在人均总消费中的公开占比。",
+      "unit": "%",
+      "frequency": "年度（其他期须单独核验）",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国住户调查居民",
+      "source_id": "A_S07",
+      "source_locator": "九居民收入消费末句",
+      "history": "正文及附表为月度国民经济发布；可与A_S08的2023年12月同名项目定位对照。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "S"
+      ],
+      "interpretation": "观察住户消费商品/服务结构。",
+      "companions": [
+        "总消费",
+        "服务价格"
+      ],
+      "pitfalls": "不同于供给方服务零售额；占比变化非服务量变化。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国住户调查居民"
+          ],
+          "source_ids": [
+            "A_S07"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A020",
+      "name": "社会消费品零售总额",
+      "family": "商品餐饮消费",
+      "module": "销售",
+      "definition": "面向个人和社会集团非生产经营用途的实物商品销售加餐饮收入。",
+      "unit": "亿元",
+      "frequency": "月度（1—2月合并）、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "商品零售和餐饮法人、产业活动单位、个体户",
+      "source_id": "A_S05",
+      "source_locator": "主要数据表总计、附注1—4",
+      "history": "表含当月和累计；附注5给13个月季调环比并说明修订；附注6标记五经普后可比增速。",
+      "breaks": "五经普修订、限上企业及平台范围变化，官方同比按可比口径；季调历史滚动修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "高频商品和餐饮交易需求信号。",
+      "companions": [
+        "住户消费",
+        "服务零售",
+        "GDP最终消费"
+      ],
+      "pitfalls": "不是全部居民消费；不含多数服务；当月与累计分别存储。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商品零售和餐饮法人、产业活动单位、个体户"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "按经营地：城镇",
+            "按经营地：乡村"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "分类按卖方所在地，不是消费者常住地。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "限额以上",
+            "限额以下"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "限上全查、限下抽样；不是所有制划分。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "七市场消费社零",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A021",
+      "name": "商品零售额",
+      "family": "商品餐饮消费",
+      "module": "销售结构",
+      "definition": "社零中的商品部分。",
+      "unit": "亿元",
+      "frequency": "月度（1—2月合并）、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "商品零售统计单位",
+      "source_id": "A_S05",
+      "source_locator": "主要数据表商品零售行",
+      "history": "表含当月和累计；附注5给13个月季调环比并说明修订；附注6标记五经普后可比增速。",
+      "breaks": "五经普修订、限上企业及平台范围变化，官方同比按可比口径；季调历史滚动修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "区分商品和餐饮需求。",
+      "companions": [
+        "价格",
+        "餐饮",
+        "住户消费"
+      ],
+      "pitfalls": "限上商品类别不能当全口径同类总量。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "商品零售统计单位"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "粮油食品",
+            "饮料",
+            "烟酒",
+            "服装鞋帽针纺织",
+            "化妆品",
+            "金银珠宝",
+            "日用品",
+            "体育娱乐用品",
+            "家电音像",
+            "中西药",
+            "文化办公",
+            "家具",
+            "通讯器材",
+            "石油制品",
+            "汽车",
+            "建筑装潢材料"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "表格列16商品类",
+          "limitation": "分类仅限上单位，属商品类别并非严格行业增加值分类。"
+        }
+      ]
+    },
+    {
+      "id": "A022",
+      "name": "餐饮收入",
+      "family": "商品餐饮消费",
+      "module": "销售结构",
+      "definition": "统计单位提供餐饮服务取得的收入。",
+      "unit": "亿元",
+      "frequency": "月度（1—2月合并）、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "提供餐饮服务的统计单位",
+      "source_id": "A_S05",
+      "source_locator": "主要数据表餐饮收入行",
+      "history": "表含当月和累计；附注5给13个月季调环比并说明修订；附注6标记五经普后可比增速。",
+      "breaks": "五经普修订、限上企业及平台范围变化，官方同比按可比口径；季调历史滚动修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "观察接触性服务消费。",
+      "companions": [
+        "食品价格",
+        "住户消费",
+        "餐饮增加值"
+      ],
+      "pitfalls": "已计入社零；与服务零售也有交叉，不能简单相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "提供餐饮服务的统计单位"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "按经营地：城镇",
+            "按经营地：乡村"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "分类按卖方所在地，不是消费者常住地。",
+          "limitation": ""
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "限额以上",
+            "限额以下"
+          ],
+          "source_ids": [
+            "A_S05"
+          ],
+          "evidence": "限上全查、限下抽样；不是所有制划分。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A023",
+      "name": "网上商品零售额（原实物商品网上零售额）",
+      "family": "商品餐饮消费",
+      "module": "销售渠道",
+      "definition": "通过公共网络平台实现的实物商品零售额；2026年仅改名称。",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "纳入网上零售统计的平台",
+      "source_id": "A_S20",
+      "source_locator": "正文网上商品行；附注6；历史A_S05",
+      "history": "2026年1—2月新表及修订说明已读，延续月度发布；总额新口径不反推旧值。",
+      "breaks": "五经普修订、限上企业及平台范围变化，官方同比按可比口径；季调历史滚动修订。 2026年名称改变，商品项内涵与范围不变。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "观察线上商品渠道规模。",
+      "companions": [
+        "社零",
+        "平台范围",
+        "线上服务"
+      ],
+      "pitfalls": "已计社零；不能和社零相加；2026总额扩围不可误归给此商品项。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "纳入网上零售统计的平台"
+          ],
+          "source_ids": [
+            "A_S20"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "吃类",
+            "穿类",
+            "用类"
+          ],
+          "source_ids": [
+            "A_S20"
+          ],
+          "evidence": "正文给增速；非独立行业。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A024",
+      "name": "服务零售额同比增速",
+      "family": "服务消费",
+      "module": "销售",
+      "definition": "服务提供方出售给个人和单位非生产经营用途服务的同比增速。",
+      "unit": "%",
+      "frequency": "月度累计、年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "服务零售企业、产业活动单位和个体户",
+      "source_id": "A_S07",
+      "source_locator": "四消费；定义A_S03注41及A_S08附注6",
+      "history": "A_S08核验2023全年增速，A_S07核验2025全年增速；月度累计发布。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "补充社零对多数服务消费覆盖不足。",
+      "companions": [
+        "住户服务消费",
+        "服务价格"
+      ],
+      "pitfalls": "本源仅公开增速，不能填造服务零售绝对额；与餐饮有交叉。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "服务零售企业、产业活动单位和个体户"
+          ],
+          "source_ids": [
+            "A_S07"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "交通",
+            "住宿",
+            "餐饮",
+            "教育",
+            "卫生",
+            "体育",
+            "娱乐"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "定义包含领域",
+          "limitation": "定义范围不等于各领域数值均稳定发布。"
+        }
+      ]
+    },
+    {
+      "id": "A025",
+      "name": "全国城镇调查失业率",
+      "family": "就业",
+      "module": "劳动需求",
+      "definition": "抽样调查失业人口占城镇就业和失业人口合计比重。",
+      "unit": "%",
+      "frequency": "月度、年度平均",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "全国城镇劳动力，含符合定义的在校生",
+      "source_id": "A_S07",
+      "source_locator": "八就业；方法A_S10、A_S11",
+      "history": "正文及附表为月度国民经济发布；可与A_S08的2023年12月同名项目定位对照。",
+      "breaks": "2023年分年龄停发/2024剔学生调整不等于总体率排除学生；总体口径差异见A_S11。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "识别进入劳动力市场者的失业状况。",
+      "companions": [
+        "就业人数",
+        "工时",
+        "工资",
+        "劳动参与"
+      ],
+      "pitfalls": "分母不是总人口；下降可能伴随劳动参与变化；31大城市率是合计。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国城镇劳动力，含符合定义的在校生"
+          ],
+          "source_ids": [
+            "A_S07"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "本地户籍",
+            "外来户籍",
+            "外来农业户籍"
+          ],
+          "source_ids": [
+            "A_S07"
+          ],
+          "evidence": "八就业分组",
+          "limitation": ""
+        },
+        {
+          "dimension": "地级",
+          "status": "部分覆盖",
+          "members": [
+            "31个大城市合计"
+          ],
+          "source_ids": [
+            "A_S07"
+          ],
+          "evidence": "只验证合计值",
+          "limitation": "未核验31城逐城数值，合计不得拆分。"
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合城镇调查失业率年均",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A026",
+      "name": "不含在校生分年龄组城镇调查失业率",
+      "family": "就业",
+      "module": "青年与核心年龄",
+      "definition": "按指定年龄组、排除在校生后的失业人口/相应劳动力。",
+      "unit": "%",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "全国城镇16—24、25—29、30—59岁非在校劳动力",
+      "source_id": "A_S08",
+      "source_locator": "八就业首批原值；A_S09末段发布方式",
+      "history": "为新年龄口径的起始公开月份提供原值证据；发布日与报告月相区分。",
+      "breaks": "2023年8月发布会宣布暂停分年龄数据（报告值2023年7—11月缺口）；2024年1月发布2023年12月新口径首值；新增25—29组，原25—59组不可等同30—59组。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G",
+        "D"
+      ],
+      "interpretation": "检查年龄结构差异。",
+      "companions": [
+        "总体率",
+        "劳动参与",
+        "毕业季",
+        "工时"
+      ],
+      "pitfalls": "不能同旧16—24岁含学生序列直接拼接；不能拿年龄人口乘率推失业人数。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国城镇16—24、25—29、30—59岁非在校劳动力"
+          ],
+          "source_ids": [
+            "A_S08"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "16—24岁不含在校生",
+            "25—29岁不含在校生",
+            "30—59岁不含在校生"
+          ],
+          "source_ids": [
+            "A_S08",
+            "A_S09"
+          ],
+          "evidence": "2023年12月三组原值及月度发布制度。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A027",
+      "name": "全国企业就业人员周平均工作时间",
+      "family": "就业",
+      "module": "劳动强度",
+      "definition": "企业就业人员在调查参考周的平均工作小时。",
+      "unit": "小时/周",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "全国企业就业人员",
+      "source_id": "A_S07",
+      "source_locator": "八就业；A_S08八就业历史对应项",
+      "history": "2023年12月A_S08和2025年12月A_S07同名发布均已读。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "辅助判断劳动强度。",
+      "companions": [
+        "失业率",
+        "就业人数",
+        "工资"
+      ],
+      "pitfalls": "不代表全体就业人员工时，不是小时生产率；没有工时分布无法判断低工时比例。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国企业就业人员"
+          ],
+          "source_ids": [
+            "A_S07"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A028",
+      "name": "全国就业人员年末人数",
+      "family": "就业",
+      "module": "劳动投入",
+      "definition": "年末符合就业定义的就业人员公开总量。",
+      "unit": "万人",
+      "frequency": "年度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "年末",
+      "population": "全国就业人员",
+      "source_id": "A_S03",
+      "source_locator": "一综合就业段",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "G",
+        "K",
+        "D"
+      ],
+      "interpretation": "劳动投入人数规模。",
+      "companions": [
+        "实际GDP",
+        "劳动参与",
+        "工时"
+      ],
+      "pitfalls": "不能替代全年平均就业，更不能视为岗位数或工时。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国就业人员"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国就业",
+            "城镇就业"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "一综合总量和城镇人数。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A029",
+      "name": "城镇新增就业人数",
+      "family": "就业",
+      "module": "新增就业",
+      "definition": "报告期城镇累计新就业人员扣除自然减员。",
+      "unit": "万人",
+      "frequency": "年度（高频另核人社发布）",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "城镇就业行政统计范围",
+      "source_id": "A_S03",
+      "source_locator": "一综合；注7",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "行政统计的就业增量信号。",
+      "companions": [
+        "调查失业率",
+        "就业总量"
+      ],
+      "pitfalls": "不等于全国就业人数同比差额；不能与失业率直接互算。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "城镇就业行政统计范围"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "一综合城镇新增就业",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A030",
+      "name": "农民工总量",
+      "family": "就业",
+      "module": "劳动力流动",
+      "definition": "年内达到6个月从业标准的本地非农和外出农民工人数。",
+      "unit": "万人",
+      "frequency": "年度",
+      "time_type": "期间",
+      "stock_flow": "存量",
+      "price_basis": "不适用",
+      "period_basis": "全年",
+      "population": "农村户籍农民工",
+      "source_id": "A_S03",
+      "source_locator": "一综合；注8",
+      "history": "年度公报；图示近年变化，本轮不从图片补造未读数值。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "G",
+        "K",
+        "D"
+      ],
+      "interpretation": "劳动力跨地域和非农配置规模。",
+      "companions": [
+        "农民工收入",
+        "行业就业"
+      ],
+      "pitfalls": "是年度达到从业条件的人数，不能当年末人口；不是农村居民总数。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "农村户籍农民工"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "本地农民工",
+            "外出农民工"
+          ],
+          "source_ids": [
+            "A_S03"
+          ],
+          "evidence": "一综合分项及注8。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A031",
+      "name": "制造业采购经理指数PMI",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "合成新订单、生产、从业、配送及原料库存的加权扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表1及附注4；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "制造业总体环比景气。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        },
+        {
+          "dimension": "企业类型",
+          "status": "已覆盖",
+          "members": [
+            "大型",
+            "中型",
+            "小型"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "正文企业规模PMI。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A032",
+      "name": "制造业PMI生产指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "采购经理对本月生产相对上月变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表1生产列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "生产扩张或收缩广度。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A033",
+      "name": "制造业PMI新订单指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "新订单相对上月变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表1新订单列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "近期订单需求广度。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A034",
+      "name": "制造业PMI新出口订单指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "新出口订单变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表2新出口订单列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "外需订单方向。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A035",
+      "name": "制造业PMI从业人员指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "企业从业人员变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表1从业人员列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "企业用工景气。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A036",
+      "name": "制造业PMI主要原材料购进价格指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "原材料购入价格变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表2购进价格列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "投入成本上涨或下降的企业覆盖面。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A037",
+      "name": "制造业PMI出厂价格指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "产品出厂价格变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表2出厂价格列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "产品价格变化的企业覆盖面。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A038",
+      "name": "制造业PMI产成品库存指数",
+      "family": "PMI",
+      "module": "订单生产价格就业",
+      "definition": "产成品库存量变化的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表2产成品库存列；附注1—5",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "样本及季调会调整，跨历史版本须记录；2025样本3200家。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "库存方向；需结合订单区分主动或被动。",
+      "companions": [
+        "工业增加值",
+        "订单",
+        "价格",
+        "就业"
+      ],
+      "pitfalls": "50为与上月相比的分界；指数51不是产量/价格增加1%；季调而非同比。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "制造业合计"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "统计涵盖31行业，详细全部行业指数并未公开",
+          "limitation": "不由调查行业数量推断全部行业结果可下载。"
+        }
+      ]
+    },
+    {
+      "id": "A039",
+      "name": "非制造业商务活动指数",
+      "family": "PMI",
+      "module": "服务与建筑活动",
+      "definition": "非制造业企业商务活动相对上月的扩散指数。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "非制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "表3商务活动；正文分行业；附注4",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "2025样本4300家；季调可修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "服务和建筑总体活动广度。",
+      "companions": [
+        "服务业生产",
+        "建筑投资"
+      ],
+      "pitfalls": "不是一个与制造业PMI同构的五分项合成指数。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "非制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "已覆盖",
+          "members": [
+            "建筑业",
+            "服务业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "正文明确两大类。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A040",
+      "name": "综合PMI产出指数",
+      "family": "PMI",
+      "module": "总体活动",
+      "definition": "制造业生产和非制造业商务活动按相应GDP权重合成。",
+      "unit": "%（扩散指数点）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "扩散指数",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "制造业及非制造业调查企业",
+      "source_id": "A_S06",
+      "source_locator": "三综合；附注4(3)",
+      "history": "表1—4实际列2024年12月至2025年12月；明确月度调查。",
+      "breaks": "权重和季调版本须保持一致。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "G"
+      ],
+      "interpretation": "总体产出活动方向。",
+      "companions": [
+        "GDP",
+        "制造业生产PMI",
+        "非制造活动"
+      ],
+      "pitfalls": "不是制造业PMI与非制造业指数的简单均值，更不能当GDP增速。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "制造业及非制造业调查企业"
+          ],
+          "source_ids": [
+            "A_S06"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A041",
+      "name": "流通中货币M0余额",
+      "family": "货币",
+      "module": "货币存量",
+      "definition": "流通中货币余额；自2022年12月包括流通中数字人民币。",
+      "unit": "万亿元",
+      "frequency": "月度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国货币持有部门",
+      "source_id": "A_S14",
+      "source_locator": "一货币；定义A_S12/A_S13；数字人民币A_S23附注、M2历史A_S24注2；年末A_S17页6",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "2022年12月起含数字人民币，2022年M0同比已修订（A_S23）。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "数字人民币已纳入M0；M2采用当期可比口径；2024旧M1表不可当新M1回溯。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "交易性及储蓄性货币资产规模。",
+      "companions": [
+        "名义GDP",
+        "存款结构",
+        "利率"
+      ],
+      "pitfalls": "不是当期消费、信贷或现金投放流量；M0/M1/M2互相包含不能相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国货币持有部门"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "货币持有部门合计"
+          ],
+          "source_ids": [
+            "A_S13",
+            "A_S14"
+          ],
+          "evidence": "本源没有完整部门矩阵",
+          "limitation": "不可从合计分拆居民/企业所有货币资产。"
+        }
+      ]
+    },
+    {
+      "id": "A042",
+      "name": "狭义货币M1余额（2025新口径）",
+      "family": "货币",
+      "module": "货币存量",
+      "definition": "M0、单位活期存款、个人活期存款和非银行支付机构客户备付金合计。",
+      "unit": "万亿元",
+      "frequency": "月度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国货币持有部门",
+      "source_id": "A_S14",
+      "source_locator": "一货币；定义A_S12/A_S13；数字人民币A_S23附注、M2历史A_S24注2；年末A_S17页6",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "2025年1月M1扩围；2024年各月有官方可比回溯；旧口径截至2024年原发布余额不可直连新口径。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "只接受明确标记的2025新口径和2024官方回溯；缺口不自行估算。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "交易性及储蓄性货币资产规模。",
+      "companions": [
+        "名义GDP",
+        "存款结构",
+        "利率"
+      ],
+      "pitfalls": "不是当期消费、信贷或现金投放流量；M0/M1/M2互相包含不能相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国货币持有部门"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "货币持有部门合计"
+          ],
+          "source_ids": [
+            "A_S13",
+            "A_S14"
+          ],
+          "evidence": "本源没有完整部门矩阵",
+          "limitation": "不可从合计分拆居民/企业所有货币资产。"
+        }
+      ]
+    },
+    {
+      "id": "A043",
+      "name": "广义货币M2余额",
+      "family": "货币",
+      "module": "货币存量",
+      "definition": "按央行货币供应量统计范围汇总的广义货币金融资产余额。",
+      "unit": "万亿元",
+      "frequency": "月度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国货币持有部门",
+      "source_id": "A_S14",
+      "source_locator": "一货币；定义A_S12/A_S13；数字人民币A_S23附注、M2历史A_S24注2；年末A_S17页6",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "2018年M2改用非存款部门持有货币市场基金替代基金银行存款及存单（A_S24注2）；2022年12月M0纳入数字人民币（A_S23）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "数字人民币已纳入M0；M2采用当期可比口径；2024旧M1表不可当新M1回溯。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "交易性及储蓄性货币资产规模。",
+      "companions": [
+        "名义GDP",
+        "存款结构",
+        "利率"
+      ],
+      "pitfalls": "不是当期消费、信贷或现金投放流量；M0/M1/M2互相包含不能相加。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国货币持有部门"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "货币持有部门合计"
+          ],
+          "source_ids": [
+            "A_S13",
+            "A_S14"
+          ],
+          "evidence": "本源没有完整部门矩阵",
+          "limitation": "不可从合计分拆居民/企业所有货币资产。"
+        }
+      ]
+    },
+    {
+      "id": "A044",
+      "name": "人民币各项贷款余额",
+      "family": "信贷",
+      "module": "信贷存量",
+      "definition": "金融统计口径人民币贷款的期末账面余额。",
+      "unit": "亿元",
+      "frequency": "月度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "纳入央行金融统计的机构",
+      "source_id": "A_S17",
+      "source_locator": "表6；月度A_S14二",
+      "history": "表4—5列2025年逐月数据，表3有上季末/上年末比较；执行报告定期发布。",
+      "breaks": "2015年起存贷款纳入非银金融机构相关资金（A_S24注4）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "存量信贷资金规模与部门结构。",
+      "companions": [
+        "贷款新增",
+        "贷款利率",
+        "部门现金流"
+      ],
+      "pitfalls": "金融统计贷款含非银与境外等，与社融人民币贷款不同；贷款不等于支出。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "纳入央行金融统计的机构"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "住户",
+            "企事业单位（非金融企业及机关团体）",
+            "非银行业金融机构",
+            "境外"
+          ],
+          "source_ids": [
+            "A_S14",
+            "A_S17"
+          ],
+          "evidence": "A_S17表6给部门余额及新增；A_S14给期限。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "五金融业人民币存贷款余额",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A045",
+      "name": "人民币贷款新增额",
+      "family": "信贷",
+      "module": "信贷流量",
+      "definition": "报告期人民币贷款的官方增加额。",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "纳入央行金融统计的机构",
+      "source_id": "A_S14",
+      "source_locator": "二贷款；年表A_S17表6",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "2015年起存贷款纳入非银金融机构相关资金（A_S24注4）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F",
+        "K"
+      ],
+      "interpretation": "期间信贷扩张及期限结构。",
+      "companions": [
+        "贷款余额",
+        "政府债融资",
+        "贷款投向"
+      ],
+      "pitfalls": "不得用存量差无条件替代；新发放总额不等于净新增；置换可影响。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "纳入央行金融统计的机构"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "住户短期",
+            "住户中长期",
+            "企事业短期",
+            "企事业中长期",
+            "票据融资",
+            "非银机构"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "二贷款分类净增加额。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A046",
+      "name": "人民币各项存款余额",
+      "family": "存款",
+      "module": "金融资产存量",
+      "definition": "金融机构统计范围内的人民币存款期末余额。",
+      "unit": "亿元",
+      "frequency": "月度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "纳入央行统计金融机构及存款持有人",
+      "source_id": "A_S17",
+      "source_locator": "表2；月度A_S14三",
+      "history": "表4—5列2025年逐月数据，表3有上季末/上年末比较；执行报告定期发布。",
+      "breaks": "2015年起存贷款纳入非银金融机构相关资金（A_S24注4）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "流动资产在部门间的配置。",
+      "companions": [
+        "住户收入消费",
+        "资管规模",
+        "贷款"
+      ],
+      "pitfalls": "存款不是储蓄流量；不能因住户存款上升便断定消费相同幅度下降。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "纳入央行统计金融机构及存款持有人"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "住户",
+            "非金融企业",
+            "机关团体",
+            "财政",
+            "非银行业金融机构",
+            "境外"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "表2完整列示。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "五金融业人民币各项存款",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A047",
+      "name": "人民币存款增加额",
+      "family": "存款",
+      "module": "存款变化",
+      "definition": "报告期人民币各项存款的官方增加额。",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "纳入央行统计金融机构及存款持有人",
+      "source_id": "A_S14",
+      "source_locator": "三存款；A_S17表2当年新增",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "2015年起存贷款纳入非银金融机构相关资金（A_S24注4）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "识别存款部门变化方向。",
+      "companions": [
+        "存款余额",
+        "收入消费",
+        "资产交易"
+      ],
+      "pitfalls": "不是国民账户储蓄，也不等于现金净流入。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "纳入央行统计金融机构及存款持有人"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "住户",
+            "非金融企业",
+            "机关团体",
+            "财政",
+            "非银行业金融机构",
+            "境外"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "表2完整列示。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A048",
+      "name": "社会融资规模存量",
+      "family": "社会融资",
+      "module": "融资存量",
+      "definition": "实体经济期末从金融体系取得资金余额的官方汇总。",
+      "unit": "万亿元",
+      "frequency": "月度",
+      "time_type": "时点",
+      "stock_flow": "存量",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "社融定义的实体经济和融资工具",
+      "source_id": "A_S16",
+      "source_locator": "首段与注1；A_S17表7存量列",
+      "history": "与A_S15同时发布的独立存量报告；A_S17含年末存量表。",
+      "breaks": "2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "各融资渠道存量规模及结构。",
+      "companions": [
+        "分项社融",
+        "名义GDP",
+        "贷款"
+      ],
+      "pitfalls": "包含股票融资等非债务项；政府债已包含；核销存量使其非简单未偿债务总和。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "社融定义的实体经济和融资工具"
+          ],
+          "source_ids": [
+            "A_S16"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "实体经济合计",
+            "政府债券融资",
+            "非金融企业境内股票融资"
+          ],
+          "source_ids": [
+            "A_S15",
+            "A_S16",
+            "A_S17"
+          ],
+          "evidence": "融资工具分项能部分识别主体",
+          "limitation": "没有完整企业/住户/政府×全部融资工具矩阵。"
+        }
+      ]
+    },
+    {
+      "id": "A049",
+      "name": "社会融资规模增量",
+      "family": "社会融资",
+      "module": "融资流量",
+      "definition": "期间实体经济从金融体系获得资金的官方新增汇总。",
+      "unit": "亿元",
+      "frequency": "月度累计、年度",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "社融定义的实体经济和融资工具",
+      "source_id": "A_S15",
+      "source_locator": "正文、注1；A_S17表7增量列",
+      "history": "月度栏目已访问；报告有同比同期间对照；A_S17另核验全年表。",
+      "breaks": "2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F",
+        "K"
+      ],
+      "interpretation": "信贷、债券及其他融资对总融资的构成。",
+      "companions": [
+        "政府债净融资",
+        "实体人民币贷款",
+        "贷款核销"
+      ],
+      "pitfalls": "不是发行总额、不是支出；不可把社融外加政府债；核销需单列。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "社融定义的实体经济和融资工具"
+          ],
+          "source_ids": [
+            "A_S15"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "部分覆盖",
+          "members": [
+            "实体经济合计",
+            "政府债券融资",
+            "非金融企业境内股票融资"
+          ],
+          "source_ids": [
+            "A_S15",
+            "A_S16",
+            "A_S17"
+          ],
+          "evidence": "融资工具分项能部分识别主体",
+          "limitation": "没有完整企业/住户/政府×全部融资工具矩阵。"
+        }
+      ]
+    },
+    {
+      "id": "A050",
+      "name": "贷款市场报价利率LPR",
+      "family": "利率",
+      "module": "贷款定价参考",
+      "definition": "全国银行间同业拆借中心公布、供贷款定价参考的期限报价利率。",
+      "unit": "%/年",
+      "frequency": "月度（每月20日，节假日顺延）",
+      "time_type": "时点",
+      "stock_flow": "价格",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "LPR报价机制",
+      "source_id": "A_S17",
+      "source_locator": "印刷页3 LPR、表4注；月度机制A_S22",
+      "history": "表4—5列2025年逐月数据，表3有上季末/上年末比较；执行报告定期发布。",
+      "breaks": "2019年8月LPR形成机制改革，前后须标记；本源未穷尽后续报价行调整。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "贷款定价参考的变动。",
+      "companions": [
+        "新发放贷款利率",
+        "政策利率"
+      ],
+      "pitfalls": "不是全部贷款实际成交利率；5年以上不等于5年期。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "LPR报价机制"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "1年期LPR",
+            "5年期以上LPR"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "页3列两期限。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A051",
+      "name": "新发放贷款加权平均利率",
+      "family": "利率",
+      "module": "实际融资价格",
+      "definition": "报告期新发放贷款按金额等统计权重计算的平均利率公开值。",
+      "unit": "%/年",
+      "frequency": "季度报告披露季末月",
+      "time_type": "期间",
+      "stock_flow": "价格",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "纳入央行利率统计的新发放贷款",
+      "source_id": "A_S17",
+      "source_locator": "印刷页4表3",
+      "history": "表4—5列2025年逐月数据，表3有上季末/上年末比较；执行报告定期发布。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "检验贷款融资价格的实际传导。",
+      "companions": [
+        "LPR",
+        "贷款结构",
+        "贷款新增"
+      ],
+      "pitfalls": "2025年12月值不是全年平均；结构变化会改变加权均值；不是存量贷款利率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "纳入央行利率统计的新发放贷款"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "一般贷款",
+            "其中企业贷款",
+            "票据融资",
+            "个人住房贷款"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "表3，企业为一般贷款子项。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A052",
+      "name": "银行间人民币同业拆借和质押式回购月加权利率",
+      "family": "利率",
+      "module": "货币市场价格",
+      "definition": "按交易统计权重形成的全月银行间拆借及质押式回购利率。",
+      "unit": "%/年",
+      "frequency": "月度",
+      "time_type": "期间",
+      "stock_flow": "价格",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "银行间人民币货币市场",
+      "source_id": "A_S14",
+      "source_locator": "四银行间市场",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "本轮未核验额外断点；不表示历史从无修订。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M",
+        "F"
+      ],
+      "interpretation": "短期资金价格。",
+      "companions": [
+        "政策利率",
+        "成交量",
+        "期限结构"
+      ],
+      "pitfalls": "本月综合加权利率不等于DR007、隔夜或月底单日利率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "银行间人民币货币市场"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "机构部门",
+          "status": "已覆盖",
+          "members": [
+            "银行间拆借",
+            "质押式债券回购"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "四分别报告。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A053",
+      "name": "公开市场7天期逆回购操作利率",
+      "family": "利率",
+      "module": "政策利率",
+      "definition": "央行7天期逆回购操作的公布年化利率。",
+      "unit": "%/年",
+      "frequency": "操作日公布；变更事件记录",
+      "time_type": "时点",
+      "stock_flow": "价格",
+      "price_basis": "名义",
+      "period_basis": "当期",
+      "population": "央行公开市场操作",
+      "source_id": "A_S21",
+      "source_locator": "操作结果表；2025变更记录A_S17印刷页9",
+      "history": "操作公告按实际操作日发布；A_S17提供2025年5月利率变动的政策记录。",
+      "breaks": "2025年5月从1.5%调至1.4%；不同工具利率不可无标识替换；本轮未核验完整日历。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M"
+      ],
+      "interpretation": "政策利率向短期市场利率传导的起点。",
+      "companions": [
+        "货币市场利率",
+        "LPR",
+        "贷款利率"
+      ],
+      "pitfalls": "操作利率不等于银行融资利率；额度净投放与价格分开。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "央行公开市场操作"
+          ],
+          "source_ids": [
+            "A_S21"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A054",
+      "name": "广义货币M2余额同比增速",
+      "family": "货币",
+      "module": "货币增长",
+      "definition": "按央行可比口径计算的期末M2相对上年同期增速。",
+      "unit": "%",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "期末",
+      "population": "全国货币持有部门",
+      "source_id": "A_S14",
+      "source_locator": "一广义货币；A_S17页6",
+      "history": "月报结构及2024各月可比M1表的存在已经核验，回溯表为图片，本轮不抄未辨读数值。",
+      "breaks": "2018年M2改用非存款部门持有货币市场基金替代基金银行存款及存单（A_S24注2）；2022年12月M0纳入数字人民币（A_S23）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "M"
+      ],
+      "interpretation": "货币存量扩张速度。",
+      "companions": [
+        "名义GDP",
+        "货币结构",
+        "资管替代"
+      ],
+      "pitfalls": "存量同比不是当期货币投放流量；不直接等于物价或消费增长。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国货币持有部门"
+          ],
+          "source_ids": [
+            "A_S14"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A055",
+      "name": "M2增速与GDP名义增速之差",
+      "family": "货币",
+      "module": "货币与名义产出对照",
+      "definition": "同一年度末M2同比减全年名义GDP同比的描述性差。",
+      "unit": "百分点",
+      "frequency": "年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "全年",
+      "population": "全国货币和GDP口径",
+      "source_id": "A_S17",
+      "source_locator": "M2年末同比见页6；GDP见A_S01/A_S02",
+      "history": "表4—5列2025年逐月数据，表3有上季末/上年末比较；执行报告定期发布。",
+      "breaks": "2018年M2改用非存款部门持有货币市场基金替代基金银行存款及存单（A_S24注2）；2022年12月M0纳入数字人民币（A_S23）；2023年1月金融统计纳入消费金融公司、理财公司、金融资产投资公司（A_S14/A_S15）；需用同口径历史。",
+      "origin": "透明派生",
+      "formula": "A054_12月−A012_全年",
+      "inputs": [
+        "A054",
+        "A012"
+      ],
+      "conditions": "严格标注年末对全年；不可用该差值推算通胀或资本流向。",
+      "systems": [
+        "M"
+      ],
+      "interpretation": "识别货币存量与年度名义产出增长不一。",
+      "companions": [
+        "利率",
+        "信用结构",
+        "月均货币",
+        "价格"
+      ],
+      "pitfalls": "不等于超发量、资金空转率或因果传导效率；年末存量与全年流量的比较须明示。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国货币和GDP口径"
+          ],
+          "source_ids": [
+            "A_S17"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A056",
+      "name": "住户调查消费支出与可支配收入之比",
+      "family": "住户收支",
+      "module": "消费倾向",
+      "definition": "同口径同期间人均消费支出除以人均可支配收入。",
+      "unit": "%",
+      "frequency": "季度累计、年度",
+      "time_type": "比率",
+      "stock_flow": "比率",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "同一住户调查总体",
+      "source_id": "A_S04",
+      "source_locator": "表1收入和消费原值",
+      "history": "附注明确按季发布；31省近2000县抽取16万户的住户调查。",
+      "breaks": "季度不含自产自用、年度包含；不能把年度减前三季度视为严格同口径第四季度。",
+      "origin": "透明派生",
+      "formula": "100×A016/A014",
+      "inputs": [
+        "A016",
+        "A014"
+      ],
+      "conditions": "分子分母须同人群、同期间、同自产自用口径；不得用农村消费除城镇收入。",
+      "systems": [
+        "K",
+        "D"
+      ],
+      "interpretation": "描述住户调查支出相对收入的比例。",
+      "companions": [
+        "收入分布",
+        "存款",
+        "服务消费"
+      ],
+      "pitfalls": "不是国民账户居民储蓄率；1减本值不能作为全社会储蓄率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "同一住户调查总体"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "全国居民",
+            "城镇居民",
+            "农村居民"
+          ],
+          "source_ids": [
+            "A_S04"
+          ],
+          "evidence": "表1按常住地分城乡。",
+          "limitation": ""
+        },
+        {
+          "dimension": "省级",
+          "status": "部分覆盖",
+          "members": [
+            "北京"
+          ],
+          "source_ids": [
+            "A_S18"
+          ],
+          "evidence": "十人民生活：城乡居民收入及支出",
+          "limitation": "仅2023年北京原文样本；未验证其余30省和逐月序列。"
+        }
+      ]
+    },
+    {
+      "id": "A057",
+      "name": "网上服务零售额",
+      "family": "服务消费",
+      "module": "线上服务",
+      "definition": "2026完善网络统计后公开的网上服务交易零售额。",
+      "unit": "亿元",
+      "frequency": "月度累计",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "扩围后的网络服务平台统计范围",
+      "source_id": "A_S20",
+      "source_locator": "正文网上服务零售行；附注6",
+      "history": "2026年1—2月新表及修订说明已读，延续月度发布；总额新口径不反推旧值。",
+      "breaks": "2026新增指标、扩大网络服务平台统计范围；本轮未验证更早同口径绝对额。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "观察线上服务渠道。",
+      "companions": [
+        "服务零售增速",
+        "住户消费"
+      ],
+      "pitfalls": "不等于全部服务消费；不可当作旧网上总额减旧实物项的同口径延续。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "扩围后的网络服务平台统计范围"
+          ],
+          "source_ids": [
+            "A_S20"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A058",
+      "name": "网上商品和服务零售额（2026口径）",
+      "family": "商品餐饮消费",
+      "module": "线上总量",
+      "definition": "扩大网络服务平台统计后的线上商品和服务零售合计。",
+      "unit": "亿元",
+      "frequency": "月度累计",
+      "time_type": "期间",
+      "stock_flow": "流量",
+      "price_basis": "名义",
+      "period_basis": "累计",
+      "population": "2026完善后的网络零售平台范围",
+      "source_id": "A_S20",
+      "source_locator": "正文网上总额；附注6",
+      "history": "2026年1—2月新表及修订说明已读，延续月度发布；总额新口径不反推旧值。",
+      "breaks": "2026网上总额改名且扩围；原文明确新旧总额不可比。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "按发布报告期及统计边界记录，保留原始精度和版本。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "线上商品与服务合计规模。",
+      "companions": [
+        "网上商品",
+        "网上服务",
+        "平台范围"
+      ],
+      "pitfalls": "2025旧网上零售额与本值不可比；含不入社零的服务，不能计算其占社零的消费渗透率。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "2026完善后的网络零售平台范围"
+          ],
+          "source_ids": [
+            "A_S20"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A059",
+      "name": "居民消费价格指数CPI及涨跌幅",
+      "family": "消费价格",
+      "module": "消费价格总水平",
+      "definition": "居民购买生活消费品和服务价格变动的指数；原月报同时列同比和环比涨跌幅。",
+      "unit": "%（涨跌幅）；指数点（指定对比期=100）",
+      "frequency": "月度；年度平均",
+      "time_type": "比率",
+      "stock_flow": "价格",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "全国城乡居民消费篮子",
+      "source_id": "A_S25",
+      "source_locator": "主要数据表总CPI；附注1—5；年度A_S27；指数比较期A_S29",
+      "history": "A_S27已核验2025年12月及全年；A_S25核验2026年1月；A_S29确认稳定月度制度。",
+      "breaks": "2026年1月由2020基期转2025基期；分类、权数、样本更新（A_S25/A_S26/A_S28）；不得把基期轮换平均影响逐月固定扣除。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "原始月报值为同比/环比涨跌幅，分别存字段或观测行；对应比较期=100指数可按100+涨跌幅透明转换，不能冒充2025定基指数或原始商品单价。累计平均采用官方发布；不把12月同比作年度平均。",
+      "systems": [
+        "K",
+        "M",
+        "D"
+      ],
+      "interpretation": "居民消费价格与实际购买力的总体价格证据。",
+      "companions": [
+        "核心CPI",
+        "服务CPI",
+        "居民收入实际增速",
+        "GDP平减指数"
+      ],
+      "pitfalls": "不是全部资产价格、GDP平减指数或个体家庭生活成本；涨跌幅与指数点不混写；新基期权重不能直接用于月度贡献。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国城乡居民消费篮子"
+          ],
+          "source_ids": [
+            "A_S25"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "居民群体",
+          "status": "已覆盖",
+          "members": [
+            "城市",
+            "农村"
+          ],
+          "source_ids": [
+            "A_S25"
+          ],
+          "evidence": "主要数据表列两组CPI。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "食品烟酒及在外餐饮",
+            "衣着",
+            "居住",
+            "生活用品及服务",
+            "交通通信",
+            "教育文化娱乐",
+            "医疗保健",
+            "其他用品及服务"
+          ],
+          "source_ids": [
+            "A_S25"
+          ],
+          "evidence": "按消费分类而非国民经济行业分类",
+          "limitation": "消费篮子分类不可直接对应生产行业。"
+        }
+      ]
+    },
+    {
+      "id": "A060",
+      "name": "核心CPI（不包括食品和能源）及涨跌幅",
+      "family": "消费价格",
+      "module": "核心价格",
+      "definition": "从居民消费价格调查篮子中剔除食品和能源后的价格指数及官方涨跌幅。",
+      "unit": "%（涨跌幅）；指数点（指定对比期=100）",
+      "frequency": "月度；年度平均",
+      "time_type": "比率",
+      "stock_flow": "价格",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "全国CPI篮子不含食品能源部分",
+      "source_id": "A_S25",
+      "source_locator": "主要数据表不包括食品和能源行；年度A_S27",
+      "history": "A_S27核心月度环比/同比和全年值；A_S25新基期同名行。",
+      "breaks": "2026年1月由2020基期转2025基期；分类、权数、样本更新（A_S25/A_S26/A_S28）；不得把基期轮换平均影响逐月固定扣除。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "原始月报值为同比/环比涨跌幅，分别存字段或观测行；对应比较期=100指数可按100+涨跌幅透明转换，不能冒充2025定基指数或原始商品单价。累计平均采用官方发布；不把12月同比作年度平均。",
+      "systems": [
+        "K",
+        "M"
+      ],
+      "interpretation": "辅助识别食品和能源直接波动之外的价格走势。",
+      "companions": [
+        "总CPI",
+        "服务CPI",
+        "工资收入",
+        "需求数量"
+      ],
+      "pitfalls": "核心不等于非食品；并未消除全部供给冲击、间接能源成本或季节影响；不能单独识别需求。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "全国CPI篮子不含食品能源部分"
+          ],
+          "source_ids": [
+            "A_S25"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A061",
+      "name": "服务CPI及涨跌幅",
+      "family": "消费价格",
+      "module": "居民服务价格",
+      "definition": "居民消费价格篮子中服务部分的价格指数和官方同比、环比及累计平均涨跌幅。",
+      "unit": "%（涨跌幅）；指数点（指定对比期=100）",
+      "frequency": "月度；年度平均",
+      "time_type": "比率",
+      "stock_flow": "价格",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "居民生活消费服务",
+      "source_id": "A_S25",
+      "source_locator": "主要数据表服务行；年度A_S27",
+      "history": "A_S27和A_S25同名服务行跨相邻月已核验；新一轮服务篮子权数上升见A_S28。",
+      "breaks": "2026年1月由2020基期转2025基期；分类、权数、样本更新（A_S25/A_S26/A_S28）；不得把基期轮换平均影响逐月固定扣除。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "原始月报值为同比/环比涨跌幅，分别存字段或观测行；对应比较期=100指数可按100+涨跌幅透明转换，不能冒充2025定基指数或原始商品单价。累计平均采用官方发布；不把12月同比作年度平均。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "服务消费价格变化，与住户服务支出量价分离配套。",
+      "companions": [
+        "住户服务消费",
+        "服务零售增速",
+        "服务业生产"
+      ],
+      "pitfalls": "不等于全部服务业产出平减指数或服务零售量；不能把名义服务零售增速直接减服务CPI认定精确实际量。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "居民生活消费服务"
+          ],
+          "source_ids": [
+            "A_S25"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        }
+      ]
+    },
+    {
+      "id": "A062",
+      "name": "工业生产者出厂价格指数PPI及涨跌幅",
+      "family": "生产价格",
+      "module": "工业销售价格",
+      "definition": "工业产品第一次出售时出厂价格变化的指数及官方同比、环比涨跌幅。",
+      "unit": "%（涨跌幅）；指数点（指定对比期=100）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "价格",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "工业企业产品第一次出售价格",
+      "source_id": "A_S26",
+      "source_locator": "主要数据表一、三；附注1—6",
+      "history": "A_S26明确按月表；A_S29确认月度发布制度；未核验完整长期逐月数据。",
+      "breaks": "2026年1月由2020基期转2025基期；分类、权数、样本更新（A_S25/A_S26/A_S28）；不得把基期轮换平均影响逐月固定扣除。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "原始月报值为同比/环比涨跌幅，分别存字段或观测行；对应比较期=100指数可按100+涨跌幅透明转换，不能冒充2025定基指数或原始商品单价。累计平均采用官方发布；不把12月同比作年度平均。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "工业销售价格环境，配合产量、收入和盈利分析。",
+      "companions": [
+        "工业购进价格",
+        "工业增加值",
+        "利润",
+        "PMI出厂价格"
+      ],
+      "pitfalls": "不是工业产量或所有企业收入增速；PPI-CPI差不等于企业利润率；不能用PMI出厂价格扩散指数替代。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "工业企业产品第一次出售价格"
+          ],
+          "source_ids": [
+            "A_S26"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "生产资料：采掘、原材料、加工",
+            "生活资料：食品、衣着、一般日用品、耐用消费品",
+            "煤炭开采和洗选业",
+            "石油和天然气开采业",
+            "医药制造业",
+            "汽车制造业",
+            "计算机通信和其他电子设备制造业",
+            "电力热力生产和供应业"
+          ],
+          "source_ids": [
+            "A_S26"
+          ],
+          "evidence": "调查41大类，本页表三仅列主要行业",
+          "limitation": "不可宣称本表全部41行业公开。"
+        }
+      ]
+    },
+    {
+      "id": "A063",
+      "name": "工业生产者购进价格指数及涨跌幅",
+      "family": "生产价格",
+      "module": "工业投入价格",
+      "definition": "工业企业购入中间投入产品价格变化的指数及官方同比、环比涨跌幅。",
+      "unit": "%（涨跌幅）；指数点（指定对比期=100）",
+      "frequency": "月度",
+      "time_type": "比率",
+      "stock_flow": "价格",
+      "price_basis": "不适用",
+      "period_basis": "当期",
+      "population": "工业企业中间投入品采购",
+      "source_id": "A_S26",
+      "source_locator": "主要数据表二；附注1—4",
+      "history": "A_S26含购进指数同月同比环比原值；A_S29价格月度发布制度。",
+      "breaks": "同一发布的PPI自2026年1月转2025基期；附注基期声明以PPI称谓表述，购进指数单独基期、权重和同基回溯细节本轮未取得，跨期必须再核具体统计表注。",
+      "origin": "公开发布",
+      "formula": "原文发布",
+      "inputs": [],
+      "conditions": "原始月报值为同比/环比涨跌幅，分别存字段或观测行；对应比较期=100指数可按100+涨跌幅透明转换，不能冒充2025定基指数或原始商品单价。累计平均采用官方发布；不把12月同比作年度平均。",
+      "systems": [
+        "K",
+        "M",
+        "S"
+      ],
+      "interpretation": "工业中间投入成本的价格变化。",
+      "companions": [
+        "PPI",
+        "企业利润率",
+        "原材料采购量",
+        "汇率"
+      ],
+      "pitfalls": "不覆盖工资、融资等全部成本；指数篮子不同于PPI，差值不能直接作为利润率；不是原材料采购额。",
+      "coverage": [
+        {
+          "dimension": "全国",
+          "status": "已覆盖",
+          "members": [
+            "工业企业中间投入品采购"
+          ],
+          "source_ids": [
+            "A_S26"
+          ],
+          "evidence": "本源正文或表格明确全国统计结果。",
+          "limitation": ""
+        },
+        {
+          "dimension": "行业",
+          "status": "部分覆盖",
+          "members": [
+            "燃料动力",
+            "黑色金属材料",
+            "有色金属材料及电线",
+            "化工原料",
+            "木材及纸浆",
+            "建筑材料及非金属",
+            "其他工业原材料及半成品",
+            "农副产品",
+            "纺织原料"
+          ],
+          "source_ids": [
+            "A_S26"
+          ],
+          "evidence": "表二列9大购进类别",
+          "limitation": "为采购品分类而非企业行业全矩阵。"
+        }
+      ]
+    }
+  ],
+  "examples": [
+    {
+      "system": "K",
+      "question": "总体需求构成及家庭消费验证：核对需求对实际增长的贡献，避免把社零当全部消费",
+      "source_ids": [
+        "A_S03",
+        "A_S04",
+        "A_S05"
+      ],
+      "inputs": [
+        {
+          "名称": "GDP实际增长",
+          "值": 5.0,
+          "单位": "%",
+          "报告期": "2025全年",
+          "定位": "A_S03一综合"
+        },
+        {
+          "名称": "最终消费拉动",
+          "值": 2.6,
+          "单位": "百分点",
+          "报告期": "2025全年",
+          "定位": "A_S03一综合"
+        },
+        {
+          "名称": "资本形成拉动",
+          "值": 0.8,
+          "单位": "百分点",
+          "报告期": "2025全年",
+          "定位": "A_S03一综合"
+        },
+        {
+          "名称": "净出口拉动",
+          "值": 1.6,
+          "单位": "百分点",
+          "报告期": "2025全年",
+          "定位": "A_S03一综合"
+        },
+        {
+          "名称": "居民人均可支配收入",
+          "值": 43377,
+          "单位": "元",
+          "报告期": "2025全年",
+          "定位": "A_S04表1"
+        },
+        {
+          "名称": "居民人均消费支出",
+          "值": 29476,
+          "单位": "元",
+          "报告期": "2025全年",
+          "定位": "A_S04表1"
+        },
+        {
+          "名称": "社会消费品零售总额",
+          "值": 501202,
+          "单位": "亿元",
+          "报告期": "2025全年",
+          "定位": "A_S05主要数据表1—12月"
+        }
+      ],
+      "calculation": "2.6+0.8+1.6=5.0个百分点；2.6/5.0×100≈52.0%（由舍入拉动数推算的近似贡献占比）；29476/43377×100≈67.9531%。",
+      "result": "已通过公开输入—会计加总—住户消费比例—社零边界交叉核对的示例；没有形成当前经济综合评价。",
+      "permitted_conclusion": "这一发布版本三项拉动加总为5.0个百分点；住户调查消费/收入比约67.95%；社零只能作为商品餐饮需求的另一个观察面。",
+      "forbidden_conclusion": "不得宣称消费刺激导致GDP增加2.6个百分点、社零等于全部最终消费、32.05%就是国民账户居民储蓄率，或据单年判断长期需求不足。",
+      "counterevidence_needed": [
+        "最终消费中居民与政府分解",
+        "消费价格与量",
+        "收入分组变化",
+        "服务消费",
+        "修订后GDP与完整多年序列",
+        "财政和就业影响"
+      ]
+    },
+    {
+      "system": "M",
+      "question": "货币—融资价格—名义产出的证据链：检验观测是否共同成立而不冒充因果识别",
+      "source_ids": [
+        "A_S01",
+        "A_S02",
+        "A_S17"
+      ],
+      "inputs": [
+        {
+          "名称": "2025 GDP现价额（初步）",
+          "值": 1401879,
+          "单位": "亿元",
+          "报告期": "2025全年",
+          "定位": "A_S01表1 GDP全年"
+        },
+        {
+          "名称": "2024 GDP现价额（最终核实）",
+          "值": 1348066,
+          "单位": "亿元",
+          "报告期": "2024全年",
+          "定位": "A_S02附件1 GDP"
+        },
+        {
+          "名称": "GDP实际增速",
+          "值": 5.0,
+          "单位": "%",
+          "报告期": "2025全年",
+          "定位": "A_S01表1"
+        },
+        {
+          "名称": "M2同比增长",
+          "值": 8.5,
+          "单位": "%",
+          "报告期": "2025年12月末",
+          "定位": "A_S17印刷页6"
+        },
+        {
+          "名称": "新发放贷款加权平均利率",
+          "值": 3.15,
+          "单位": "%/年",
+          "报告期": "2025年12月",
+          "定位": "A_S17印刷页4表3"
+        },
+        {
+          "名称": "新发放贷款加权利率同比变化",
+          "值": -0.13,
+          "单位": "百分点",
+          "报告期": "2025年12月对2024年12月",
+          "定位": "A_S17表3同比列"
+        },
+        {
+          "名称": "社融人民币贷款增量",
+          "值": 159147,
+          "单位": "亿元",
+          "报告期": "2025全年",
+          "定位": "A_S17印刷页7表7"
+        },
+        {
+          "名称": "政府债券净融资",
+          "值": 138368,
+          "单位": "亿元",
+          "报告期": "2025全年",
+          "定位": "A_S17表7"
+        }
+      ],
+      "calculation": "gN=(1401879/1348066−1)×100≈3.9919%；平减指数变化=((1401879/1348066)/1.05−1)×100≈−0.9601%；8.5−gN≈4.5081个百分点；−0.13个百分点=−13个基点。",
+      "result": "年末M2同比、季末月新发放利率、全年融资构成、名义/实际GDP可以按明确期间建立审计链；例子只证明观测与计算可重现。",
+      "permitted_conclusion": "在此年度版本下，年末货币存量增长快于全年名义GDP增长；12月新贷款平均利率同比下降13个基点；名义与实际增长隐含总体产出价格变化约−0.96%。",
+      "forbidden_conclusion": "不能称4.51个百分点为货币超发、空转或传导效率；不能由利率下降推断政策净效果、因果通胀、实际融资需求强弱；不能把政府债再加到社融合计。",
+      "counterevidence_needed": [
+        "月均或季均货币存量以统一期间",
+        "存量和新贷款利率结构",
+        "贷款需求调查和贷款投向",
+        "化债置换及核销",
+        "名义支出分部门结构",
+        "资本流动及资管替代",
+        "政策时滞及反事实识别"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "system": "K",
+      "question": "总体需求与结构",
+      "dimension": "省级/地级",
+      "missing_item": "31省及全部地级最终消费/资本形成/净出口同口径高频完整矩阵",
+      "reason": "全国和北京个别年报核验不足以证明全覆盖；全国公报只给三大需求拉动。",
+      "allowed_alternative": "地方GDP、社零、财政、投资分别观察并明确样本；需额外逐地原文验证。",
+      "boundary": "不把社零替代最终消费、不按全国权重分摊地区需求。"
+    },
+    {
+      "system": "M",
+      "question": "货币存量到名义支出",
+      "dimension": "机构部门",
+      "missing_item": "全社会逐月货币资产—融资—支出完整部门对应矩阵",
+      "reason": "已核验源分别是金融存量流量及GDP/住户调查，没有可直接追踪每单位资金用途的联表。",
+      "allowed_alternative": "贷款与存款部门结构、社融工具结构与名义GDP并列观察。",
+      "boundary": "只能描述共变；不计算资金空转率或货币传导效率。"
+    },
+    {
+      "system": "G",
+      "question": "劳动投入与效率",
+      "dimension": "居民群体/行业",
+      "missing_item": "同口径全体就业者工时分布、劳动参与和行业小时投入稳定公开全矩阵",
+      "reason": "月报是企业平均周工时，年报就业人数与之人群/期间不同。",
+      "allowed_alternative": "官方全员劳动生产率、企业工时和失业率联合解释。",
+      "boundary": "不能计算小时生产率或推断TFP。"
+    },
+    {
+      "system": "K",
+      "question": "就业反馈",
+      "dimension": "居民群体",
+      "missing_item": "2023年7—11月连续可比分年龄失业率",
+      "reason": "2023年8月宣布停发，2023年12月新口径起点排除在校生并新增年龄组。",
+      "allowed_alternative": "新旧序列分面显示，缺失留空；总失业率作不同口径辅助。",
+      "boundary": "不插值、不将旧16—24与新16—24当连续序列。"
+    },
+    {
+      "system": "M",
+      "question": "货币结构",
+      "dimension": "全国",
+      "missing_item": "2024年以前新口径M1完整官方回溯的本轮核验",
+      "reason": "A_S14只明确2024各月回溯；本轮未取得此前新口径长序列。",
+      "allowed_alternative": "新M1从官方已提供回溯起，旧M1单列。",
+      "boundary": "不能用比例延展或自行加总未核验个人活期/备付金。"
+    },
+    {
+      "system": "K",
+      "question": "服务消费",
+      "dimension": "全国/行业",
+      "missing_item": "全部服务零售绝对额及稳定行业矩阵；2026线上总额之前可比长序列",
+      "reason": "服务零售主要公开增速；2026线上总额扩围，新旧总额不可比。",
+      "allowed_alternative": "服务零售增速、住户服务消费占比、2026网上服务新序列。",
+      "boundary": "不凭同比反推没有基期的总额；不把不同口径服务指标相加。"
+    }
+  ],
+  "notes": [
+    "本组只建立指标元数据和方法验证样例；没有输出当前中国经济综合判断。",
+    "所有29份登记材料均通过web open读取正文或定义；搜索摘要没有作为唯一入库证据。A_S14/A_S16为中国政府网原文转载，A_S17为商务部托管央行报告，已明示。",
+    "收入中位数、五等份、城乡收入比和收入来源分配由C组负责；本组仅保留收入消费总量及与需求周期直接相关比率。",
+    "coverage中“部分覆盖”表示仅有明确成员/部分字段的证据；调查样本遍及31省与省级结果公开可得是不同命题。未核验不代表绝对不存在。",
+    "期间字段用当期/累计/全年说明原值主形态；同一发布中当月及累计应在实际数据表拆行。全部年度均是全年，不将季报内月末数据误记季度平均。",
+    "原始数值表中的横线、空白和省略号保留缺失语义；不当作零。存量差与官方增量不一致时检查核销、重分类、汇率及统计修订。",
+    "指标A030的年度农民工人数按年度从业6个月条件统计，虽为人数规模而归存量类，time_type明确为期间覆盖人数；不要混同年末快照。",
+    "证据文件为人工核验摘要及少量事实摘录，不声称下载归档全部网页原文。检索遇到部分旧统计局路径和浙江网页访问错误，未用失败页面为覆盖背书。",
+    "2026价格基期及样本变更已经核验；价格指标采用月报原始同比/环比涨跌幅，不能从合成指数反推微观采价原值。",
+    "2026网上零售断点已经纳入：商品项改名不扩围，总额扩围不可比；当前数据更新仍须逐期阅读脚注。"
+  ]
+}

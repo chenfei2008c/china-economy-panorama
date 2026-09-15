@@ -1,0 +1,561 @@
+{
+  "as_of": "2026-09-15",
+  "counts": {
+    "systems": 7,
+    "questions": 28,
+    "metrics": 207,
+    "published": 195,
+    "derived": 12,
+    "sources": 87,
+    "mappings": 475,
+    "coverage_rows": 3325,
+    "registered_series": 124,
+    "full_history_series_collected": 0,
+    "examples": 10,
+    "gaps": 23
+  },
+  "checks": [
+    {
+      "check": "7体系与28核心问题",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "8张约定工作表",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "编号唯一",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "指标必填字段",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "原文和定义入口",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "指标和覆盖来源引用",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "问题指标双向引用",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "指标全部对应问题",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "每个问题含反证替代解释边界",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "四种覆盖状态",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "每问题指标检查七维",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "31省及20行业目录",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "细分键独立于矩阵行数",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "七体系均有原值执行路径",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "派生输入已登记",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "派生依赖无环",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "全部派生有真实输入复算",
+      "passed": true,
+      "detail": "['A012', 'A013', 'A055', 'A056', 'B024', 'B063', 'C036', 'C038', 'R013', 'R014', 'R015', 'R016']"
+    },
+    {
+      "check": "CAL01输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL01 A012",
+      "passed": true,
+      "detail": "computed=3.9918668670525033640786133616600; expected=3.991863"
+    },
+    {
+      "check": "CAL01 A013",
+      "passed": true,
+      "detail": "computed=-0.96012679328333012944893965556200; expected=-0.96013"
+    },
+    {
+      "check": "CAL01 A055",
+      "passed": true,
+      "detail": "computed=4.5081331329474966359213866383400; expected=4.508137"
+    },
+    {
+      "check": "CAL02输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL02 A056",
+      "passed": true,
+      "detail": "computed=67.953062682988680637204048228324; expected=67.953062"
+    },
+    {
+      "check": "CAL02 C038",
+      "passed": true,
+      "detail": "computed=2.3103532875368007850834151128557; expected=2.310353"
+    },
+    {
+      "check": "CAL03输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL03 B024",
+      "passed": true,
+      "detail": "computed=9527.3606428984915040691933122212; expected=9527.360643"
+    },
+    {
+      "check": "CAL04输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL04 B063",
+      "passed": true,
+      "detail": "computed=56.546866313558027723304559255662; expected=56.546866"
+    },
+    {
+      "check": "CAL05输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL05 C036",
+      "passed": true,
+      "detail": "computed=10.224433497536945812807881773399; expected=10.224433"
+    },
+    {
+      "check": "CAL06输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL06 R013",
+      "passed": true,
+      "detail": "computed=61.208628551751078514519079484037; expected=61.208628"
+    },
+    {
+      "check": "CAL06 R014",
+      "passed": true,
+      "detail": "computed=34.918462617293941495806405617248; expected=34.918463"
+    },
+    {
+      "check": "CAL06 R016",
+      "passed": true,
+      "detail": "computed=11.512095836447912835659747365136; expected=11.512095"
+    },
+    {
+      "check": "CAL06 账户核对",
+      "passed": true,
+      "detail": "computed=-0.1; expected=-0.1"
+    },
+    {
+      "check": "CAL07输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL07 R015",
+      "passed": true,
+      "detail": "computed=53.097823277755358476894766377106; expected=53.097827"
+    },
+    {
+      "check": "CAL08输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL08 B043复核",
+      "passed": true,
+      "detail": "computed=205.21166847081495955744580623419; expected=205.211668"
+    },
+    {
+      "check": "CAL08 B046复核",
+      "passed": true,
+      "detail": "computed=15.459998362946805423592989468400; expected=15.459998"
+    },
+    {
+      "check": "CAL09输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL09 研发结构复核",
+      "passed": true,
+      "detail": "computed=6.8844489467830912714579869407710; expected=6.884449"
+    },
+    {
+      "check": "CAL09 C026复核",
+      "passed": true,
+      "detail": "computed=45.931435957256107458605590904371; expected=45.931436"
+    },
+    {
+      "check": "CAL09 B009复核",
+      "passed": true,
+      "detail": "computed=4.1237758910010769654619680917675; expected=4.123776"
+    },
+    {
+      "check": "CAL10输入定位",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CAL10 专利收益差额",
+      "passed": true,
+      "detail": "computed=2.5; expected=2.5"
+    },
+    {
+      "check": "CAL10 专利收益比率",
+      "passed": true,
+      "detail": "computed=0.2875215641173087981598619896500; expected=0.287522"
+    },
+    {
+      "check": "真零与缺失不同",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "零分母不输出结果",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "累计同比不能相减",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "累计金额仅同口径可差分",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "M2与实际GDP比较形式去重",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "劳动力调查共享证据",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "无医保收支直接偿债映射",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "FOF实际消费只含住户政府",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "期末资产负债率",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "外债原文与计算差异保留",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "长文本无空模板遗漏",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "8份研究模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "CSV与工作簿视图同源",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "导出Excel八表可读",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel有8个筛选表",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel公式无错误 体系问题",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 体系问题",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 体系问题",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 指标字典",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 指标字典",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 指标字典",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 问题—指标映射",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 问题—指标映射",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 问题—指标映射",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 维度覆盖",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 维度覆盖",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 维度覆盖",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 来源登记",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 来源登记",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 来源登记",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 判断规则",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 判断规则",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 判断规则",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 全景模板",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 全景模板",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 全景模板",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel公式无错误 缺口与边界",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "Excel冻结窗格 缺口与边界",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel内容与发布元数据一致 缺口与边界",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "check": "公式数与当前样例定义一致",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "Excel缓存 判断规则!G57",
+      "passed": true,
+      "detail": "3.991866867052507"
+    },
+    {
+      "check": "Excel缓存 判断规则!G58",
+      "passed": true,
+      "detail": "-0.9601267932833335"
+    },
+    {
+      "check": "Excel缓存 判断规则!G59",
+      "passed": true,
+      "detail": "4.508133132947493"
+    },
+    {
+      "check": "Excel缓存 判断规则!G68",
+      "passed": true,
+      "detail": "67.95306268298869"
+    },
+    {
+      "check": "Excel缓存 判断规则!G69",
+      "passed": true,
+      "detail": "2.3103532875368007"
+    },
+    {
+      "check": "Excel缓存 判断规则!G76",
+      "passed": true,
+      "detail": "9527.360642898491"
+    },
+    {
+      "check": "Excel缓存 判断规则!G83",
+      "passed": true,
+      "detail": "56.54686631355803"
+    },
+    {
+      "check": "Excel缓存 判断规则!G90",
+      "passed": true,
+      "detail": "10.224433497536946"
+    },
+    {
+      "check": "Excel缓存 判断规则!G100",
+      "passed": true,
+      "detail": "61.208628551751076"
+    },
+    {
+      "check": "Excel缓存 判断规则!G101",
+      "passed": true,
+      "detail": "34.91846261729394"
+    },
+    {
+      "check": "Excel缓存 判断规则!G102",
+      "passed": true,
+      "detail": "11.512095836447914"
+    },
+    {
+      "check": "Excel缓存 判断规则!G103",
+      "passed": true,
+      "detail": "-0.09999999997671694"
+    },
+    {
+      "check": "Excel缓存 判断规则!G110",
+      "passed": true,
+      "detail": "53.09782327775536"
+    },
+    {
+      "check": "Excel缓存 判断规则!G119",
+      "passed": true,
+      "detail": "205.21166847081497"
+    },
+    {
+      "check": "Excel缓存 判断规则!G120",
+      "passed": true,
+      "detail": "15.459998362946806"
+    },
+    {
+      "check": "Excel缓存 判断规则!G132",
+      "passed": true,
+      "detail": "6.884448946783091"
+    },
+    {
+      "check": "Excel缓存 判断规则!G133",
+      "passed": true,
+      "detail": "45.931435957256106"
+    },
+    {
+      "check": "Excel缓存 判断规则!G134",
+      "passed": true,
+      "detail": "4.123775891001077"
+    },
+    {
+      "check": "Excel缓存 判断规则!G141",
+      "passed": true,
+      "detail": "2.5"
+    },
+    {
+      "check": "Excel缓存 判断规则!G142",
+      "passed": true,
+      "detail": "0.2875215641173101"
+    },
+    {
+      "check": "所有计算已导出",
+      "passed": true,
+      "detail": "20"
+    }
+  ],
+  "failed": 0,
+  "pending": 0
+}

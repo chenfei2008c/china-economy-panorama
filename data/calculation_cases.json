@@ -1,0 +1,564 @@
+[
+  {
+    "id": "CAL01",
+    "title": "GDP名义增长、平减变化与货币增速差",
+    "period": "2025全年 / 2025-12末",
+    "scope": "全国GDP年度流量、M2年末存量同比；两种期间明确分开",
+    "inputs": [
+      {
+        "metric_id": "A001",
+        "name": "2025年现价GDP",
+        "value": 1401879,
+        "unit": "亿元",
+        "source": "A_S01",
+        "location": "表1全年GDP"
+      },
+      {
+        "metric_id": "A001",
+        "name": "2024年最终核实GDP",
+        "value": 1348066,
+        "unit": "亿元",
+        "source": "A_S02",
+        "location": "附件1"
+      },
+      {
+        "metric_id": "A002",
+        "name": "2025年实际GDP同比",
+        "value": 5,
+        "unit": "百分数",
+        "source": "A_S01",
+        "location": "表1"
+      },
+      {
+        "metric_id": "A043",
+        "name": "2025年12月末M2同比",
+        "value": 8.5,
+        "unit": "百分数",
+        "source": "A_S17",
+        "location": "印刷页6"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "A012",
+        "name": "名义GDP同比",
+        "expression": "(x0/x1-1)*100",
+        "expected": 3.991863,
+        "unit": "%",
+        "meaning": "同版本可比基数",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "A013",
+        "name": "GDP平减指数变化",
+        "expression": "((x0/x1)/(1+x2/100)-1)*100",
+        "expected": -0.96013,
+        "unit": "%",
+        "meaning": "名义与实际变动的比值",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "A055",
+        "name": "M2同比减名义GDP同比",
+        "expression": "x3-(x0/x1-1)*100",
+        "expected": 4.508137,
+        "unit": "百分点",
+        "meaning": "只描述背离，不是空转率",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "GDP初值会修订；年末货币与全年支出比较不识别传导效率或政策效果。"
+  },
+  {
+    "id": "CAL02",
+    "title": "住户消费收入比与城乡收入比",
+    "period": "2025全年",
+    "scope": "住户调查；人均同年同价",
+    "inputs": [
+      {
+        "metric_id": "A016",
+        "name": "居民人均消费支出",
+        "value": 29476,
+        "unit": "元",
+        "source": "A_S04",
+        "location": "表1"
+      },
+      {
+        "metric_id": "A014",
+        "name": "居民人均可支配收入",
+        "value": 43377,
+        "unit": "元",
+        "source": "A_S04",
+        "location": "表1"
+      },
+      {
+        "metric_id": "A014",
+        "name": "城镇人均可支配收入",
+        "value": 56502,
+        "unit": "元",
+        "source": "C_S04",
+        "location": "表1按常住地分"
+      },
+      {
+        "metric_id": "A014",
+        "name": "农村人均可支配收入",
+        "value": 24456,
+        "unit": "元",
+        "source": "C_S04",
+        "location": "表1按常住地分"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "A056",
+        "name": "消费支出/收入",
+        "expression": "x0/x1*100",
+        "expected": 67.953062,
+        "unit": "%",
+        "meaning": "调查口径消费比",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "C038",
+        "name": "城乡收入均值比",
+        "expression": "x2/x3",
+        "expected": 2.310353,
+        "unit": "倍",
+        "meaning": "城乡两组之间的对比",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "消费比的补数不是国民核算部门储蓄率；城乡均值不描述组内分布。"
+  },
+  {
+    "id": "CAL03",
+    "title": "商品房成交均价",
+    "period": "2025全年",
+    "scope": "新建商品房销售额与面积，均为全国累计",
+    "inputs": [
+      {
+        "metric_id": "B021",
+        "name": "新建商品房销售额",
+        "value": 83937,
+        "unit": "亿元",
+        "source": "B_S03",
+        "location": "第二部分及表1、表3"
+      },
+      {
+        "metric_id": "B020",
+        "name": "新建商品房销售面积",
+        "value": 88101,
+        "unit": "万平方米",
+        "source": "B_S03",
+        "location": "第二部分及表1、表3"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "B024",
+        "name": "销售额/面积×单位换算",
+        "expression": "x0/x1*10000",
+        "expected": 9527.360643,
+        "unit": "元/平方米",
+        "meaning": "亿元/万平方米转元/平方米",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "包含成交结构变化；不是70城同质住房价格指数，也不是现金回款。"
+  },
+  {
+    "id": "CAL04",
+    "title": "签约短期外债占比",
+    "period": "2025年末",
+    "scope": "全口径外债；分子分母均人民币亿元",
+    "inputs": [
+      {
+        "metric_id": "B062",
+        "name": "签约短期外债",
+        "value": 92561,
+        "unit": "亿元人民币",
+        "source": "B_S17",
+        "location": "正文首两段"
+      },
+      {
+        "metric_id": "B061",
+        "name": "外债合计",
+        "value": 163689,
+        "unit": "亿元人民币",
+        "source": "B_S17",
+        "location": "正文首两段"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "B063",
+        "name": "按展示余额计算短期占比",
+        "expression": "x0/x1*100",
+        "expected": 56.546866,
+        "unit": "%",
+        "meaning": "透明派生值，原文另写整数56%",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "与原文56%存在未解释差异，不能说通常四舍五入即可复现；签约期限不是剩余偿付期限。"
+  },
+  {
+    "id": "CAL05",
+    "title": "五等份高低组收入均值比",
+    "period": "2025全年",
+    "scope": "住户按人均收入排序后分五等份家庭组",
+    "inputs": [
+      {
+        "metric_id": "C035",
+        "name": "高收入组人均收入",
+        "value": 103778,
+        "unit": "元",
+        "source": "C_S02",
+        "location": "第九部分及注64"
+      },
+      {
+        "metric_id": "C035",
+        "name": "低收入组人均收入",
+        "value": 10150,
+        "unit": "元",
+        "source": "C_S02",
+        "location": "第九部分及注64"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "C036",
+        "name": "高低组均值比",
+        "expression": "x0/x1",
+        "expected": 10.224433,
+        "unit": "倍",
+        "meaning": "家庭组均值之比",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "不是P90/P10、财富比或精确基尼；不能直接称最富/最穷各20%人口。"
+  },
+  {
+    "id": "CAL06",
+    "title": "部门收入、储蓄和实物转移",
+    "period": "2023年",
+    "scope": "资金流量非金融交易，同版当年价",
+    "inputs": [
+      {
+        "metric_id": "R004",
+        "name": "住户可支配总收入（来源）",
+        "value": 786890.6,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "八、住户来源"
+      },
+      {
+        "metric_id": "R004",
+        "name": "国内可支配总收入（来源）",
+        "value": 1285587.7,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "八、国内合计来源"
+      },
+      {
+        "metric_id": "R008",
+        "name": "住户总储蓄",
+        "value": 274770.1,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "十二、住户"
+      },
+      {
+        "metric_id": "R005",
+        "name": "住户实物社会转移（来源）",
+        "value": 90587.6,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "九、住户来源"
+      },
+      {
+        "metric_id": "R007",
+        "name": "住户实际最终消费",
+        "value": 602708.2,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "十一、住户"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "R013",
+        "name": "住户部门收入份额",
+        "expression": "x0/x1*100",
+        "expected": 61.208628,
+        "unit": "%",
+        "meaning": "住户/国内可支配总收入",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "R014",
+        "name": "住户部门总储蓄率",
+        "expression": "x2/x0*100",
+        "expected": 34.918463,
+        "unit": "%",
+        "meaning": "不是住户存款增量比",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "R016",
+        "name": "实物转移相对可支配收入",
+        "expression": "x3/x0*100",
+        "expected": 11.512095,
+        "unit": "%",
+        "meaning": "非现金社会转移的归属",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "账户核对",
+        "name": "收入减最终消费支出再减公布储蓄",
+        "expression": "x0-(x4-x3)-x2",
+        "expected": -0.1,
+        "unit": "亿元",
+        "meaning": "保留舍入残差",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "实际最终消费按最终受益归属，仍是当年价；2023结构值不能充当2026现状。"
+  },
+  {
+    "id": "CAL07",
+    "title": "国内劳动者报酬与增加值",
+    "period": "2023年",
+    "scope": "资金流量国内合计，劳动者报酬用运用侧",
+    "inputs": [
+      {
+        "metric_id": "R002",
+        "name": "国内劳动者报酬（运用）",
+        "value": 687230.1,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "三、国内运用"
+      },
+      {
+        "metric_id": "R001",
+        "name": "国内增加值（来源）",
+        "value": 1294271.7,
+        "unit": "亿元",
+        "source": "R_FOF",
+        "location": "二、国内来源"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "R015",
+        "name": "劳动者报酬占增加值",
+        "expression": "x0/x1*100",
+        "expected": 53.097827,
+        "unit": "%",
+        "meaning": "按官方劳动报酬处理口径",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "不能用住户来源687736.0代替国内生产端支付，也不自行分拆混合收入。"
+  },
+  {
+    "id": "CAL08",
+    "title": "银行拨备与资本缓冲",
+    "period": "2025年四季度末",
+    "scope": "监管商业银行合计；同份附件",
+    "inputs": [
+      {
+        "metric_id": "B039",
+        "name": "不良贷款余额",
+        "value": 34984.19,
+        "unit": "亿元",
+        "source": "B_S09",
+        "location": "原始附件E8"
+      },
+      {
+        "metric_id": "B042",
+        "name": "贷款损失准备",
+        "value": 71791.64,
+        "unit": "亿元",
+        "source": "B_S09",
+        "location": "E18"
+      },
+      {
+        "metric_id": "B044",
+        "name": "资本净额",
+        "value": 372708.9,
+        "unit": "亿元",
+        "source": "B_S09",
+        "location": "E37"
+      },
+      {
+        "metric_id": "B045",
+        "name": "风险加权资产合计",
+        "value": 2410795.21,
+        "unit": "亿元",
+        "source": "B_S09",
+        "location": "E41"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "B043复核",
+        "name": "拨备覆盖率",
+        "expression": "x1/x0*100",
+        "expected": 205.211668,
+        "unit": "%",
+        "meaning": "与官方两位精度205.21%比较",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "B046复核",
+        "name": "资本充足率",
+        "expression": "x2/x3*100",
+        "expected": 15.459998,
+        "unit": "%",
+        "meaning": "与官方两位精度15.46%比较",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "比例不代表每家银行安全；RWA不是会计总资产，监管样本和规则变更需保留。"
+  },
+  {
+    "id": "CAL09",
+    "title": "研发结构、人口抽样结构、行业利润实现",
+    "period": "各输入保留2024/2025期间",
+    "scope": "三个独立例子；不交叉相除",
+    "inputs": [
+      {
+        "metric_id": "C003",
+        "name": "2024年基础研究经费",
+        "value": 2500.9,
+        "unit": "亿元",
+        "source": "C_S01",
+        "location": "活动类型"
+      },
+      {
+        "metric_id": "C001",
+        "name": "2024年R&D经费",
+        "value": 36326.8,
+        "unit": "亿元",
+        "source": "C_S01",
+        "location": "第一部分"
+      },
+      {
+        "metric_id": "C025",
+        "name": "2024-11-01零时0—14岁样本人口",
+        "value": 228905,
+        "unit": "人",
+        "source": "C_S10",
+        "location": "表2-11"
+      },
+      {
+        "metric_id": "C025",
+        "name": "2024-11-01零时15—64岁样本人口",
+        "value": 991861,
+        "unit": "人",
+        "source": "C_S10",
+        "location": "表2-11"
+      },
+      {
+        "metric_id": "C025",
+        "name": "2024-11-01零时65岁及以上样本人口",
+        "value": 226671,
+        "unit": "人",
+        "source": "C_S10",
+        "location": "表2-11"
+      },
+      {
+        "metric_id": "B003",
+        "name": "2025年汽车制造利润",
+        "value": 4610.2,
+        "unit": "亿元",
+        "source": "B_S01",
+        "location": "表3"
+      },
+      {
+        "metric_id": "B001",
+        "name": "2025年汽车制造营业收入",
+        "value": 111795.6,
+        "unit": "亿元",
+        "source": "B_S01",
+        "location": "表3"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "研发结构复核",
+        "name": "基础研究占R&D",
+        "expression": "x0/x1*100",
+        "expected": 6.884449,
+        "unit": "%",
+        "meaning": "只描述投入配置",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "C026复核",
+        "name": "人口年龄总抚养比",
+        "expression": "(x2+x4)/x3*100",
+        "expected": 45.931436,
+        "unit": "%",
+        "meaning": "不是就业者负担比",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "B009复核",
+        "name": "汽车营业收入利润率",
+        "expression": "x5/x6*100",
+        "expected": 4.123776,
+        "unit": "%",
+        "meaning": "不是资本投资回报率",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "研发不等于回报；样本人数不是总体人口；不把不同年度证据串成因果。"
+  },
+  {
+    "id": "CAL10",
+    "title": "创新成果运用的累计收益观察",
+    "period": "2024 / 2025两次专利调查",
+    "scope": "企业发明专利产业化平均收益；各项专利自运用日至调查日累计",
+    "inputs": [
+      {
+        "metric_id": "C016",
+        "name": "2025调查平均累计收益",
+        "value": 872.0,
+        "unit": "万元/件",
+        "source": "C_S06",
+        "location": "印刷27/PDF34图27；定义印刷164/PDF171"
+      },
+      {
+        "metric_id": "C016",
+        "name": "2024调查平均累计收益",
+        "value": 869.5,
+        "unit": "万元/件",
+        "source": "C_S06",
+        "location": "印刷27/PDF34图27"
+      }
+    ],
+    "outputs": [
+      {
+        "metric_id": "专利收益差额",
+        "name": "两次调查的均值差",
+        "expression": "x0-x1",
+        "expected": 2.5,
+        "unit": "万元/件",
+        "meaning": "不是年度利润之差",
+        "tolerance": 1e-05
+      },
+      {
+        "metric_id": "专利收益比率",
+        "name": "累计收益均值的相对变化",
+        "expression": "(x0/x1-1)*100",
+        "expected": 0.287522,
+        "unit": "%",
+        "meaning": "对应原文舍入0.3%",
+        "tolerance": 1e-05
+      }
+    ],
+    "boundary": "不同样本与专利运用期限；不能年化，不作为研发投资回报率或因果净收益。"
+  }
+]
