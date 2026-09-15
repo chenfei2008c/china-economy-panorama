@@ -1,0 +1,2 @@
+# The generated HTML and matching manifest must remain byte-for-byte identical.
+dashboard/dist/** linguist-generated=true -whitespace

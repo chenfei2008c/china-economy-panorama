@@ -5,3 +5,5 @@ __pycache__/
 work/
 validation/previews/
 *.inspect.ndjson
+dashboard/.data-app-offline/
+dashboard/.data-app-cache/
